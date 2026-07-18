@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+.superpowers/
+
+# Local source art (committed copies live in assets/)
+/face.png
+/fullbody.png
+/upper.png
+
+# Internal planning docs (shared via the private nanodesu-docs repo)
+docs/superpowers/

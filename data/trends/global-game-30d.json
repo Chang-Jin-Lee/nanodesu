@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-07-18T15:01:35.790644+00:00",
+  "region": "global",
+  "category": "game",
+  "window_days": 30,
+  "entries": [
+    {
+      "title": "Zenless Zone Zero",
+      "mentions": 5,
+      "sources": [
+        "gematsu",
+        "reddit_gachagaming",
+        "rpgsite",
+        "steam-4162040"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Honkai: Star Rail",
+      "mentions": 1,
+      "sources": [
+        "reddit_gachagaming"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Umamusume: Pretty Derby",
+      "mentions": 1,
+      "sources": [
+        "animecorner"
+      ],
+      "delta": null
+    }
+  ]
+}

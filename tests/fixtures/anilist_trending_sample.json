@@ -1,0 +1,26 @@
+{
+  "data": {
+    "Page": {
+      "media": [
+        {
+          "title": {"romaji": "Tensei Shitara Slime Datta Ken 4th Season", "english": "That Time I Got Reincarnated as a Slime Season 4"},
+          "trending": 685,
+          "popularity": 116158,
+          "siteUrl": "https://anilist.co/anime/182205"
+        },
+        {
+          "title": {"romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season", "english": null},
+          "trending": 269,
+          "popularity": 25088,
+          "siteUrl": "https://anilist.co/anime/209983"
+        },
+        {
+          "title": {"romaji": "ONE PIECE", "english": "ONE PIECE"},
+          "trending": 189,
+          "popularity": 730391,
+          "siteUrl": "https://anilist.co/anime/21"
+        }
+      ]
+    }
+  }
+}

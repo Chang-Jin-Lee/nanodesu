@@ -1,0 +1,11 @@
+conventions:
+  - title: "コミックマーケット (Comiket)"
+    venue: "東京ビッグサイト"
+    start_date: null
+    end_date: null
+    url: "https://www.comiket.co.jp/"
+  - title: "ジャンプフェスタ 2026"
+    venue: "幕張メッセ"
+    start_date: "2025-12-20"
+    end_date: "2025-12-21"
+    url: "https://www.jumpfesta.com/"

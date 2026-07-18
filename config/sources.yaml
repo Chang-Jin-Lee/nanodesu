@@ -1,0 +1,76 @@
+sources:
+  - slug: ann
+    type: rss
+    region: global
+    url: "https://www.animenewsnetwork.com/all/rss.xml"
+  - slug: myanimelist
+    type: rss
+    region: global
+    url: "https://myanimelist.net/rss/news.xml"
+  - slug: reddit_anime
+    type: rss
+    region: global
+    url: "https://www.reddit.com/r/anime/.rss"
+  - slug: reddit_manga
+    type: rss
+    region: global
+    url: "https://www.reddit.com/r/manga/.rss"
+  - slug: reddit_gachagaming
+    type: rss
+    region: global
+    url: "https://www.reddit.com/r/gachagaming/.rss"
+    optional: true
+  - slug: gematsu
+    type: rss
+    region: global
+    url: "https://www.gematsu.com/feed"
+  - slug: animecorner
+    type: rss
+    region: global
+    url: "https://animecorner.me/feed/"
+  - slug: automatonwest
+    type: rss
+    region: global
+    url: "https://automaton-media.com/en/feed/"
+  - slug: noisypixel
+    type: rss
+    region: global
+    url: "https://noisypixel.net/feed/"
+    crawl_delay: 10
+  - slug: rpgsite
+    type: rss
+    region: global
+    url: "https://rpgsite.net/feed"
+  - slug: fourgamer
+    type: rss
+    region: japan
+    url: "https://www.4gamer.net/rss/index.xml"
+  - slug: gamewatch
+    type: rss
+    region: japan
+    url: "https://game.watch.impress.co.jp/data/rss/1.0/gmw/feed.rdf"
+  - slug: itmedia_nlab
+    type: rss
+    region: japan
+    url: "https://rss.itmedia.co.jp/rss/2.0/netlab.xml"
+  - slug: animeanime
+    type: rss
+    region: japan
+    url: "https://animeanime.jp/rss/index.rdf"
+    crawl_delay: 5
+
+steam_titles:
+  - appid: 4162040
+    title: "Zenless Zone Zero"
+  - appid: 3513350
+    title: "Wuthering Waves"
+
+anilist:
+  enabled: true
+
+magazines:
+  enabled: true
+
+events:
+  collabocafe:
+    enabled: true

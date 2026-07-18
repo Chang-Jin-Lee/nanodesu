@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-07-18T15:01:35.791644+00:00",
+  "region": "japan",
+  "category": "anime",
+  "window_days": 30,
+  "entries": [
+    {
+      "title": "ONE PIECE",
+      "mentions": 3,
+      "sources": [
+        "shonenjump"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Bleach",
+      "mentions": 1,
+      "sources": [
+        "shonenjump"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "GTO",
+      "mentions": 1,
+      "sources": [
+        "shonenmagazine"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-07-18T15:01:35.788129+00:00",
+  "region": "global",
+  "category": "anime",
+  "window_days": 7,
+  "entries": [
+    {
+      "title": "ONE PIECE",
+      "mentions": 4,
+      "sources": [
+        "animecorner",
+        "ann"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Bleach",
+      "mentions": 3,
+      "sources": [
+        "animecorner",
+        "reddit_gachagaming"
+      ],
+      "delta": null
+    },
+    {
+      "title": "The Frontier Lord Begins with Zero Subjects",
+      "mentions": 3,
+      "sources": [
+        "animecorner",
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Chainsaw Man",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "That Time I Got Reincarnated as a Slime",
+      "mentions": 2,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Chainsmoker Cat",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": null
+    },
+    {
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "I Became a Legend After My 10 Year-Long Last Stand",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "KAIJU GIRL CARAMELISE",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Please Excuse My Younger Brothers",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "The Elusive Samurai Season 2",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": null
+    }
+  ]
+}
