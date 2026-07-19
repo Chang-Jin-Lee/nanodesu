@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T15:01:35.793146+00:00",
+  "generated_at": "2026-07-19T05:32:04.738497+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 7,
@@ -10,7 +10,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
@@ -18,7 +18,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }

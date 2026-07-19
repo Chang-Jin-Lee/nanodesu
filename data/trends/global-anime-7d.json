@@ -1,26 +1,37 @@
 {
-  "generated_at": "2026-07-18T15:01:35.788129+00:00",
+  "generated_at": "2026-07-19T05:32:04.724600+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
-      "title": "ONE PIECE",
-      "mentions": 4,
+      "title": "Bleach",
+      "mentions": 5,
       "sources": [
         "animecorner",
-        "ann"
+        "gematsu",
+        "noisypixel",
+        "reddit_gachagaming"
+      ],
+      "delta": 1
+    },
+    {
+      "title": "Jaadugar: A Witch in Mongolia",
+      "mentions": 3,
+      "sources": [
+        "ann",
+        "reddit_anime"
       ],
       "delta": null
     },
     {
-      "title": "Bleach",
+      "title": "ONE PIECE",
       "mentions": 3,
       "sources": [
         "animecorner",
-        "reddit_gachagaming"
+        "ann"
       ],
-      "delta": null
+      "delta": -2
     },
     {
       "title": "The Frontier Lord Begins with Zero Subjects",
@@ -30,7 +41,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -1
     },
     {
       "title": "Chainsaw Man",
@@ -39,7 +50,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -1
     },
     {
       "title": "Jujutsu Kaisen",
@@ -48,11 +59,36 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -1
+    },
+    {
+      "title": "KAIJU GIRL CARAMELISE",
+      "mentions": 2,
+      "sources": [
+        "ann"
+      ],
+      "delta": 4
     },
     {
       "title": "That Time I Got Reincarnated as a Slime",
       "mentions": 2,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -2
+    },
+    {
+      "title": "The Elusive Samurai Season 2",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 5
+    },
+    {
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "mentions": 1,
       "sources": [
         "reddit_anime"
       ],
@@ -64,6 +100,14 @@
       "sources": [
         "ann"
       ],
+      "delta": -4
+    },
+    {
+      "title": "Daemons of the Shadow Realm",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
       "delta": null
     },
     {
@@ -72,10 +116,18 @@
       "sources": [
         "ann"
       ],
-      "delta": null
+      "delta": -5
     },
     {
       "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -5
+    },
+    {
+      "title": "Hanaori-san Still Wants to Fight in the Next Life",
       "mentions": 1,
       "sources": [
         "reddit_anime"
@@ -88,18 +140,18 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
-    },
-    {
-      "title": "KAIJU GIRL CARAMELISE",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": null
+      "delta": -6
     },
     {
       "title": "Please Excuse My Younger Brothers",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -5
+    },
+    {
+      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
       "mentions": 1,
       "sources": [
         "reddit_anime"
@@ -112,10 +164,10 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -6
     },
     {
-      "title": "The Elusive Samurai Season 2",
+      "title": "The Cat and the Dragon",
       "mentions": 1,
       "sources": [
         "reddit_anime"
@@ -127,6 +179,14 @@
       "mentions": 1,
       "sources": [
         "ann"
+      ],
+      "delta": -6
+    },
+    {
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
       ],
       "delta": null
     }
