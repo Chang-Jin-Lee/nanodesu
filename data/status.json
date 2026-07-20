@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-19T05:32:03.940643+00:00",
+  "generated_at": "2026-07-20T15:13:31.128572+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 124
+      "count": 116
     },
     "myanimelist": {
       "ok": true,
@@ -72,8 +72,8 @@
       "count": 10
     },
     "magazines": {
-      "ok": true,
-      "count": 868
+      "ok": false,
+      "error": "failed to fetch https://shonenjump.com/j/news/newsmore_rensai.html after 3 attempts: 404 Client Error: Not Found for url: https://www.shonenjump.com/j/news/newsmore_rensai.html"
     },
     "collabocafe": {
       "ok": true,

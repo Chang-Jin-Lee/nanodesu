@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T05:32:04.731721+00:00",
+  "generated_at": "2026-07-20T15:13:31.618484+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -23,7 +23,7 @@
         "gematsu",
         "noisypixel"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "Blue Archive",
@@ -31,7 +31,7 @@
       "sources": [
         "noisypixel"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
@@ -39,7 +39,7 @@
       "sources": [
         "reddit_gachagaming"
       ],
-      "delta": -2
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -47,7 +47,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": -2
+      "delta": 0
     }
   ]
 }

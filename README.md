@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-07-19 05:32 UTC
+Last updated: 2026-07-20 15:13 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-07-19 05:32 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 5 | ▲1 | animecorner, gematsu, noisypixel, reddit_gachagaming |
-| 2 | Jaadugar: A Witch in Mongolia | 3 | NEW | ann, reddit_anime |
-| 3 | ONE PIECE | 3 | ▼2 | animecorner, ann |
-| 4 | The Frontier Lord Begins with Zero Subjects | 3 | ▼1 | animecorner, ann, reddit_anime |
-| 5 | Chainsaw Man | 2 | ▼1 | ann, reddit_anime |
+| 1 | Bleach | 6 | - | animecorner, ann, gematsu, noisypixel, reddit_gachagaming |
+| 2 | ONE PIECE | 4 | ▲1 | animecorner, ann |
+| 3 | Jaadugar: A Witch in Mongolia | 3 | ▼1 | ann, reddit_anime |
+| 4 | The Frontier Lord Begins with Zero Subjects | 3 | - | animecorner, ann, reddit_anime |
+| 5 | Goodbye, Lara | 2 | NEW | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -41,10 +41,10 @@ Last updated: 2026-07-19 05:32 UTC
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
 | 1 | Zenless Zone Zero | 5 | - | gematsu, reddit_gachagaming, rpgsite, steam-4162040 |
-| 2 | Wuthering Waves | 3 | NEW | animecorner, gematsu, noisypixel |
-| 3 | Blue Archive | 1 | NEW | noisypixel |
-| 4 | Honkai: Star Rail | 1 | ▼2 | reddit_gachagaming |
-| 5 | Umamusume: Pretty Derby | 1 | ▼2 | animecorner |
+| 2 | Wuthering Waves | 3 | - | animecorner, gematsu, noisypixel |
+| 3 | Blue Archive | 1 | - | noisypixel |
+| 4 | Honkai: Star Rail | 1 | - | reddit_gachagaming |
+| 5 | Umamusume: Pretty Derby | 1 | - | animecorner |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -53,11 +53,11 @@ Last updated: 2026-07-19 05:32 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 3 | - | animeanime, shonenjump |
-| 2 | Jujutsu Kaisen | 2 | ▲2 | animeanime |
-| 3 | Demon Slayer: Kimetsu no Yaiba | 1 | ▼1 | animeanime |
-| 4 | GTO | 1 | ▼1 | shonenmagazine |
-| 5 | Haikyu!! | 1 | NEW | animeanime |
+| 1 | Jujutsu Kaisen | 3 | ▲1 | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
+| 3 | ONE PIECE | 2 | ▼2 | animeanime |
+| 4 | GTO | 1 | - | shonenmagazine |
+| 5 | Haikyu!! | 1 | - | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
