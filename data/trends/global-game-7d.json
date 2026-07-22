@@ -1,17 +1,16 @@
 {
-  "generated_at": "2026-07-20T15:13:31.615910+00:00",
+  "generated_at": "2026-07-22T15:05:59.323012+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
       "title": "Zenless Zone Zero",
-      "mentions": 5,
+      "mentions": 4,
       "sources": [
         "gematsu",
         "reddit_gachagaming",
-        "rpgsite",
-        "steam-4162040"
+        "rpgsite"
       ],
       "delta": 0
     },
@@ -27,7 +26,7 @@
     },
     {
       "title": "Blue Archive",
-      "mentions": 1,
+      "mentions": 2,
       "sources": [
         "noisypixel"
       ],

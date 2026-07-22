@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-07-20 15:13 UTC
+Last updated: 2026-07-22 15:05 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-07-20 15:13 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 6 | - | animecorner, ann, gematsu, noisypixel, reddit_gachagaming |
-| 2 | ONE PIECE | 4 | ▲1 | animecorner, ann |
-| 3 | Jaadugar: A Witch in Mongolia | 3 | ▼1 | ann, reddit_anime |
+| 1 | Jaadugar: A Witch in Mongolia | 5 | ▲2 | ann, reddit_anime |
+| 2 | ONE PIECE | 5 | - | animecorner, ann |
+| 3 | Bleach | 4 | ▼2 | ann, gematsu, noisypixel, reddit_gachagaming |
 | 4 | The Frontier Lord Begins with Zero Subjects | 3 | - | animecorner, ann, reddit_anime |
-| 5 | Goodbye, Lara | 2 | NEW | ann, reddit_anime |
+| 5 | The World Is Dancing | 3 | ▲5 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,9 +40,9 @@ Last updated: 2026-07-20 15:13 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 5 | - | gematsu, reddit_gachagaming, rpgsite, steam-4162040 |
+| 1 | Zenless Zone Zero | 4 | - | gematsu, reddit_gachagaming, rpgsite |
 | 2 | Wuthering Waves | 3 | - | animecorner, gematsu, noisypixel |
-| 3 | Blue Archive | 1 | - | noisypixel |
+| 3 | Blue Archive | 2 | - | noisypixel |
 | 4 | Honkai: Star Rail | 1 | - | reddit_gachagaming |
 | 5 | Umamusume: Pretty Derby | 1 | - | animecorner |
 
@@ -53,11 +53,11 @@ Last updated: 2026-07-20 15:13 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 3 | ▲1 | animeanime |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
-| 3 | ONE PIECE | 2 | ▼2 | animeanime |
-| 4 | GTO | 1 | - | shonenmagazine |
-| 5 | Haikyu!! | 1 | - | animeanime |
+| 1 | Jujutsu Kaisen | 4 | - | animeanime |
+| 2 | Bleach | 3 | NEW | animeanime, fourgamer |
+| 3 | Demon Slayer: Kimetsu no Yaiba | 3 | ▼1 | animeanime |
+| 4 | Haikyu!! | 2 | ▲1 | animeanime |
+| 5 | Naruto | 2 | NEW | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -66,7 +66,7 @@ Last updated: 2026-07-20 15:13 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 2 | - | fourgamer |
+| 1 | Zenless Zone Zero | 3 | - | fourgamer |
 | 2 | Honkai: Star Rail | 1 | - | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
