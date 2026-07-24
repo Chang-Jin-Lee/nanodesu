@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T15:05:59.326075+00:00",
+  "generated_at": "2026-07-24T14:57:22.479494+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -34,20 +34,21 @@
       "delta": 0
     },
     {
+      "title": "Umamusume: Pretty Derby",
+      "mentions": 2,
+      "sources": [
+        "animecorner",
+        "automatonwest"
+      ],
+      "delta": 1
+    },
+    {
       "title": "Honkai: Star Rail",
       "mentions": 1,
       "sources": [
         "reddit_gachagaming"
       ],
-      "delta": 0
-    },
-    {
-      "title": "Umamusume: Pretty Derby",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": 0
+      "delta": -1
     }
   ]
 }
