@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-07-24 14:57 UTC
+Last updated: 2026-07-27 15:43 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-07-24 14:57 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 6 | ▲1 | animecorner, ann |
-| 2 | Jaadugar: A Witch in Mongolia | 4 | ▼1 | ann, reddit_anime |
-| 3 | Bleach | 3 | - | ann, gematsu, noisypixel |
-| 4 | Chainsmoker Cat | 3 | ▲14 | ann, reddit_anime |
-| 5 | The World Is Dancing | 3 | - | ann, reddit_anime |
+| 1 | Bleach | 7 | ▲2 | animecorner, ann, reddit_gachagaming |
+| 2 | Chainsmoker Cat | 3 | ▲2 | ann, reddit_anime |
+| 3 | ONE PIECE | 3 | ▼2 | animecorner, ann |
+| 4 | Smoking Behind the Supermarket with You | 3 | ▲8 | ann, reddit_anime |
+| 5 | Sparks of Tomorrow | 3 | ▲8 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,9 +40,9 @@ Last updated: 2026-07-24 14:57 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Wuthering Waves | 3 | ▲1 | animecorner, gematsu, noisypixel |
-| 2 | Umamusume: Pretty Derby | 2 | ▲3 | animecorner, automatonwest |
-| 3 | Blue Archive | 1 | - | noisypixel |
+| 1 | Blue Archive | 3 | ▲2 | noisypixel, reddit_gachagaming |
+| 2 | Honkai: Star Rail | 1 | NEW | reddit_gachagaming |
+| 3 | Umamusume: Pretty Derby | 1 | ▼1 | automatonwest |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -51,11 +51,11 @@ Last updated: 2026-07-24 14:57 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Haikyu!! | 4 | ▲3 | animeanime |
-| 2 | Jujutsu Kaisen | 4 | ▼1 | animeanime |
-| 3 | ONE PIECE | 4 | ▲3 | animeanime |
-| 4 | Bleach | 3 | ▼2 | animeanime, fourgamer |
-| 5 | Chainsaw Man | 2 | ▲2 | animeanime |
+| 1 | Bleach | 4 | ▲3 | animeanime, fourgamer |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | ▲4 | animeanime |
+| 3 | Haikyu!! | 4 | ▼2 | animeanime |
+| 4 | ONE PIECE | 4 | ▼1 | animeanime |
+| 5 | Jujutsu Kaisen | 3 | ▼3 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -64,9 +64,9 @@ Last updated: 2026-07-24 14:57 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 2 | - | fourgamer |
-| 2 | Honkai: Star Rail | 1 | - | fourgamer |
-| 3 | Umamusume: Pretty Derby | 1 | NEW | gamewatch |
+| 1 | Umamusume: Pretty Derby | 4 | ▲2 | fourgamer, gamewatch |
+| 2 | Zenless Zone Zero | 2 | ▼1 | fourgamer |
+| 3 | Honkai: Star Rail | 1 | ▼1 | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

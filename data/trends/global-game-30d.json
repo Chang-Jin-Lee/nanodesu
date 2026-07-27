@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:57:22.479494+00:00",
+  "generated_at": "2026-07-27T15:43:39.791061+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -16,6 +16,15 @@
       "delta": 0
     },
     {
+      "title": "Blue Archive",
+      "mentions": 4,
+      "sources": [
+        "noisypixel",
+        "reddit_gachagaming"
+      ],
+      "delta": 1
+    },
+    {
       "title": "Wuthering Waves",
       "mentions": 3,
       "sources": [
@@ -23,15 +32,15 @@
         "gematsu",
         "noisypixel"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
-      "title": "Blue Archive",
+      "title": "Honkai: Star Rail",
       "mentions": 2,
       "sources": [
-        "noisypixel"
+        "reddit_gachagaming"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -39,14 +48,6 @@
       "sources": [
         "animecorner",
         "automatonwest"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Honkai: Star Rail",
-      "mentions": 1,
-      "sources": [
-        "reddit_gachagaming"
       ],
       "delta": -1
     }

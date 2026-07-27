@@ -1,24 +1,33 @@
 {
-  "generated_at": "2026-07-24T14:57:22.482944+00:00",
+  "generated_at": "2026-07-27T15:43:39.793979+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
+    {
+      "title": "Bleach",
+      "mentions": 4,
+      "sources": [
+        "animeanime",
+        "fourgamer"
+      ],
+      "delta": 3
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 4,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 4
+    },
     {
       "title": "Haikyu!!",
       "mentions": 4,
       "sources": [
         "animeanime"
       ],
-      "delta": 3
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 4,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -1
+      "delta": -2
     },
     {
       "title": "ONE PIECE",
@@ -26,16 +35,15 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 3
+      "delta": -1
     },
     {
-      "title": "Bleach",
+      "title": "Jujutsu Kaisen",
       "mentions": 3,
       "sources": [
-        "animeanime",
-        "fourgamer"
+        "animeanime"
       ],
-      "delta": -2
+      "delta": -3
     },
     {
       "title": "Chainsaw Man",
@@ -43,15 +51,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 2
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 2,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -3
+      "delta": -1
     },
     {
       "title": "Naruto",
@@ -59,7 +59,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -2
+      "delta": 0
     }
   ]
 }
