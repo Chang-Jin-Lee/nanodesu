@@ -10,6 +10,7 @@ from scripts.fetch.scrape_magazines import (
     SHONENMAGAZINE_URL,
     WEBSUNDAY_URL,
 )
+from scripts.fetch.common import FetchError
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -60,3 +61,45 @@ def test_fetch_all_magazines_fetches_all_three_sites(mock_fetch_url):
     mock_fetch_url.assert_has_calls(
         [call(SHONENJUMP_URL), call(SHONENMAGAZINE_URL), call(WEBSUNDAY_URL)]
     )
+
+
+def test_parse_shonenjump_html_marks_items_as_manga():
+    html = (FIXTURES / "shonenjump_sample.html").read_text(encoding="utf-8")
+    items = parse_shonenjump_html(html)
+    assert all(item["category"] == "manga" for item in items)
+
+
+def test_parse_shonenmagazine_html_marks_items_as_manga():
+    html = (FIXTURES / "shonenmagazine_sample.html").read_text(encoding="utf-8")
+    items = parse_shonenmagazine_html(html)
+    assert all(item["category"] == "manga" for item in items)
+
+
+def test_parse_websunday_html_marks_items_as_manga():
+    html = (FIXTURES / "websunday_sample.html").read_text(encoding="utf-8")
+    items = parse_websunday_html(html)
+    assert all(item["category"] == "manga" for item in items)
+
+
+@patch("scripts.fetch.scrape_magazines.fetch_url")
+def test_fetch_all_magazines_keeps_going_when_one_site_fails(mock_fetch_url):
+    mock_fetch_url.side_effect = [
+        FetchError("404 Client Error"),
+        (FIXTURES / "shonenmagazine_sample.html").read_text(encoding="utf-8"),
+        (FIXTURES / "websunday_sample.html").read_text(encoding="utf-8"),
+    ]
+    items = fetch_all_magazines()
+    sources = {item["source"] for item in items}
+    assert sources == {"shonenmagazine", "websunday"}
+    assert mock_fetch_url.call_count == 3
+
+
+@patch("scripts.fetch.scrape_magazines.fetch_url")
+def test_fetch_all_magazines_skips_a_site_whose_parser_raises(mock_fetch_url):
+    mock_fetch_url.side_effect = [
+        "<html>totally unexpected markup</html>",
+        (FIXTURES / "shonenmagazine_sample.html").read_text(encoding="utf-8"),
+        (FIXTURES / "websunday_sample.html").read_text(encoding="utf-8"),
+    ]
+    items = fetch_all_magazines()
+    assert {item["source"] for item in items} == {"shonenmagazine", "websunday"}

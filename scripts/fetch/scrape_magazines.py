@@ -38,6 +38,7 @@ def parse_shonenjump_html(html):
                 "published": published,
                 "source": "shonenjump",
                 "region": "japan",
+                "category": "manga",
                 "summary": "",
             }
         )
@@ -72,6 +73,7 @@ def parse_shonenmagazine_html(html):
                 "published": published,
                 "source": "shonenmagazine",
                 "region": "japan",
+                "category": "manga",
                 "summary": text_tag.get_text(strip=True) if text_tag else "",
             }
         )
@@ -100,6 +102,7 @@ def parse_websunday_html(html):
                 "published": published,
                 "source": "websunday",
                 "region": "japan",
+                "category": "manga",
                 "summary": "",
             }
         )
@@ -107,12 +110,21 @@ def parse_websunday_html(html):
 
 
 def fetch_all_magazines():
+    """Collect items from every magazine site that responds.
+
+    Each site is fetched independently: one site being down or having
+    changed its markup must not cost us the others. Sites that fail are
+    skipped silently — `fetch_all.py` records the source-level status, and
+    a partial result is more useful here than none.
+    """
     results = []
     for url, parser in (
         (SHONENJUMP_URL, parse_shonenjump_html),
         (SHONENMAGAZINE_URL, parse_shonenmagazine_html),
         (WEBSUNDAY_URL, parse_websunday_html),
     ):
-        html = fetch_url(url)
-        results.extend(parser(html))
+        try:
+            results.extend(parser(fetch_url(url)))
+        except Exception:
+            continue
     return results
