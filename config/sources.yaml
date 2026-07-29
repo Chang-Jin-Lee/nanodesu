@@ -15,6 +15,7 @@ sources:
     type: rss
     region: global
     url: "https://www.reddit.com/r/manga/.rss"
+    category: manga
   - slug: reddit_gachagaming
     type: rss
     region: global

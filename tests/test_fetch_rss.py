@@ -74,3 +74,25 @@ def test_fetch_rss_calls_fetch_url_and_parses(mock_fetch_url):
     mock_fetch_url.assert_called_once()
     args, kwargs = mock_fetch_url.call_args
     assert args[0] == "https://www.animenewsnetwork.com/all/rss.xml"
+
+
+def test_parse_feed_text_sets_category_when_provided():
+    items = parse_feed_text(SAMPLE_RSS_2_0, source="reddit_manga", region="global", category="manga")
+    assert all(item["category"] == "manga" for item in items)
+
+
+def test_parse_feed_text_category_is_none_when_unset():
+    items = parse_feed_text(SAMPLE_RSS_2_0, source="ann", region="global")
+    assert items[0]["category"] is None
+
+
+@patch("scripts.fetch.rss.fetch_url")
+def test_fetch_rss_passes_category_through_to_items(mock_fetch_url):
+    mock_fetch_url.return_value = SAMPLE_RSS_2_0
+    items = fetch_rss(
+        "https://www.reddit.com/r/manga/.rss",
+        source="reddit_manga",
+        region="global",
+        category="manga",
+    )
+    assert items[0]["category"] == "manga"

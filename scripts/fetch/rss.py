@@ -5,7 +5,7 @@ import feedparser
 from scripts.fetch.common import fetch_url
 
 
-def parse_feed_text(text, source, region):
+def parse_feed_text(text, source, region, category=None):
     parsed = feedparser.parse(text)
     items = []
     for entry in parsed.entries:
@@ -26,12 +26,13 @@ def parse_feed_text(text, source, region):
                 "published": published,
                 "source": source,
                 "region": region,
+                "category": category,
                 "summary": entry.get("summary", "").strip(),
             }
         )
     return items
 
 
-def fetch_rss(url, source, region, extra_headers=None):
+def fetch_rss(url, source, region, category=None, extra_headers=None):
     text = fetch_url(url, headers=extra_headers)
-    return parse_feed_text(text, source, region)
+    return parse_feed_text(text, source, region, category)

@@ -10,6 +10,7 @@ import scripts.fetch_all as fetch_all
 SAMPLE_CONFIG = {
     "sources": [
         {"slug": "ann", "type": "rss", "region": "global", "url": "https://example.com/ann.xml"},
+        {"slug": "reddit_manga", "type": "rss", "region": "global", "url": "https://example.com/manga.rss", "category": "manga"},
         {"slug": "flaky", "type": "rss", "region": "global", "url": "https://example.com/flaky.xml", "optional": True},
     ],
     "steam_titles": [{"appid": 999, "title": "Test Game"}],
@@ -36,7 +37,8 @@ def test_run_writes_raw_json_per_source_and_status(
     mock_fetch_rss, mock_anilist, mock_steam, mock_magazines, mock_events, tmp_repo
 ):
     mock_fetch_rss.side_effect = [
-        [{"title": "A", "url": "u", "published": "2026-07-18", "source": "ann", "region": "global", "summary": ""}],
+        [{"title": "A", "url": "u", "published": "2026-07-18", "source": "ann", "region": "global", "category": None, "summary": ""}],
+        [{"title": "M", "url": "u", "published": "2026-07-18", "source": "reddit_manga", "region": "global", "category": "manga", "summary": ""}],
         RuntimeError("network down"),
     ]
     mock_anilist.return_value = [{"title": "B", "trending_score": 1, "popularity": 1, "site_url": "u"}]
@@ -79,3 +81,24 @@ def test_run_never_raises_when_a_required_source_fails(
 
     status = fetch_all.run(config=SAMPLE_CONFIG, date_str="2026-07-18")
     assert status["ann"]["ok"] is False
+
+
+@patch("scripts.fetch_all.fetch_collabocafe_events")
+@patch("scripts.fetch_all.fetch_all_magazines")
+@patch("scripts.fetch_all.fetch_steam_news")
+@patch("scripts.fetch_all.fetch_trending_anime")
+@patch("scripts.fetch_all.fetch_rss")
+def test_run_passes_source_category_to_fetch_rss(
+    mock_fetch_rss, mock_anilist, mock_steam, mock_magazines, mock_events, tmp_repo
+):
+    mock_fetch_rss.return_value = []
+    mock_anilist.return_value = []
+    mock_steam.return_value = []
+    mock_magazines.return_value = []
+    mock_events.return_value = []
+
+    fetch_all.run(config=SAMPLE_CONFIG, date_str="2026-07-18")
+
+    categories = {c.kwargs["source"]: c.kwargs["category"] for c in mock_fetch_rss.call_args_list}
+    assert categories["reddit_manga"] == "manga"
+    assert categories["ann"] is None

@@ -10,7 +10,7 @@ def test_steam_news_url_builds_expected_feed_path():
 @patch("scripts.fetch.steam_news.fetch_rss")
 def test_fetch_steam_news_uses_appid_slug_and_tags_watch_title(mock_fetch_rss):
     mock_fetch_rss.return_value = [
-        {"title": "Patch 3.1 notes", "url": "https://x", "published": "2026-07-17", "source": "steam-4162040", "region": "global", "summary": ""}
+        {"title": "Patch 3.1 notes", "url": "https://x", "published": "2026-07-17", "source": "steam-4162040", "region": "global", "category": "game", "summary": ""}
     ]
     items = fetch_steam_news(4162040, "Zenless Zone Zero")
     assert len(items) == 1
@@ -19,4 +19,5 @@ def test_fetch_steam_news_uses_appid_slug_and_tags_watch_title(mock_fetch_rss):
         "https://store.steampowered.com/feeds/news/app/4162040/",
         source="steam-4162040",
         region="global",
+        category="game",
     )

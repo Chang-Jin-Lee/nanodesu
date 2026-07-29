@@ -43,7 +43,12 @@ def run(config=None, date_str=None):
     for source in config.get("sources", []):
         slug = source["slug"]
         try:
-            items = fetch_rss(source["url"], source=slug, region=source["region"])
+            items = fetch_rss(
+                source["url"],
+                source=slug,
+                region=source["region"],
+                category=source.get("category"),
+            )
             write_json(DATA_RAW_DIR / slug / f"{date_str}.json", items)
             status[slug] = {"ok": True, "count": len(items)}
         except Exception as exc:
