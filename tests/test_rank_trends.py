@@ -18,6 +18,7 @@ SAMPLE_MENTIONS = [
     {"watch_title": "Haikyu!!", "category": "anime", "region": "global", "date": "2026-07-17", "source": "ann", "item_url": "u4"},
     {"watch_title": "Genshin Impact", "category": "game", "region": "global", "date": "2026-07-17", "source": "gematsu", "item_url": "u6"},
     {"watch_title": "Umamusume: Pretty Derby", "category": "game", "region": "japan", "date": "2026-07-17", "source": "4gamer", "item_url": "u5"},
+    {"watch_title": "ONE PIECE", "category": "manga", "region": "japan", "date": "2026-07-17", "source": "shonenjump", "item_url": "u7"},
 ]
 
 
@@ -49,6 +50,12 @@ def test_rank_mentions_counts_and_sorts_descending_within_region_and_category():
 def test_rank_mentions_filters_by_category_within_region():
     ranked = rank_mentions(SAMPLE_MENTIONS, region="global", category="game")
     assert [e["title"] for e in ranked] == ["Genshin Impact"]
+
+
+def test_rank_mentions_filters_manga_category_within_region():
+    ranked = rank_mentions(SAMPLE_MENTIONS, region="japan", category="manga")
+    assert [e["title"] for e in ranked] == ["ONE PIECE"]
+    assert ranked[0]["sources"] == ["shonenjump"]
 
 
 def test_rank_mentions_treats_missing_category_as_anime():
@@ -109,7 +116,7 @@ def test_load_all_mentions_reads_every_mentions_file(tmp_path):
     assert len(all_mentions) == len(SAMPLE_MENTIONS)
 
 
-def test_run_writes_eight_trend_files(tmp_path):
+def test_run_writes_twelve_trend_files(tmp_path):
     mentions_dir = tmp_path / "mentions"
     mentions_dir.mkdir()
     (mentions_dir / "2026-07-18.json").write_text(json.dumps(SAMPLE_MENTIONS), encoding="utf-8")
@@ -120,15 +127,18 @@ def test_run_writes_eight_trend_files(tmp_path):
     expected = [
         f"{region}-{category}-{window}d.json"
         for region in ("global", "japan")
-        for category in ("anime", "game")
+        for category in ("anime", "manga", "game")
         for window in (7, 30)
     ]
+    assert len(expected) == 12
     for name in expected:
         assert (out_dir / name).exists(), f"missing {name}"
     global_anime_7d = json.loads((out_dir / "global-anime-7d.json").read_text(encoding="utf-8"))
     assert global_anime_7d["entries"][0]["title"] == "ONE PIECE"
     global_game_7d = json.loads((out_dir / "global-game-7d.json").read_text(encoding="utf-8"))
     assert [e["title"] for e in global_game_7d["entries"]] == ["Genshin Impact"]
+    japan_manga_7d = json.loads((out_dir / "japan-manga-7d.json").read_text(encoding="utf-8"))
+    assert [e["title"] for e in japan_manga_7d["entries"]] == ["ONE PIECE"]
 
 
 def test_load_previous_ranks_reads_existing_trend_file(tmp_path):

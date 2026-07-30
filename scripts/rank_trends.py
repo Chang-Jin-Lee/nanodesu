@@ -8,7 +8,7 @@ DATA_MENTIONS_DIR = REPO_ROOT / "data" / "mentions"
 DATA_TRENDS_DIR = REPO_ROOT / "data" / "trends"
 
 REGIONS = ("global", "japan")
-CATEGORIES = ("anime", "game")
+CATEGORIES = ("anime", "manga", "game")
 WINDOWS = (7, 30)
 
 
