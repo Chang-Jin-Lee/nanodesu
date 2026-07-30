@@ -3,7 +3,7 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-from scripts.fetch.common import fetch_url
+from scripts.fetch.common import FetchError, fetch_url
 
 SHONENJUMP_URL = "https://shonenjump.com/j/news/newsmore_rensai.html"
 SHONENMAGAZINE_URL = "https://shonenmagazine.com/info/"
@@ -114,17 +114,30 @@ def fetch_all_magazines():
 
     Each site is fetched independently: one site being down or having
     changed its markup must not cost us the others. Sites that fail are
-    skipped silently — `fetch_all.py` records the source-level status, and
-    a partial result is more useful here than none.
+    skipped, and `fetch_all.py` records the source-level status — a partial
+    result is more useful here than none.
+
+    If every site fails, though, that is a real outage and must not look
+    like a quiet, legitimate zero-item run: we raise so `fetch_all.py`
+    records `ok: False` with the underlying errors. A site that succeeds
+    and simply has no news today is not a failure and must not raise.
     """
-    results = []
-    for url, parser in (
+    sites = (
         (SHONENJUMP_URL, parse_shonenjump_html),
         (SHONENMAGAZINE_URL, parse_shonenmagazine_html),
         (WEBSUNDAY_URL, parse_websunday_html),
-    ):
+    )
+    results = []
+    failures = []
+    for url, parser in sites:
         try:
             results.extend(parser(fetch_url(url)))
-        except Exception:
-            continue
+        except Exception as exc:
+            failures.append(f"{url}: {exc!r}")
+
+    if len(failures) == len(sites):
+        raise FetchError(
+            f"all {len(sites)} magazine sites failed: " + "; ".join(failures)
+        )
+
     return results

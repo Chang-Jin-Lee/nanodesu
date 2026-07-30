@@ -1,6 +1,8 @@
 from pathlib import Path
 from unittest.mock import patch, call
 
+import pytest
+
 from scripts.fetch.scrape_magazines import (
     parse_shonenjump_html,
     parse_shonenmagazine_html,
@@ -95,7 +97,9 @@ def test_fetch_all_magazines_keeps_going_when_one_site_fails(mock_fetch_url):
 
 
 @patch("scripts.fetch.scrape_magazines.fetch_url")
-def test_fetch_all_magazines_skips_a_site_whose_parser_raises(mock_fetch_url):
+def test_fetch_all_magazines_does_not_suppress_others_when_one_site_returns_zero_items(
+    mock_fetch_url,
+):
     mock_fetch_url.side_effect = [
         "<html>totally unexpected markup</html>",
         (FIXTURES / "shonenmagazine_sample.html").read_text(encoding="utf-8"),
@@ -103,3 +107,48 @@ def test_fetch_all_magazines_skips_a_site_whose_parser_raises(mock_fetch_url):
     ]
     items = fetch_all_magazines()
     assert {item["source"] for item in items} == {"shonenmagazine", "websunday"}
+
+
+@patch("scripts.fetch.scrape_magazines.parse_shonenjump_html")
+@patch("scripts.fetch.scrape_magazines.fetch_url")
+def test_fetch_all_magazines_skips_a_site_whose_parser_raises(
+    mock_fetch_url, mock_parse_shonenjump_html
+):
+    mock_fetch_url.side_effect = [
+        (FIXTURES / "shonenjump_sample.html").read_text(encoding="utf-8"),
+        (FIXTURES / "shonenmagazine_sample.html").read_text(encoding="utf-8"),
+        (FIXTURES / "websunday_sample.html").read_text(encoding="utf-8"),
+    ]
+    mock_parse_shonenjump_html.side_effect = ValueError("unexpected markup shape")
+    items = fetch_all_magazines()
+    assert {item["source"] for item in items} == {"shonenmagazine", "websunday"}
+
+
+@patch("scripts.fetch.scrape_magazines.fetch_url")
+def test_fetch_all_magazines_returns_survivors_when_two_sites_fail(mock_fetch_url):
+    mock_fetch_url.side_effect = [
+        FetchError("404 Client Error"),
+        FetchError("500 Server Error"),
+        (FIXTURES / "websunday_sample.html").read_text(encoding="utf-8"),
+    ]
+    items = fetch_all_magazines()
+    assert {item["source"] for item in items} == {"websunday"}
+
+
+@patch("scripts.fetch.scrape_magazines.fetch_url")
+def test_fetch_all_magazines_raises_when_all_sites_fail(mock_fetch_url):
+    mock_fetch_url.side_effect = [
+        FetchError("404 Client Error"),
+        FetchError("500 Server Error"),
+        FetchError("503 Server Error"),
+    ]
+    with pytest.raises(FetchError):
+        fetch_all_magazines()
+
+
+@patch("scripts.fetch.scrape_magazines.fetch_url")
+def test_fetch_all_magazines_all_succeed_with_zero_items_is_not_a_failure(mock_fetch_url):
+    mock_fetch_url.return_value = "<html>no news here</html>"
+    items = fetch_all_magazines()
+    assert items == []
+    assert mock_fetch_url.call_count == 3
