@@ -5,7 +5,7 @@ from unittest.mock import patch, MagicMock
 
 import requests
 
-from scripts.fetch.anilist import parse_anilist_response, fetch_trending_anime, ANILIST_API_URL
+from scripts.fetch.anilist import parse_anilist_response, fetch_trending, ANILIST_API_URL
 from scripts.fetch.common import DEFAULT_USER_AGENT
 
 FIXTURE_PATH = Path(__file__).parent / "fixtures" / "anilist_trending_sample.json"
@@ -44,14 +44,14 @@ def test_parse_anilist_response_handles_null_media():
 
 
 @patch("scripts.fetch.anilist.requests.post")
-def test_fetch_trending_anime_posts_graphql_query(mock_post):
+def test_fetch_trending_posts_graphql_query(mock_post):
     payload = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
     mock_response = MagicMock()
     mock_response.json.return_value = payload
     mock_response.raise_for_status = MagicMock()
     mock_post.return_value = mock_response
 
-    entries = fetch_trending_anime(per_page=3)
+    entries = fetch_trending(per_page=3)
 
     assert len(entries) == 3
     args, kwargs = mock_post.call_args
@@ -60,21 +60,21 @@ def test_fetch_trending_anime_posts_graphql_query(mock_post):
 
 
 @patch("scripts.fetch.anilist.requests.post")
-def test_fetch_trending_anime_sends_default_user_agent(mock_post):
+def test_fetch_trending_sends_default_user_agent(mock_post):
     payload = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
     mock_response = MagicMock()
     mock_response.json.return_value = payload
     mock_response.raise_for_status = MagicMock()
     mock_post.return_value = mock_response
 
-    fetch_trending_anime(per_page=3)
+    fetch_trending(per_page=3)
 
     _, kwargs = mock_post.call_args
     assert kwargs["headers"]["User-Agent"] == DEFAULT_USER_AGENT
 
 
 @patch("scripts.fetch.anilist.requests.post")
-def test_fetch_trending_anime_retries_then_succeeds(mock_post):
+def test_fetch_trending_retries_then_succeeds(mock_post):
     payload = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
     mock_response = MagicMock()
     mock_response.json.return_value = payload
@@ -82,7 +82,62 @@ def test_fetch_trending_anime_retries_then_succeeds(mock_post):
 
     mock_post.side_effect = [requests.ConnectionError("boom"), mock_response]
 
-    entries = fetch_trending_anime(per_page=3, backoff_seconds=0)
+    entries = fetch_trending(per_page=3, backoff_seconds=0)
 
     assert len(entries) == 3
     assert mock_post.call_count == 2
+
+
+def test_parse_anilist_response_extracts_native_and_romaji_titles():
+    payload = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
+    entries = parse_anilist_response(payload)
+    assert entries[0]["native_title"] == "転生したらスライムだった件 第4期"
+    assert entries[0]["romaji_title"] == "Tensei Shitara Slime Datta Ken 4th Season"
+
+
+def test_parse_anilist_response_uses_empty_string_for_missing_native():
+    payload = {
+        "data": {
+            "Page": {
+                "media": [
+                    {
+                        "title": {"romaji": "Some Show", "english": "Some Show", "native": None},
+                        "trending": 1,
+                        "popularity": 2,
+                        "siteUrl": "https://anilist.co/anime/1",
+                    }
+                ]
+            }
+        }
+    }
+    entries = parse_anilist_response(payload)
+    assert entries[0]["native_title"] == ""
+    assert entries[0]["romaji_title"] == "Some Show"
+
+
+@patch("scripts.fetch.anilist.requests.post")
+def test_fetch_trending_sends_media_type_variable(mock_post):
+    payload = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
+    mock_response = MagicMock()
+    mock_response.json.return_value = payload
+    mock_response.raise_for_status = MagicMock()
+    mock_post.return_value = mock_response
+
+    fetch_trending(media_type="MANGA", per_page=3)
+
+    _, kwargs = mock_post.call_args
+    assert kwargs["json"]["variables"]["type"] == "MANGA"
+
+
+@patch("scripts.fetch.anilist.requests.post")
+def test_fetch_trending_defaults_to_anime_media_type(mock_post):
+    payload = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
+    mock_response = MagicMock()
+    mock_response.json.return_value = payload
+    mock_response.raise_for_status = MagicMock()
+    mock_post.return_value = mock_response
+
+    fetch_trending(per_page=3)
+
+    _, kwargs = mock_post.call_args
+    assert kwargs["json"]["variables"]["type"] == "ANIME"

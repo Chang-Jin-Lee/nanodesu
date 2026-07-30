@@ -8,7 +8,7 @@ from pathlib import Path
 import yaml
 
 from scripts.fetch.rss import fetch_rss
-from scripts.fetch.anilist import fetch_trending_anime
+from scripts.fetch.anilist import fetch_trending
 from scripts.fetch.steam_news import fetch_steam_news
 from scripts.fetch.scrape_magazines import fetch_all_magazines
 from scripts.fetch.scrape_collabocafe import fetch_collabocafe_events
@@ -58,11 +58,18 @@ def run(config=None, date_str=None):
 
     if config.get("anilist", {}).get("enabled"):
         try:
-            entries = fetch_trending_anime()
+            entries = fetch_trending(media_type="ANIME")
             write_json(DATA_RAW_DIR / "anilist" / f"{date_str}.json", entries)
             status["anilist"] = {"ok": True, "count": len(entries)}
         except Exception as exc:
             status["anilist"] = {"ok": False, "error": str(exc)}
+
+        try:
+            entries = fetch_trending(media_type="MANGA")
+            write_json(DATA_RAW_DIR / "anilist-manga" / f"{date_str}.json", entries)
+            status["anilist-manga"] = {"ok": True, "count": len(entries)}
+        except Exception as exc:
+            status["anilist-manga"] = {"ok": False, "error": str(exc)}
 
     for steam_title in config.get("steam_titles", []):
         slug = f"steam-{steam_title['appid']}"

@@ -31,7 +31,7 @@ def tmp_repo(tmp_path, monkeypatch):
 @patch("scripts.fetch_all.fetch_collabocafe_events")
 @patch("scripts.fetch_all.fetch_all_magazines")
 @patch("scripts.fetch_all.fetch_steam_news")
-@patch("scripts.fetch_all.fetch_trending_anime")
+@patch("scripts.fetch_all.fetch_trending")
 @patch("scripts.fetch_all.fetch_rss")
 def test_run_writes_raw_json_per_source_and_status(
     mock_fetch_rss, mock_anilist, mock_steam, mock_magazines, mock_events, tmp_repo
@@ -41,7 +41,7 @@ def test_run_writes_raw_json_per_source_and_status(
         [{"title": "M", "url": "u", "published": "2026-07-18", "source": "reddit_manga", "region": "global", "category": "manga", "summary": ""}],
         RuntimeError("network down"),
     ]
-    mock_anilist.return_value = [{"title": "B", "trending_score": 1, "popularity": 1, "site_url": "u"}]
+    mock_anilist.return_value = [{"title": "B", "native_title": "ビー", "romaji_title": "B", "trending_score": 1, "popularity": 1, "site_url": "u"}]
     mock_steam.return_value = [{"title": "C", "url": "u", "published": "2026-07-18", "source": "steam-999", "region": "global", "summary": ""}]
     mock_magazines.return_value = [{"title": "D", "url": "u", "published": "2026-07-18", "source": "shonenjump", "region": "japan", "summary": ""}]
     mock_events.return_value = [{"title": "E", "url": "u", "venue": "", "start_date": None, "end_date": None, "category": "", "description": "", "source_site": "collabocafe"}]
@@ -64,11 +64,15 @@ def test_run_writes_raw_json_per_source_and_status(
     status_file = tmp_repo / "data" / "status.json"
     assert status_file.exists()
 
+    assert status["anilist-manga"]["ok"] is True
+    assert (tmp_repo / "data" / "raw" / "anilist" / "2026-07-18.json").exists()
+    assert (tmp_repo / "data" / "raw" / "anilist-manga" / "2026-07-18.json").exists()
+
 
 @patch("scripts.fetch_all.fetch_collabocafe_events")
 @patch("scripts.fetch_all.fetch_all_magazines")
 @patch("scripts.fetch_all.fetch_steam_news")
-@patch("scripts.fetch_all.fetch_trending_anime")
+@patch("scripts.fetch_all.fetch_trending")
 @patch("scripts.fetch_all.fetch_rss")
 def test_run_never_raises_when_a_required_source_fails(
     mock_fetch_rss, mock_anilist, mock_steam, mock_magazines, mock_events, tmp_repo
@@ -86,7 +90,7 @@ def test_run_never_raises_when_a_required_source_fails(
 @patch("scripts.fetch_all.fetch_collabocafe_events")
 @patch("scripts.fetch_all.fetch_all_magazines")
 @patch("scripts.fetch_all.fetch_steam_news")
-@patch("scripts.fetch_all.fetch_trending_anime")
+@patch("scripts.fetch_all.fetch_trending")
 @patch("scripts.fetch_all.fetch_rss")
 def test_run_passes_source_category_to_fetch_rss(
     mock_fetch_rss, mock_anilist, mock_steam, mock_magazines, mock_events, tmp_repo
@@ -102,3 +106,48 @@ def test_run_passes_source_category_to_fetch_rss(
     categories = {c.kwargs["source"]: c.kwargs["category"] for c in mock_fetch_rss.call_args_list}
     assert categories["reddit_manga"] == "manga"
     assert categories["ann"] is None
+
+
+@patch("scripts.fetch_all.fetch_collabocafe_events")
+@patch("scripts.fetch_all.fetch_all_magazines")
+@patch("scripts.fetch_all.fetch_steam_news")
+@patch("scripts.fetch_all.fetch_trending")
+@patch("scripts.fetch_all.fetch_rss")
+def test_run_requests_both_anime_and_manga_from_anilist(
+    mock_fetch_rss, mock_anilist, mock_steam, mock_magazines, mock_events, tmp_repo
+):
+    mock_fetch_rss.return_value = []
+    mock_anilist.return_value = []
+    mock_steam.return_value = []
+    mock_magazines.return_value = []
+    mock_events.return_value = []
+
+    fetch_all.run(config=SAMPLE_CONFIG, date_str="2026-07-18")
+
+    requested = [c.kwargs["media_type"] for c in mock_anilist.call_args_list]
+    assert requested == ["ANIME", "MANGA"]
+
+
+@patch("scripts.fetch_all.fetch_collabocafe_events")
+@patch("scripts.fetch_all.fetch_all_magazines")
+@patch("scripts.fetch_all.fetch_steam_news")
+@patch("scripts.fetch_all.fetch_trending")
+@patch("scripts.fetch_all.fetch_rss")
+def test_run_records_manga_failure_without_losing_anime_results(
+    mock_fetch_rss, mock_anilist, mock_steam, mock_magazines, mock_events, tmp_repo
+):
+    mock_fetch_rss.return_value = []
+    mock_anilist.side_effect = [
+        [{"title": "B", "native_title": "ビー", "romaji_title": "B", "trending_score": 1, "popularity": 1, "site_url": "u"}],
+        RuntimeError("manga endpoint down"),
+    ]
+    mock_steam.return_value = []
+    mock_magazines.return_value = []
+    mock_events.return_value = []
+
+    status = fetch_all.run(config=SAMPLE_CONFIG, date_str="2026-07-18")
+
+    assert status["anilist"]["ok"] is True
+    assert status["anilist"]["count"] == 1
+    assert status["anilist-manga"]["ok"] is False
+    assert (tmp_repo / "data" / "raw" / "anilist" / "2026-07-18.json").exists()
