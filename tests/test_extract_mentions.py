@@ -95,6 +95,41 @@ def test_extract_mentions_from_items_builds_mention_records():
     assert mentions[1]["category"] == "game"
 
 
+def test_extract_mentions_from_items_uses_item_category_when_present():
+    items = [
+        {"title": "ONE PIECE 最新話", "url": "https://x/1", "published": "2026-07-17", "source": "shonenjump", "region": "japan", "category": "manga"},
+    ]
+    mentions = extract_mentions_from_items(items, SAMPLE_WATCHLIST)
+    assert mentions[0]["category"] == "manga"
+
+
+def test_extract_mentions_from_items_falls_back_to_title_category_when_item_has_none():
+    items = [
+        {"title": "ONE PIECE 連載29周年", "url": "https://x/1", "published": "2026-07-17", "source": "ann", "region": "global", "category": None},
+        {"title": "Genshin Impact 6.0 update", "url": "https://x/2", "published": "2026-07-17", "source": "ann", "region": "global"},
+    ]
+    mentions = extract_mentions_from_items(items, SAMPLE_WATCHLIST)
+    assert mentions[0]["category"] == "anime"
+    assert mentions[1]["category"] == "game"
+
+
+def test_collect_items_for_date_skips_anilist_manga_source(tmp_path):
+    raw_dir = tmp_path / "raw"
+    (raw_dir / "ann").mkdir(parents=True)
+    (raw_dir / "anilist-manga").mkdir(parents=True)
+    (raw_dir / "ann" / "2026-07-18.json").write_text(
+        json.dumps([{"title": "A", "url": "u1", "published": "2026-07-18", "source": "ann", "region": "global"}]),
+        encoding="utf-8",
+    )
+    (raw_dir / "anilist-manga" / "2026-07-18.json").write_text(
+        json.dumps([{"title": "ONE PIECE", "native_title": "ワンピース", "romaji_title": "ONE PIECE", "trending_score": 99, "popularity": 1000, "site_url": "https://anilist/1"}]),
+        encoding="utf-8",
+    )
+    items = collect_items_for_date("2026-07-18", raw_dir=raw_dir)
+    titles = {item["title"] for item in items}
+    assert titles == {"A"}
+
+
 def test_collect_items_for_date_reads_all_source_files_for_that_date(tmp_path):
     raw_dir = tmp_path / "raw"
     (raw_dir / "ann").mkdir(parents=True)

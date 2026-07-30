@@ -56,7 +56,7 @@ def extract_mentions_from_items(items, watchlist):
             mentions.append(
                 {
                     "watch_title": canonical,
-                    "category": categories[canonical],
+                    "category": item.get("category") or categories[canonical],
                     "region": item.get("region", ""),
                     "date": item.get("published", ""),
                     "source": item.get("source", ""),
@@ -73,8 +73,9 @@ def collect_items_for_date(date_str, raw_dir=DATA_RAW_DIR):
     for source_dir in sorted(raw_dir.iterdir()):
         if not source_dir.is_dir():
             continue
-        if source_dir.name == "anilist":
-            # AniList raw items have a different shape ({"title",
+        if source_dir.name.startswith("anilist"):
+            # AniList raw items (both `anilist` and `anilist-manga`) have a
+            # different shape ({"title", "native_title", "romaji_title",
             # "trending_score", "popularity", "site_url"}) with no region,
             # published date, or url field, so they don't belong in the
             # mention-scanning pipeline.
