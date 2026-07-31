@@ -29,7 +29,7 @@ def format_delta(delta):
     return "-"
 
 
-CATEGORIES = (("anime", "Anime"), ("game", "Game"))
+CATEGORIES = (("anime", "Anime"), ("manga", "Manga"), ("game", "Game"))
 
 
 def render_buzz_sections(region):
@@ -91,8 +91,8 @@ def replace_marker_section(readme_text, name, new_body):
     return readme_text + "\n\n" + replacement + "\n"
 
 
-def latest_anilist_entries():
-    anilist_dir = DATA_RAW_DIR / "anilist"
+def latest_anilist_entries(subdir="anilist"):
+    anilist_dir = DATA_RAW_DIR / subdir
     if not anilist_dir.exists():
         return []
     files = sorted(anilist_dir.glob("*.json"))
@@ -102,10 +102,12 @@ def latest_anilist_entries():
 
 
 def render_global_report():
-    anilist_entries = latest_anilist_entries()
+    anime_entries = latest_anilist_entries("anilist")
+    manga_entries = latest_anilist_entries("anilist-manga")
 
     content = "# Global Trend Report\n\n"
-    content += "## AniList Trending Anime\n\n" + render_anilist_table(anilist_entries) + "\n"
+    content += "## AniList Trending Anime\n\n" + render_anilist_table(anime_entries) + "\n"
+    content += "## AniList Trending Manga\n\n" + render_anilist_table(manga_entries) + "\n"
     content += render_buzz_sections("global")
 
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)

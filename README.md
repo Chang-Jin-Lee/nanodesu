@@ -17,7 +17,7 @@ Last updated: 2026-07-27 15:43 UTC
 
 ## 📖 What is this?
 
-`nanodesu` is a repository that tracks anime & game ("subculture") trends automatically. Every Mon/Wed/Fri, GitHub Actions collects anime/game news, AniList trending data, and Japanese magazine & collab-cafe announcements, then refreshes **mention-based trending rankings (last 7 / 30 days)** and a **Japan collab-event calendar** — no manual work involved.
+`nanodesu` is a repository that tracks anime & game ("subculture") trends automatically. Every Mon/Wed/Fri, GitHub Actions collects anime, manga & game news, AniList trending data, and Japanese magazine & collab-cafe announcements, then refreshes **mention-based trending rankings (last 7 / 30 days)** and a **Japan collab-event calendar** — no manual work involved.
 
 - 🌐 [Full Global report](reports/global.md)
 - 🎌 [Full Japan report](reports/japan.md)
@@ -34,6 +34,12 @@ Last updated: 2026-07-27 15:43 UTC
 | 5 | Sparks of Tomorrow | 3 | ▲8 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
+
+## 🌐 Global — Manga Buzz Top 5 (Last 7 Days)
+
+<!--START_SECTION:global-manga-top5-->
+_No data yet._
+<!--END_SECTION:global-manga-top5-->
 
 ## 🌐 Global — Game Buzz Top 5 (Last 7 Days)
 
@@ -58,6 +64,12 @@ Last updated: 2026-07-27 15:43 UTC
 | 5 | Jujutsu Kaisen | 3 | ▼3 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
+
+## 🎌 Japan — Manga Buzz Top 5 (Last 7 Days)
+
+<!--START_SECTION:japan-manga-top5-->
+_No data yet._
+<!--END_SECTION:japan-manga-top5-->
 
 ## 🎌 Japan — Game Buzz Top 5 (Last 7 Days)
 
