@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T15:20:33.960962+00:00",
+  "generated_at": "2026-07-31T15:21:20.194933+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -14,12 +14,13 @@
       "delta": 0
     },
     {
-      "title": "Honkai: Star Rail",
-      "mentions": 1,
+      "title": "Genshin Impact",
+      "mentions": 2,
       "sources": [
-        "reddit_gachagaming"
+        "gematsu",
+        "noisypixel"
       ],
-      "delta": 0
+      "delta": null
     },
     {
       "title": "Zenless Zone Zero",
@@ -27,7 +28,7 @@
       "sources": [
         "steam-4162040"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }

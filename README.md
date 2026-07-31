@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-07-29 15:20 UTC
+Last updated: 2026-07-31 15:21 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-07-29 15:20 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 8 | - | animecorner, ann, reddit_gachagaming |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 3 | NEW | animecorner, reddit_anime |
-| 3 | Smoking Behind the Supermarket with You | 3 | ▲1 | ann, reddit_anime |
-| 4 | Sparks of Tomorrow | 3 | ▲1 | animecorner, ann, reddit_anime |
-| 5 | Though I Am an Inept Villainess | 3 | ▲7 | ann |
+| 1 | Bleach | 8 | - | animecorner, ann |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 3 | - | animecorner, reddit_anime |
+| 3 | Sparks of Tomorrow | 3 | ▲1 | animecorner, ann, reddit_anime |
+| 4 | THE GHOST IN THE SHELL | 3 | ▲8 | reddit_anime |
+| 5 | Chainsmoker Cat | 2 | ▲1 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -41,8 +41,8 @@ Last updated: 2026-07-29 15:20 UTC
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
 | 1 | Blue Archive | 2 | - | automatonwest, reddit_gachagaming |
-| 2 | Honkai: Star Rail | 1 | - | reddit_gachagaming |
-| 3 | Zenless Zone Zero | 1 | NEW | steam-4162040 |
+| 2 | Genshin Impact | 2 | NEW | gematsu, noisypixel |
+| 3 | Zenless Zone Zero | 1 | - | steam-4162040 |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -51,11 +51,11 @@ Last updated: 2026-07-29 15:20 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Demon Slayer: Kimetsu no Yaiba | 4 | ▲1 | animeanime |
-| 2 | Haikyu!! | 4 | ▲1 | animeanime |
-| 3 | Jujutsu Kaisen | 4 | ▲2 | animeanime |
-| 4 | ONE PIECE | 4 | - | animeanime |
-| 5 | Bleach | 1 | ▼4 | animeanime |
+| 1 | Jujutsu Kaisen | 5 | ▲2 | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | ▼1 | animeanime |
+| 3 | Haikyu!! | 3 | ▼1 | animeanime |
+| 4 | ONE PIECE | 3 | - | animeanime |
+| 5 | Bleach | 1 | - | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -64,10 +64,10 @@ Last updated: 2026-07-29 15:20 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 5 | - | fourgamer, gamewatch |
-| 2 | Genshin Impact | 1 | NEW | fourgamer |
+| 1 | Umamusume: Pretty Derby | 8 | - | animeanime, fourgamer, gamewatch |
+| 2 | Genshin Impact | 1 | - | fourgamer |
 | 3 | Honkai: Star Rail | 1 | - | fourgamer |
-| 4 | Zenless Zone Zero | 1 | ▼2 | fourgamer |
+| 4 | Zenless Zone Zero | 1 | - | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T15:20:33.972131+00:00",
+  "generated_at": "2026-07-31T15:21:20.203776+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "ONE PIECE",
-      "mentions": 9,
+      "mentions": 10,
       "sources": [
         "animeanime",
         "shonenjump"
@@ -15,11 +15,11 @@
     },
     {
       "title": "Jujutsu Kaisen",
-      "mentions": 8,
+      "mentions": 9,
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -27,11 +27,11 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Haikyu!!",
-      "mentions": 6,
+      "mentions": 7,
       "sources": [
         "animeanime"
       ],
@@ -52,7 +52,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Chainsaw Man",
@@ -60,7 +60,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "GTO",
@@ -76,7 +76,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "THE GHOST IN THE SHELL",
@@ -84,7 +84,7 @@
       "sources": [
         "gamewatch"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }
