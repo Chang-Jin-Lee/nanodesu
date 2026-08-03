@@ -1,26 +1,27 @@
 {
-  "generated_at": "2026-07-31T15:21:20.194933+00:00",
+  "generated_at": "2026-08-03T15:45:00.315121+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
-      "title": "Blue Archive",
-      "mentions": 2,
+      "title": "Genshin Impact",
+      "mentions": 4,
       "sources": [
-        "automatonwest",
-        "reddit_gachagaming"
+        "animecorner",
+        "gematsu",
+        "noisypixel",
+        "rpgsite"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
-      "title": "Genshin Impact",
-      "mentions": 2,
+      "title": "Blue Archive",
+      "mentions": 1,
       "sources": [
-        "gematsu",
-        "noisypixel"
+        "automatonwest"
       ],
-      "delta": null
+      "delta": -1
     },
     {
       "title": "Zenless Zone Zero",

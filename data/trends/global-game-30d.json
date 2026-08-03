@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:21:20.197789+00:00",
+  "generated_at": "2026-08-03T15:45:00.319792+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -26,6 +26,17 @@
       "delta": 0
     },
     {
+      "title": "Genshin Impact",
+      "mentions": 4,
+      "sources": [
+        "animecorner",
+        "gematsu",
+        "noisypixel",
+        "rpgsite"
+      ],
+      "delta": 1
+    },
+    {
       "title": "Wuthering Waves",
       "mentions": 3,
       "sources": [
@@ -33,16 +44,7 @@
         "gematsu",
         "noisypixel"
       ],
-      "delta": 0
-    },
-    {
-      "title": "Genshin Impact",
-      "mentions": 2,
-      "sources": [
-        "gematsu",
-        "noisypixel"
-      ],
-      "delta": null
+      "delta": -1
     },
     {
       "title": "Honkai: Star Rail",
@@ -50,7 +52,7 @@
       "sources": [
         "reddit_gachagaming"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -59,7 +61,7 @@
         "animecorner",
         "automatonwest"
       ],
-      "delta": -1
+      "delta": 0
     }
   ]
 }

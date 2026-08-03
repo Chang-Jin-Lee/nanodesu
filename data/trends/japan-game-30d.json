@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:21:20.209549+00:00",
+  "generated_at": "2026-08-03T15:45:00.338629+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
@@ -32,7 +32,7 @@
     },
     {
       "title": "Genshin Impact",
-      "mentions": 1,
+      "mentions": 2,
       "sources": [
         "fourgamer"
       ],
