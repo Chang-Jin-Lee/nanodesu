@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:45:00.315121+00:00",
+  "generated_at": "2026-08-05T15:15:13.404718+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -13,23 +13,15 @@
         "noisypixel",
         "rpgsite"
       ],
-      "delta": 1
-    },
-    {
-      "title": "Blue Archive",
-      "mentions": 1,
-      "sources": [
-        "automatonwest"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Zenless Zone Zero",
-      "mentions": 1,
-      "sources": [
-        "steam-4162040"
-      ],
       "delta": 0
+    },
+    {
+      "title": "Umamusume: Pretty Derby",
+      "mentions": 1,
+      "sources": [
+        "animecorner"
+      ],
+      "delta": null
     }
   ]
 }

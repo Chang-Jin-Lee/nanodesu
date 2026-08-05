@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-08-03T15:45:00.329321+00:00",
+  "generated_at": "2026-08-05T15:15:13.419891+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 12,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 1
+    },
     {
       "title": "ONE PIECE",
       "mentions": 11,
@@ -11,38 +19,30 @@
         "animeanime",
         "shonenjump"
       ],
-      "delta": 0
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 10,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 8,
+      "mentions": 9,
       "sources": [
         "animeanime"
       ],
       "delta": 0
     },
     {
-      "title": "Bleach",
-      "mentions": 7,
+      "title": "Haikyu!!",
+      "mentions": 9,
       "sources": [
-        "animeanime",
-        "fourgamer"
+        "animeanime"
       ],
       "delta": 1
     },
     {
-      "title": "Haikyu!!",
-      "mentions": 7,
+      "title": "Bleach",
+      "mentions": 8,
       "sources": [
-        "animeanime"
+        "animeanime",
+        "fourgamer"
       ],
       "delta": -1
     },
@@ -56,7 +56,7 @@
     },
     {
       "title": "Chainsaw Man",
-      "mentions": 2,
+      "mentions": 3,
       "sources": [
         "animeanime"
       ],
@@ -64,25 +64,25 @@
     },
     {
       "title": "THE GHOST IN THE SHELL",
-      "mentions": 2,
+      "mentions": 3,
       "sources": [
         "gamewatch"
       ],
-      "delta": 2
+      "delta": 0
+    },
+    {
+      "title": "Spy x Family",
+      "mentions": 2,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 1
     },
     {
       "title": "GTO",
       "mentions": 1,
       "sources": [
         "shonenmagazine"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Spy x Family",
-      "mentions": 1,
-      "sources": [
-        "animeanime"
       ],
       "delta": -1
     }

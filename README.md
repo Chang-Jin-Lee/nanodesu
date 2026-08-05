@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-08-03 15:45 UTC
+Last updated: 2026-08-05 15:15 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-08-03 15:45 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Demon Slayer: Kimetsu no Yaiba | 3 | ▲1 | animecorner, reddit_anime |
-| 2 | Jaadugar: A Witch in Mongolia | 3 | ▲19 | animecorner, ann |
-| 3 | THE GHOST IN THE SHELL | 3 | ▲1 | reddit_anime |
-| 4 | Bleach | 2 | ▼3 | animecorner |
-| 5 | Chainsmoker Cat | 2 | - | ann, reddit_anime |
+| 1 | ONE PIECE | 5 | ▲10 | animecorner, ann |
+| 2 | Chainsmoker Cat | 3 | ▲3 | ann, reddit_anime |
+| 3 | Jaadugar: A Witch in Mongolia | 3 | ▼1 | animecorner, ann |
+| 4 | Bleach | 2 | - | animecorner |
+| 5 | Chainsaw Man | 2 | ▲13 | animecorner |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,9 +40,8 @@ Last updated: 2026-08-03 15:45 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 4 | ▲1 | animecorner, gematsu, noisypixel, rpgsite |
-| 2 | Blue Archive | 1 | ▼1 | automatonwest |
-| 3 | Zenless Zone Zero | 1 | - | steam-4162040 |
+| 1 | Genshin Impact | 4 | - | animecorner, gematsu, noisypixel, rpgsite |
+| 2 | Umamusume: Pretty Derby | 1 | NEW | animecorner |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -51,11 +50,11 @@ Last updated: 2026-08-03 15:45 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 4 | - | animeanime |
-| 2 | Bleach | 3 | ▲3 | animeanime |
-| 3 | ONE PIECE | 3 | ▲1 | animeanime |
-| 4 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼2 | animeanime |
-| 5 | Haikyu!! | 2 | ▼2 | animeanime |
+| 1 | Bleach | 4 | ▲1 | animeanime |
+| 2 | Jujutsu Kaisen | 4 | ▼1 | animeanime |
+| 3 | Haikyu!! | 3 | ▲2 | animeanime |
+| 4 | ONE PIECE | 3 | ▼1 | animeanime |
+| 5 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -64,8 +63,8 @@ Last updated: 2026-08-03 15:45 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 5 | - | animeanime, fourgamer, gamewatch |
-| 2 | Genshin Impact | 2 | - | fourgamer |
+| 1 | Umamusume: Pretty Derby | 4 | - | animeanime, fourgamer, gamewatch |
+| 2 | Genshin Impact | 1 | - | fourgamer |
 | 3 | Honkai: Star Rail | 1 | - | fourgamer |
 | 4 | Zenless Zone Zero | 1 | - | fourgamer |
 
