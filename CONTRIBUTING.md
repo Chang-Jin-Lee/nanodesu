@@ -5,14 +5,14 @@ First off — **welcome!** If you love anime, manga, or games, you belong here. 
 ## 💜 Ways to contribute
 
 **No code needed:**
-- **Add titles to the watchlist** — know a series we're not tracking? Add it to `config/watchlist.yaml` with its `canonical` name, `category` (`anime` or `game`), and `aliases`. Japanese aliases are especially valuable — they're how we catch mentions in Japanese news.
+- **Add titles to the watchlist** — know a series we're not tracking? Add it to `config/watchlist.yaml` with its `canonical` name, `category` (`anime`, `manga`, or `game`), and `aliases`. Japanese aliases are especially valuable — they're how we catch mentions in Japanese news.
 - **Fix aliases** — if a title is being missed because a common romanization or Japanese spelling isn't listed, adding one alias directly improves the rankings.
 - **Suggest a news source** — a good anime/game news site or feed we should track? [Open an issue](../../issues) and tell us about it.
 - **Report bugs** — wrong category, a broken table, a title matching the wrong articles? Open an issue with what you saw and what you expected.
 - **Share ideas** — new report sections, new regions, better ranking signals. Ideas are contributions too.
 
 **Code contributions:**
-- **Add a fetcher** — RSS sources only need an entry in `config/sources.yaml` (`slug`, `type: rss`, `region`, `url`). Scraped sources get a module under `scripts/fetch/` with tests and fixtures.
+- **Add a fetcher** — RSS sources only need an entry in `config/sources.yaml` (`slug`, `type: rss`, `region`, `url`, and an optional `category` — `anime`, `manga`, or `game` — for single-topic sources; leave it off for mixed-topic sources so the watchlist title's own category is used). Scraped sources get a module under `scripts/fetch/` with tests and fixtures.
 - **Improve the pipeline** — matching accuracy, ranking logic, report rendering. The flow is `fetch_all → sync_watchlist → extract_mentions → rank_trends → build_events → render_reports`, one module per step under `scripts/`.
 
 ## 🛠️ Development setup
