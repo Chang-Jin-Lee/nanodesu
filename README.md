@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-08-05 15:15 UTC
+Last updated: 2026-08-07 14:14 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-08-05 15:15 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 5 | ▲10 | animecorner, ann |
-| 2 | Chainsmoker Cat | 3 | ▲3 | ann, reddit_anime |
-| 3 | Jaadugar: A Witch in Mongolia | 3 | ▼1 | animecorner, ann |
-| 4 | Bleach | 2 | - | animecorner |
-| 5 | Chainsaw Man | 2 | ▲13 | animecorner |
+| 1 | ONE PIECE | 5 | - | animecorner, ann |
+| 2 | Bleach | 4 | ▲2 | animecorner, ann |
+| 3 | Though I Am an Inept Villainess | 3 | ▲13 | animecorner, ann, reddit_anime |
+| 4 | Chainsaw Man | 2 | ▲1 | animecorner |
+| 5 | Chainsmoker Cat | 2 | ▼3 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,8 +40,10 @@ Last updated: 2026-08-05 15:15 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 4 | - | animecorner, gematsu, noisypixel, rpgsite |
-| 2 | Umamusume: Pretty Derby | 1 | NEW | animecorner |
+| 1 | Blue Archive | 1 | NEW | automatonwest |
+| 2 | Genshin Impact | 1 | ▼1 | rpgsite |
+| 3 | Umamusume: Pretty Derby | 1 | ▼1 | animecorner |
+| 4 | Wuthering Waves | 1 | NEW | gematsu |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -50,11 +52,11 @@ Last updated: 2026-08-05 15:15 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 4 | ▲1 | animeanime |
-| 2 | Jujutsu Kaisen | 4 | ▼1 | animeanime |
-| 3 | Haikyu!! | 3 | ▲2 | animeanime |
-| 4 | ONE PIECE | 3 | ▼1 | animeanime |
-| 5 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
+| 1 | Bleach | 4 | - | animeanime |
+| 2 | Jujutsu Kaisen | 4 | - | animeanime |
+| 3 | Demon Slayer: Kimetsu no Yaiba | 3 | ▲2 | animeanime |
+| 4 | Haikyu!! | 3 | ▼1 | animeanime |
+| 5 | ONE PIECE | 3 | ▼1 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -63,10 +65,9 @@ Last updated: 2026-08-05 15:15 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 4 | - | animeanime, fourgamer, gamewatch |
+| 1 | Zenless Zone Zero | 2 | ▲3 | fourgamer |
 | 2 | Genshin Impact | 1 | - | fourgamer |
-| 3 | Honkai: Star Rail | 1 | - | fourgamer |
-| 4 | Zenless Zone Zero | 1 | - | fourgamer |
+| 3 | Wuthering Waves | 1 | NEW | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 
