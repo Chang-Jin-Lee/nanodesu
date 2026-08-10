@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-08-07 14:14 UTC
+Last updated: 2026-08-10 14:21 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-08-07 14:14 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 5 | - | animecorner, ann |
-| 2 | Bleach | 4 | ▲2 | animecorner, ann |
-| 3 | Though I Am an Inept Villainess | 3 | ▲13 | animecorner, ann, reddit_anime |
-| 4 | Chainsaw Man | 2 | ▲1 | animecorner |
-| 5 | Chainsmoker Cat | 2 | ▼3 | ann, reddit_anime |
+| 1 | Bleach | 6 | ▲1 | animecorner, ann |
+| 2 | Chainsmoker Cat | 3 | ▲3 | ann, reddit_anime |
+| 3 | Mushoku Tensei: Jobless Reincarnation Season 3 | 3 | ▲20 | reddit_anime |
+| 4 | THE GHOST IN THE SHELL | 3 | ▲24 | ann, reddit_anime |
+| 5 | Young Ladies Don't Play Fighting Games | 3 | ▲29 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,10 +40,8 @@ Last updated: 2026-08-07 14:14 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Blue Archive | 1 | NEW | automatonwest |
-| 2 | Genshin Impact | 1 | ▼1 | rpgsite |
-| 3 | Umamusume: Pretty Derby | 1 | ▼1 | animecorner |
-| 4 | Wuthering Waves | 1 | NEW | gematsu |
+| 1 | Wuthering Waves | 2 | ▲3 | gematsu, rpgsite |
+| 2 | Blue Archive | 1 | ▼1 | automatonwest |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -52,11 +50,11 @@ Last updated: 2026-08-07 14:14 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 4 | - | animeanime |
-| 2 | Jujutsu Kaisen | 4 | - | animeanime |
-| 3 | Demon Slayer: Kimetsu no Yaiba | 3 | ▲2 | animeanime |
-| 4 | Haikyu!! | 3 | ▼1 | animeanime |
-| 5 | ONE PIECE | 3 | ▼1 | animeanime |
+| 1 | ONE PIECE | 5 | ▲4 | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | ▲1 | animeanime |
+| 3 | Haikyu!! | 4 | ▲1 | animeanime |
+| 4 | Jujutsu Kaisen | 4 | ▼2 | animeanime |
+| 5 | THE GHOST IN THE SHELL | 3 | ▲1 | animeanime, gamewatch |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -65,9 +63,11 @@ Last updated: 2026-08-07 14:14 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 2 | ▲3 | fourgamer |
-| 2 | Genshin Impact | 1 | - | fourgamer |
-| 3 | Wuthering Waves | 1 | NEW | fourgamer |
+| 1 | Zenless Zone Zero | 2 | - | fourgamer |
+| 2 | Blue Archive | 1 | NEW | animeanime |
+| 3 | Genshin Impact | 1 | ▼1 | fourgamer |
+| 4 | Honkai: Star Rail | 1 | NEW | fourgamer |
+| 5 | Wuthering Waves | 1 | ▼2 | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

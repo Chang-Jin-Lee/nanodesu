@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-08-07T14:14:17.025942+00:00",
+  "generated_at": "2026-08-10T14:21:08.141937+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
+    {
+      "title": "Wuthering Waves",
+      "mentions": 2,
+      "sources": [
+        "gematsu",
+        "rpgsite"
+      ],
+      "delta": 3
+    },
     {
       "title": "Blue Archive",
       "mentions": 1,
       "sources": [
         "automatonwest"
       ],
-      "delta": null
-    },
-    {
-      "title": "Genshin Impact",
-      "mentions": 1,
-      "sources": [
-        "rpgsite"
-      ],
       "delta": -1
-    },
-    {
-      "title": "Umamusume: Pretty Derby",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Wuthering Waves",
-      "mentions": 1,
-      "sources": [
-        "gematsu"
-      ],
-      "delta": null
     }
   ]
 }

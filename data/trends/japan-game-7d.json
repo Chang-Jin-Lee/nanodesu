@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:14:17.047275+00:00",
+  "generated_at": "2026-08-10T14:21:08.165129+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 7,
@@ -10,7 +10,15 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 3
+      "delta": 0
+    },
+    {
+      "title": "Blue Archive",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
     },
     {
       "title": "Genshin Impact",
@@ -18,7 +26,15 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 0
+      "delta": -1
+    },
+    {
+      "title": "Honkai: Star Rail",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": null
     },
     {
       "title": "Wuthering Waves",
@@ -26,7 +42,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": null
+      "delta": -2
     }
   ]
 }
