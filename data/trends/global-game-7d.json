@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:21:08.141937+00:00",
+  "generated_at": "2026-08-12T14:21:34.535803+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -11,15 +11,15 @@
         "gematsu",
         "rpgsite"
       ],
-      "delta": 3
+      "delta": 0
     },
     {
-      "title": "Blue Archive",
+      "title": "Genshin Impact",
       "mentions": 1,
       "sources": [
-        "automatonwest"
+        "animecorner"
       ],
-      "delta": -1
+      "delta": null
     }
   ]
 }
