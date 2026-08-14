@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:21:34.553306+00:00",
+  "generated_at": "2026-08-14T14:16:59.532796+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "ONE PIECE",
-      "mentions": 16,
+      "mentions": 17,
       "sources": [
         "animeanime"
       ],
@@ -14,11 +14,11 @@
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 14,
+      "mentions": 15,
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Jujutsu Kaisen",
@@ -26,11 +26,11 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Haikyu!!",
-      "mentions": 12,
+      "mentions": 13,
       "sources": [
         "animeanime"
       ],

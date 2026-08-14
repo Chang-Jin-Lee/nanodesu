@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:21:34.547440+00:00",
+  "generated_at": "2026-08-14T14:16:59.527479+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
@@ -29,21 +29,13 @@
       "delta": 0
     },
     {
-      "title": "Jujutsu Kaisen",
-      "mentions": 2,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
-    },
-    {
       "title": "THE GHOST IN THE SHELL",
       "mentions": 2,
       "sources": [
         "animeanime",
         "gamewatch"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
       "title": "Bleach",
@@ -51,7 +43,15 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": -2
     }
   ]
 }

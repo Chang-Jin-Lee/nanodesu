@@ -7,29 +7,28 @@
 | 1 | ONE PIECE | 7 | - | animeanime |
 | 2 | Demon Slayer: Kimetsu no Yaiba | 5 | - | animeanime |
 | 3 | Haikyu!! | 3 | - | animeanime |
-| 4 | Jujutsu Kaisen | 2 | - | animeanime |
-| 5 | THE GHOST IN THE SHELL | 2 | - | animeanime, gamewatch |
-| 6 | Bleach | 1 | - | animeanime |
+| 4 | THE GHOST IN THE SHELL | 2 | ▲1 | animeanime, gamewatch |
+| 5 | Bleach | 1 | ▲1 | animeanime |
+| 6 | Jujutsu Kaisen | 1 | ▼2 | animeanime |
 
 ## Game Buzz — Last 7 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 2 | ▲2 | fourgamer, gamewatch |
-| 2 | Honkai: Star Rail | 2 | ▲2 | fourgamer |
-| 3 | Umamusume: Pretty Derby | 2 | NEW | fourgamer, gamewatch |
-| 4 | Zenless Zone Zero | 2 | ▼3 | fourgamer |
-| 5 | Blue Archive | 1 | ▼3 | animeanime |
-| 6 | Wuthering Waves | 1 | ▼1 | fourgamer |
+| 1 | Honkai: Star Rail | 3 | ▲1 | fourgamer |
+| 2 | Umamusume: Pretty Derby | 3 | ▲1 | fourgamer, gamewatch |
+| 3 | Blue Archive | 1 | ▲2 | animeanime |
+| 4 | Genshin Impact | 1 | ▼3 | gamewatch |
+| 5 | Zenless Zone Zero | 1 | ▼1 | fourgamer |
 
 ## Anime Buzz — Last 30 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 16 | - | animeanime |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 14 | ▲1 | animeanime |
-| 3 | Jujutsu Kaisen | 14 | ▼1 | animeanime |
-| 4 | Haikyu!! | 12 | - | animeanime |
+| 1 | ONE PIECE | 17 | - | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 15 | - | animeanime |
+| 3 | Jujutsu Kaisen | 14 | - | animeanime |
+| 4 | Haikyu!! | 13 | - | animeanime |
 | 5 | Bleach | 9 | - | animeanime, fourgamer |
 | 6 | THE GHOST IN THE SHELL | 5 | - | animeanime, gamewatch |
 | 7 | Naruto | 4 | - | animeanime |
@@ -41,9 +40,9 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 11 | - | animeanime, fourgamer, gamewatch |
-| 2 | Zenless Zone Zero | 7 | - | fourgamer |
-| 3 | Honkai: Star Rail | 5 | - | fourgamer |
+| 1 | Umamusume: Pretty Derby | 12 | - | animeanime, fourgamer, gamewatch |
+| 2 | Zenless Zone Zero | 8 | - | fourgamer |
+| 3 | Honkai: Star Rail | 6 | - | fourgamer |
 | 4 | Genshin Impact | 4 | - | fourgamer, gamewatch |
 | 5 | Blue Archive | 1 | - | animeanime |
 | 6 | Wuthering Waves | 1 | - | fourgamer |
@@ -52,25 +51,25 @@
 
 | Title | Venue | Start | End | Source |
 |---|---|---|---|---|
-| モルガ × サンリオ ストア in ルミネエスト新宿 8月12日より開催! | ルミネエスト新宿 | 2026-08-12 | 2026-08-23 | [link](https://collabo-cafe.com/events/collabo/mulga-sanrio-characters-popup-2026/) |
-| STAR WARS ポップアップストア in 京都伊勢丹 8月12日より開催! | 京都伊勢丹 | 2026-08-12 | 2026-08-24 | [link](https://collabo-cafe.com/events/collabo/starwars-pop-up-store-jr-kyoto-isetan-2026/) |
-| マシュマロみたいなふわふわにゃんこ ぬいぐるみチャーム8月発売! |  | 2026-08-12 | - | [link](https://collabo-cafe.com/events/collabo/marshmallow-fuwafuwa-nyanko-nuigurumi-charm-2026/) |
-| 映画ちいかわ お見送り上映会 8月12日より全国7劇場で順次開催! |  | 2026-08-12 | - | [link](https://collabo-cafe.com/events/collabo/chiikawa-movie-omiokuri-joeikai-2026/) |
-| んぽちゃむ × ローソン 格闘技テーマのキャンペーン実施決定! |  | 2026-08-12 | - | [link](https://collabo-cafe.com/events/collabo/npochamu-lawson-campaign-2026/) |
-| 槙ようこ × 持田あき 姉妹ポップアップストア in 新宿 8月13日開催! | 新宿 | 2026-08-13 | 2026-08-26 | [link](https://collabo-cafe.com/events/collabo/makiyoko-mochidaaki-sisters-popup-shinjuku-2026/) |
-| ブルアカ × ZOZO 8月13日よりブラックミリタリーアイテム登場! |  | 2026-08-13 | - | [link](https://collabo-cafe.com/events/collabo/bluearchive-zozotown-black-collection-vol2-2026/) |
-| まとスレ メイド ポップアップストア in 渋谷 8月13日より開催! | 渋谷 | 2026-08-13 | 2026-08-25 | [link](https://collabo-cafe.com/events/collabo/matoseiheislave-popup-medicos-shibuya-2026/) |
-| 鬼灯の冷徹 夏祭り ポップアップストア in 秋葉原 8月13日より開催! | 秋葉原 | 2026-08-13 | 2026-08-23 | [link](https://collabo-cafe.com/events/collabo/hozukino-reitetsu-popupshop-akihabara-2026/) |
-| ちいかわベーカリー ポップアップストア in 京都 8月13日より開催! | 京都 | 2026-08-13 | 2026-09-09 | [link](https://collabo-cafe.com/events/collabo/chiikawa-bakery-kyoto-popup-2026/) |
-| 超ギャバン ポップアップストア in 東京・宮城 8月13日より開催! | 東京・宮城 | 2026-08-13 | 2026-09-23 | [link](https://collabo-cafe.com/events/collabo/gavan-infinity-popup-shop-2026/) |
-| アイカツ! 星空ドレス ポップアップストア in 大宮 8月14日開催! | 大宮 | 2026-08-14 | 2026-08-23 | [link](https://collabo-cafe.com/events/collabo/aikatsu-popup-shop-marui-2026/) |
-| あつもり × 白い恋人 8月14日よりジュンのコラボ缶が数量限定発売! |  | 2026-08-14 | 2026-09-30 | [link](https://collabo-cafe.com/events/collabo/doubutsuno-mori-shiroi-koibito-collabo-can-2026/) |
-| 地獄楽 × HATTO 8月14日よりロカビリーカフェが原宿に登場! |  | 2026-08-14 | 2026-08-31 | [link](https://collabo-cafe.com/events/collabo/jigokuraku-hatto-coffee-harajuku-2026/) |
-| 結界師 ポップアップストア in 紀伊國屋書店 新宿 8月18日より開催! | 紀伊國屋書店 | 2026-08-18 | 2026-09-04 | [link](https://collabo-cafe.com/events/collabo/kekkaishi-popup-shop-kinokuniya-2026/) |
-| サイドエム × SMILE BASE CAFE 8月19日よりチェスコラボ開催! |  | 2026-08-19 | 2026-10-20 | [link](https://collabo-cafe.com/events/collabo/idolmaster-sidem-royal-chess-lounge-2026/) |
-| ちいかわ × オリオンビール 8月21日よりシーサーの帽子2種発売! |  | 2026-08-21 | - | [link](https://collabo-cafe.com/events/collabo/chiikawa-orionbeer-cap-safarihat-2026/) |
-| 映画ちいかわ うま辛カレースナック 8月13日よりセブンで先行販売! |  | 2026-08-24 | - | [link](https://collabo-cafe.com/events/collabo/chiikawa-movie-umakara-curry-snack-2026/) |
-| わたたべ「雨と涙」テーマのゲーマーズ先行グッズ 11月一般発売! |  | - | 2026-08-18 | [link](https://collabo-cafe.com/events/collabo/watatabe-rain-and-tears-aniplus-anime-store-goods2026/) |
-| 仮面ライダーゼッツ 小鷹ら「すやすや寝顔」グッズなど 10月発売! |  | - | 2026-09-02 | [link](https://collabo-cafe.com/events/collabo/kamen-rider-zeztz-animeq-maw-anime-store-goods2026/) |
+| 桜蘭高校ホスト部 20周年 ストア in 大阪 8月14日より開催! | 大阪 | 2026-08-14 | 2026-08-23 | [link](https://collabo-cafe.com/events/collabo/ouran-20th-popup-store-abeno-2026/) |
+| 甲鉄城のカバネリポップアップストア in ロフト 8月14日より開催! | ロフト | 2026-08-14 | 2026-10-25 | [link](https://collabo-cafe.com/events/collabo/kabaneri-10th-anniversary-popup-store-loft-2026/) |
+| 薫る花は凛と咲く 悪魔と天使 ストア in 有楽町 8月14日より開催! | 有楽町 | 2026-08-14 | 2026-08-23 | [link](https://collabo-cafe.com/events/collabo/kaoruhana-popup-store-akuma-tenshi-marui-2026/) |
+| ンめねこ × サンリオ ストア in キデイランド 8月14日より開催! | キデイランド | 2026-08-14 | 2026-08-27 | [link](https://collabo-cafe.com/events/collabo/nmeneko-sanrio-characters-kiddyland-2026/) |
+| 「光が死んだ夏」1周年記念くじ in くじ引き堂 8月20日より発売! | くじ引き堂 | 2026-08-20 | 2026-09-17 | [link](https://collabo-cafe.com/events/collabo/hikarugashinda-kujibikido-1st-anniversary-2026/) |
+| 銀魂 ほわぬいvol.2 8月20日より真選組メンバーが初参戦! |  | 2026-08-20 | - | [link](https://collabo-cafe.com/events/collabo/gintama-howanui-vol2-2026/) |
+| ドロヘドロ Season2 × 紅虎餃子房 8月21日よりコラボ第2弾開催! |  | 2026-08-21 | 2026-09-30 | [link](https://collabo-cafe.com/events/collabo/dorohedoro-benitora-gyozabo-2026/) |
+| プリティーシリーズ15周年イベント第2弾  in 秋葉原 8月21日開始! | 秋葉原 | 2026-08-21 | 2026-09-06 | [link](https://collabo-cafe.com/events/collabo/pretty-series-15th-anniversary-vol2-akihabara-2026/) |
+| A3! × アニメイトカフェ 9月2日よりスイーツ衣装のコラボ開催! |  | 2026-09-02 | 2026-10-06 | [link](https://collabo-cafe.com/events/collabo/a3-animatecafe-vol12-2026/) |
+| 五等分の花嫁* ポップアップストア 9月4日より新宿マルイで開催! |  | 2026-09-04 | 2026-09-13 | [link](https://collabo-cafe.com/events/collabo/5hanayome-popup-shinjuku-marui-2026/) |
+| 藤島康介 デビュー40周年記念展 in 有楽町マルイ 9月18日より開催! | 有楽町マルイ | 2026-09-18 | 2026-10-04 | [link](https://collabo-cafe.com/events/collabo/kousuke-fujishjima-40th-anniversary-exhibition-yurakucho-marui-2026/) |
+| 十日草輔「王様ランキング」最新刊 第23巻 2026年10月9日発売! |  | 2026-10-09 | - | [link](https://collabo-cafe.com/events/collabo/osama-ranking-comics23-release/) |
+| ゆるキャン△初のキャンプイベント in 渚園(浜松) 11月7日より開催! | 渚園(浜松) | 2026-11-07 | 2026-11-08 | [link](https://collabo-cafe.com/events/collabo/news-yurujam-nagisaen-hamamatsu-2026/) |
+| ぼっち・ざ・ろっく! 一番くじ第5弾 2027年1月8日発売! |  | 2027-01-08 | - | [link](https://collabo-cafe.com/events/collabo/ichibankuji-bocchi-the-rock-vol5-2027/) |
+| 新テニスの王子様 決勝メンバー決定戦 9月30日より放送開始! |  | - | - | [link](https://collabo-cafe.com/events/collabo/tenipuri-u17-selection-match-2026/) |
+| 超かぐや姫! ファミマ限定グッズ 8月25日より予約受付&順次発売! |  | - | - | [link](https://collabo-cafe.com/events/collabo/cho-kaguyahime-familymart-2026/) |
+| 葬送のフリーレン 蒼月草と魔法陣が彩る大人かわいい腕時計 発売! |  | - | 2026-09-06 | [link](https://collabo-cafe.com/events/collabo/frieren-blue-moon-weed-watch-armabianca-anime-store-goods2026/) |
+| DEATH NOTE × A:code 夜神月とLをイメージした「香水」発売! |  | - | 2026-09-06 | [link](https://collabo-cafe.com/events/collabo/death-note-a-code-perfume-armabianca-anime-store-goods2026/) |
+| カードキャプターさくら × サンリオ 8月下旬よりぬいぐるみ登場! |  | - | - | [link](https://collabo-cafe.com/events/collabo/ccsakura-sanrio-taito-prize-vol3-2026/) |
+| ひみつのアイプリ イオンモール先行 描き下ろしグッズ一般発売へ! |  | - | 2026-08-21 | [link](https://collabo-cafe.com/events/collabo/aipri-aeonmall-christmas-sutcliffe-anime-store-goods2026/) |
 | コミックマーケット (Comiket) | 東京ビッグサイト | - | - | [link](https://www.comiket.co.jp/) |
 
