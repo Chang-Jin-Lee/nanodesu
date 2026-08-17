@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:16:59.543090+00:00",
+  "generated_at": "2026-08-17T13:40:35.425820+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
@@ -16,15 +16,7 @@
     },
     {
       "title": "Zenless Zone Zero",
-      "mentions": 8,
-      "sources": [
-        "fourgamer"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Honkai: Star Rail",
-      "mentions": 6,
+      "mentions": 7,
       "sources": [
         "fourgamer"
       ],
@@ -32,12 +24,20 @@
     },
     {
       "title": "Genshin Impact",
-      "mentions": 4,
+      "mentions": 5,
       "sources": [
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "Honkai: Star Rail",
+      "mentions": 5,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": -1
     },
     {
       "title": "Blue Archive",

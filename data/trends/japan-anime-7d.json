@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:16:59.527479+00:00",
+  "generated_at": "2026-08-17T13:40:35.411795+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
       "title": "ONE PIECE",
-      "mentions": 7,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
       "mentions": 5,
       "sources": [
         "animeanime"
@@ -21,21 +13,28 @@
       "delta": 0
     },
     {
-      "title": "Haikyu!!",
-      "mentions": 3,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 4,
       "sources": [
         "animeanime"
       ],
       "delta": 0
     },
     {
-      "title": "THE GHOST IN THE SHELL",
+      "title": "Haikyu!!",
+      "mentions": 4,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 0
+    },
+    {
+      "title": "Jujutsu Kaisen",
       "mentions": 2,
       "sources": [
-        "animeanime",
-        "gamewatch"
+        "animeanime"
       ],
-      "delta": 1
+      "delta": 2
     },
     {
       "title": "Bleach",
@@ -43,15 +42,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 1,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -2
+      "delta": 0
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:16:59.532796+00:00",
+  "generated_at": "2026-08-17T13:40:35.416526+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "ONE PIECE",
-      "mentions": 17,
+      "mentions": 19,
       "sources": [
         "animeanime"
       ],
@@ -22,7 +22,7 @@
     },
     {
       "title": "Jujutsu Kaisen",
-      "mentions": 14,
+      "mentions": 15,
       "sources": [
         "animeanime"
       ],
@@ -30,7 +30,7 @@
     },
     {
       "title": "Haikyu!!",
-      "mentions": 13,
+      "mentions": 14,
       "sources": [
         "animeanime"
       ],
@@ -38,7 +38,7 @@
     },
     {
       "title": "Bleach",
-      "mentions": 9,
+      "mentions": 10,
       "sources": [
         "animeanime",
         "fourgamer"
@@ -75,14 +75,6 @@
       "mentions": 2,
       "sources": [
         "animeanime"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "GTO",
-      "mentions": 1,
-      "sources": [
-        "shonenmagazine"
       ],
       "delta": 0
     }
