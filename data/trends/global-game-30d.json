@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:40:35.407291+00:00",
+  "generated_at": "2026-08-19T13:45:41.064548+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -16,25 +16,26 @@
     },
     {
       "title": "Genshin Impact",
-      "mentions": 5,
+      "mentions": 6,
       "sources": [
         "animecorner",
         "gematsu",
         "noisypixel",
+        "reddit_gachagaming",
         "rpgsite"
       ],
       "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
-      "mentions": 4,
+      "mentions": 6,
       "sources": [
         "animecorner",
         "gematsu",
         "reddit_gachagaming",
         "rpgsite"
       ],
-      "delta": 2
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -44,7 +45,7 @@
         "automatonwest",
         "noisypixel"
       ],
-      "delta": 2
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",
@@ -53,15 +54,16 @@
         "gematsu",
         "rpgsite"
       ],
-      "delta": -2
+      "delta": 0
     },
     {
       "title": "Zenless Zone Zero",
-      "mentions": 1,
+      "mentions": 2,
       "sources": [
+        "reddit_gachagaming",
         "steam-4162040"
       ],
-      "delta": -2
+      "delta": 0
     }
   ]
 }

@@ -1,40 +1,42 @@
 {
-  "generated_at": "2026-08-17T13:40:35.411795+00:00",
+  "generated_at": "2026-08-19T13:45:41.070023+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
-      "title": "ONE PIECE",
-      "mentions": 5,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 4,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Haikyu!!",
-      "mentions": 4,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 2,
+      "mentions": 6,
       "sources": [
         "animeanime"
       ],
       "delta": 2
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 6,
+      "sources": [
+        "animeanime",
+        "fourgamer",
+        "gamewatch"
+      ],
+      "delta": 2
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 3,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "ONE PIECE",
+      "mentions": 3,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": -3
     },
     {
       "title": "Bleach",

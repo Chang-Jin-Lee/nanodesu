@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T13:40:35.425820+00:00",
+  "generated_at": "2026-08-19T13:45:41.086321+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Umamusume: Pretty Derby",
-      "mentions": 12,
+      "mentions": 13,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -29,7 +29,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
@@ -37,7 +37,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Blue Archive",
