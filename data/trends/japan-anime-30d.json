@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-08-21T13:47:14.121841+00:00",
+  "generated_at": "2026-08-24T13:58:32.020603+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "ONE PIECE",
-      "mentions": 18,
+      "mentions": 23,
       "sources": [
         "animeanime"
       ],
-      "delta": 2
-    },
-    {
-      "title": "Haikyu!!",
-      "mentions": 17,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Jujutsu Kaisen",
@@ -28,19 +20,27 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": -1
+      "delta": 1
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 16,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 1
+    },
+    {
+      "title": "Haikyu!!",
       "mentions": 15,
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": -2
     },
     {
       "title": "Bleach",
-      "mentions": 7,
+      "mentions": 8,
       "sources": [
         "animeanime"
       ],
@@ -48,7 +48,7 @@
     },
     {
       "title": "THE GHOST IN THE SHELL",
-      "mentions": 5,
+      "mentions": 6,
       "sources": [
         "animeanime",
         "gamewatch"
@@ -59,9 +59,10 @@
       "title": "Chainsaw Man",
       "mentions": 2,
       "sources": [
-        "animeanime"
+        "animeanime",
+        "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Naruto",
@@ -69,7 +70,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Spy x Family",

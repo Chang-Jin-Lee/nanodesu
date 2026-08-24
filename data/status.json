@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T13:47:13.558863+00:00",
+  "generated_at": "2026-08-24T13:58:31.398217+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 137
+      "count": 166
     },
     "myanimelist": {
       "ok": true,
@@ -37,7 +37,7 @@
     },
     "noisypixel": {
       "ok": true,
-      "count": 0
+      "count": 20
     },
     "rpgsite": {
       "ok": true,

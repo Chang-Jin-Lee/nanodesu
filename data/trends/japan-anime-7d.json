@@ -1,22 +1,30 @@
 {
-  "generated_at": "2026-08-21T13:47:14.114287+00:00",
+  "generated_at": "2026-08-24T13:58:32.012458+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
+      "title": "ONE PIECE",
+      "mentions": 8,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 3
+    },
+    {
       "title": "Jujutsu Kaisen",
-      "mentions": 7,
+      "mentions": 5,
       "sources": [
         "animeanime",
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": -1
     },
     {
       "title": "Haikyu!!",
-      "mentions": 6,
+      "mentions": 4,
       "sources": [
         "animeanime"
       ],
@@ -28,15 +36,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 0
-    },
-    {
-      "title": "ONE PIECE",
-      "mentions": 3,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "Bleach",
@@ -45,6 +45,22 @@
         "animeanime"
       ],
       "delta": 0
+    },
+    {
+      "title": "Chainsaw Man",
+      "mentions": 1,
+      "sources": [
+        "gamewatch"
+      ],
+      "delta": null
+    },
+    {
+      "title": "THE GHOST IN THE SHELL",
+      "mentions": 1,
+      "sources": [
+        "gamewatch"
+      ],
+      "delta": null
     }
   ]
 }
