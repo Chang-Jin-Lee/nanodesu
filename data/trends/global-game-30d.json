@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T13:58:32.004438+00:00",
+  "generated_at": "2026-08-26T13:56:37.417357+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Genshin Impact",
-      "mentions": 6,
+      "mentions": 7,
       "sources": [
         "animecorner",
         "gematsu",
@@ -17,15 +17,6 @@
       "delta": 0
     },
     {
-      "title": "Blue Archive",
-      "mentions": 5,
-      "sources": [
-        "automatonwest",
-        "reddit_gachagaming"
-      ],
-      "delta": 1
-    },
-    {
       "title": "Honkai: Star Rail",
       "mentions": 5,
       "sources": [
@@ -33,6 +24,14 @@
         "gematsu",
         "reddit_gachagaming",
         "rpgsite"
+      ],
+      "delta": 1
+    },
+    {
+      "title": "Blue Archive",
+      "mentions": 4,
+      "sources": [
+        "automatonwest"
       ],
       "delta": -1
     },
@@ -43,17 +42,17 @@
         "animecorner",
         "noisypixel"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Zenless Zone Zero",
-      "mentions": 3,
+      "mentions": 4,
       "sources": [
         "automatonwest",
         "reddit_gachagaming",
         "steam-4162040"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",

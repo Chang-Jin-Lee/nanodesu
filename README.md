@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-08-24 13:58 UTC
+Last updated: 2026-08-26 13:56 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-08-24 13:58 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 23 | - | animecorner, ann, myanimelist, noisypixel, reddit_anime |
-| 2 | Chainsmoker Cat | 10 | - | animecorner, ann, automatonwest, reddit_anime |
+| 1 | ONE PIECE | 26 | - | animecorner, ann, myanimelist, noisypixel, reddit_anime |
+| 2 | Chainsmoker Cat | 7 | - | animecorner, ann, reddit_anime |
 | 3 | Bleach | 5 | - | animecorner, ann, reddit_anime |
-| 4 | Haikyu!! | 5 | - | animecorner, reddit_anime |
-| 5 | The World Is Dancing | 3 | ▲8 | ann, reddit_anime |
+| 4 | The World Is Dancing | 3 | ▲1 | ann, reddit_anime |
+| 5 | Clevatess Season 2 | 2 | ▲1 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,9 +40,10 @@ Last updated: 2026-08-24 13:58 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 2 | ▲2 | animecorner |
-| 2 | Blue Archive | 1 | NEW | automatonwest |
-| 3 | Zenless Zone Zero | 1 | ▲1 | automatonwest |
+| 1 | Umamusume: Pretty Derby | 2 | - | animecorner |
+| 2 | Zenless Zone Zero | 2 | ▲1 | automatonwest, reddit_gachagaming |
+| 3 | Blue Archive | 1 | ▼1 | automatonwest |
+| 4 | Genshin Impact | 1 | NEW | reddit_gachagaming |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -51,11 +52,11 @@ Last updated: 2026-08-24 13:58 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 8 | ▲3 | animeanime |
-| 2 | Jujutsu Kaisen | 5 | ▼1 | animeanime, fourgamer, gamewatch |
-| 3 | Haikyu!! | 4 | ▼1 | animeanime |
-| 4 | Demon Slayer: Kimetsu no Yaiba | 3 | ▼1 | animeanime |
-| 5 | Bleach | 1 | - | animeanime |
+| 1 | ONE PIECE | 9 | - | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲2 | animeanime |
+| 3 | Haikyu!! | 2 | - | animeanime |
+| 4 | Bleach | 1 | ▲1 | animeanime |
+| 5 | Chainsaw Man | 1 | ▲1 | gamewatch |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -64,9 +65,10 @@ Last updated: 2026-08-24 13:58 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 2 | ▲1 | animeanime, fourgamer |
-| 2 | Genshin Impact | 1 | ▼1 | animeanime |
-| 3 | Zenless Zone Zero | 1 | - | fourgamer |
+| 1 | Genshin Impact | 1 | ▲1 | animeanime |
+| 2 | Honkai: Star Rail | 1 | NEW | fourgamer |
+| 3 | Umamusume: Pretty Derby | 1 | ▼2 | fourgamer |
+| 4 | Zenless Zone Zero | 1 | ▼1 | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 
