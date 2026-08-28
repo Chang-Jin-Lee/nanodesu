@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T13:56:36.813274+00:00",
+  "generated_at": "2026-08-28T22:55:56.161782+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 190
+      "count": 197
     },
     "myanimelist": {
       "ok": true,
@@ -14,13 +14,13 @@
       "count": 25
     },
     "reddit_manga": {
-      "ok": false,
-      "error": "failed to fetch https://www.reddit.com/r/manga/.rss after 3 attempts: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/manga/.rss",
-      "optional": false
-    },
-    "reddit_gachagaming": {
       "ok": true,
       "count": 25
+    },
+    "reddit_gachagaming": {
+      "ok": false,
+      "error": "failed to fetch https://www.reddit.com/r/gachagaming/.rss after 3 attempts: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/gachagaming/.rss",
+      "optional": true
     },
     "gematsu": {
       "ok": true,
@@ -36,7 +36,7 @@
     },
     "noisypixel": {
       "ok": true,
-      "count": 20
+      "count": 0
     },
     "rpgsite": {
       "ok": true,
@@ -64,7 +64,7 @@
     },
     "steam-4162040": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "steam-3513350": {
       "ok": true,
