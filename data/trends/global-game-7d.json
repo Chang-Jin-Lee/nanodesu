@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:55:56.737914+00:00",
+  "generated_at": "2026-08-31T19:26:14.581478+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -8,33 +8,9 @@
       "title": "Zenless Zone Zero",
       "mentions": 3,
       "sources": [
+        "animecorner",
         "gematsu",
-        "reddit_gachagaming",
         "rpgsite"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Umamusume: Pretty Derby",
-      "mentions": 2,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Blue Archive",
-      "mentions": 1,
-      "sources": [
-        "automatonwest"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Genshin Impact",
-      "mentions": 1,
-      "sources": [
-        "reddit_gachagaming"
       ],
       "delta": 0
     }

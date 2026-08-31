@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-08-28 22:55 UTC
+Last updated: 2026-08-31 19:26 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-08-28 22:55 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 20 | - | animecorner, ann, myanimelist, noisypixel, reddit_anime |
-| 2 | Bleach | 7 | ▲1 | animecorner, ann, reddit_anime |
-| 3 | I Want to Love You Till Your Dying Day | 4 | ▲4 | ann, reddit_anime |
-| 4 | The World Is Dancing | 4 | - | ann, reddit_anime |
-| 5 | Chainsmoker Cat | 3 | ▼3 | ann, reddit_anime |
+| 1 | Bleach | 7 | ▲1 | animecorner, ann, reddit_anime |
+| 2 | ONE PIECE | 6 | ▼1 | animecorner, ann |
+| 3 | I Want to Love You Till Your Dying Day | 3 | - | ann, reddit_anime |
+| 4 | Jujutsu Kaisen | 3 | NEW | animecorner |
+| 5 | The World Is Dancing | 3 | ▼1 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,10 +40,7 @@ Last updated: 2026-08-28 22:55 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 3 | ▲1 | gematsu, reddit_gachagaming, rpgsite |
-| 2 | Umamusume: Pretty Derby | 2 | ▼1 | animecorner |
-| 3 | Blue Archive | 1 | - | automatonwest |
-| 4 | Genshin Impact | 1 | - | reddit_gachagaming |
+| 1 | Zenless Zone Zero | 3 | - | animecorner, gematsu, rpgsite |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -52,11 +49,11 @@ Last updated: 2026-08-28 22:55 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 8 | - | animeanime |
-| 2 | Bleach | 2 | ▲2 | animeanime |
-| 3 | Chainsaw Man | 1 | ▲2 | gamewatch |
-| 4 | Demon Slayer: Kimetsu no Yaiba | 1 | ▼2 | animeanime |
-| 5 | Haikyu!! | 1 | ▼2 | animeanime |
+| 1 | Jujutsu Kaisen | 6 | NEW | animeanime, fourgamer |
+| 2 | Bleach | 3 | - | animeanime, fourgamer |
+| 3 | Demon Slayer: Kimetsu no Yaiba | 3 | ▲1 | animeanime |
+| 4 | Haikyu!! | 1 | ▲1 | animeanime |
+| 5 | Naruto | 1 | ▲1 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -65,9 +62,8 @@ Last updated: 2026-08-28 22:55 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 2 | ▲3 | fourgamer |
-| 2 | Honkai: Star Rail | 1 | - | fourgamer |
-| 3 | Umamusume: Pretty Derby | 1 | - | fourgamer |
+| 1 | Honkai: Star Rail | 1 | ▲1 | fourgamer |
+| 2 | Zenless Zone Zero | 1 | ▼1 | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

@@ -1,29 +1,19 @@
 {
-  "generated_at": "2026-08-28T22:55:56.780481+00:00",
+  "generated_at": "2026-08-31T19:26:14.626501+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
-      "title": "Umamusume: Pretty Derby",
-      "mentions": 9,
-      "sources": [
-        "animeanime",
-        "fourgamer",
-        "gamewatch"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Zenless Zone Zero",
-      "mentions": 7,
+      "mentions": 6,
       "sources": [
         "fourgamer"
       ],
       "delta": 1
     },
     {
-      "title": "Genshin Impact",
+      "title": "Umamusume: Pretty Derby",
       "mentions": 5,
       "sources": [
         "animeanime",
@@ -33,8 +23,18 @@
       "delta": -1
     },
     {
+      "title": "Genshin Impact",
+      "mentions": 4,
+      "sources": [
+        "animeanime",
+        "fourgamer",
+        "gamewatch"
+      ],
+      "delta": 0
+    },
+    {
       "title": "Honkai: Star Rail",
-      "mentions": 5,
+      "mentions": 4,
       "sources": [
         "fourgamer"
       ],
