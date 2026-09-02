@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-08-31T19:26:14.617634+00:00",
+  "generated_at": "2026-09-02T17:03:21.678105+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 7,
   "entries": [
-    {
-      "title": "Honkai: Star Rail",
-      "mentions": 1,
-      "sources": [
-        "fourgamer"
-      ],
-      "delta": 1
-    },
     {
       "title": "Zenless Zone Zero",
       "mentions": 1,
       "sources": [
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 1
     }
   ]
 }

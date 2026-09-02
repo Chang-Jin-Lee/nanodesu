@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:26:14.626501+00:00",
+  "generated_at": "2026-09-02T17:03:21.687777+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
@@ -10,7 +10,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -20,7 +20,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Genshin Impact",
