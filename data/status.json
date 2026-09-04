@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T17:03:21.043359+00:00",
+  "generated_at": "2026-09-04T16:46:41.541591+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 154
+      "count": 180
     },
     "myanimelist": {
       "ok": true,
@@ -19,9 +19,8 @@
       "optional": false
     },
     "reddit_gachagaming": {
-      "ok": false,
-      "error": "failed to fetch https://www.reddit.com/r/gachagaming/.rss after 3 attempts: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/gachagaming/.rss",
-      "optional": true
+      "ok": true,
+      "count": 25
     },
     "gematsu": {
       "ok": true,

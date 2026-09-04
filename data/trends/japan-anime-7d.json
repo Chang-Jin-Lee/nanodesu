@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T17:03:21.658872+00:00",
+  "generated_at": "2026-09-04T16:46:42.176883+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
       "title": "Jujutsu Kaisen",
-      "mentions": 7,
+      "mentions": 9,
       "sources": [
         "animeanime",
         "fourgamer"
@@ -19,16 +19,16 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Bleach",
-      "mentions": 3,
+      "mentions": 2,
       "sources": [
         "animeanime",
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "ONE PIECE",
@@ -36,10 +36,18 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 2
+      "delta": 0
     },
     {
       "title": "Chainsaw Man",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 0
+    },
+    {
+      "title": "Haikyu!!",
       "mentions": 1,
       "sources": [
         "animeanime"
@@ -52,7 +60,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": null
+      "delta": -1
     }
   ]
 }

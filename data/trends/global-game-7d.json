@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-09-02T17:03:21.639650+00:00",
+  "generated_at": "2026-09-04T16:46:42.156957+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
-      "title": "Zenless Zone Zero",
-      "mentions": 3,
+      "title": "Umamusume: Pretty Derby",
+      "mentions": 1,
       "sources": [
-        "animecorner",
-        "gematsu",
-        "rpgsite"
+        "automatonwest"
       ],
-      "delta": 0
+      "delta": null
+    },
+    {
+      "title": "Zenless Zone Zero",
+      "mentions": 1,
+      "sources": [
+        "animecorner"
+      ],
+      "delta": -1
     }
   ]
 }

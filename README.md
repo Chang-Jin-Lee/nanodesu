@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-09-02 17:03 UTC
+Last updated: 2026-09-04 16:46 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-09-02 17:03 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 7 | - | animecorner, ann, reddit_anime |
-| 2 | ONE PIECE | 7 | - | animecorner, ann |
-| 3 | Jujutsu Kaisen | 3 | ▲1 | animecorner |
-| 4 | Sparks of Tomorrow | 3 | ▲7 | ann, myanimelist |
-| 5 | Chainsmoker Cat | 2 | ▲12 | reddit_anime |
+| 1 | Bleach | 5 | - | animecorner, ann |
+| 2 | Jujutsu Kaisen | 4 | ▲1 | animecorner |
+| 3 | ONE PIECE | 4 | ▼1 | animecorner, ann |
+| 4 | Clevatess Season 2 | 3 | ▲2 | ann, reddit_anime |
+| 5 | Sparks of Tomorrow | 3 | ▼1 | ann, myanimelist |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,7 +40,8 @@ Last updated: 2026-09-02 17:03 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 3 | - | animecorner, gematsu, rpgsite |
+| 1 | Umamusume: Pretty Derby | 1 | NEW | automatonwest |
+| 2 | Zenless Zone Zero | 1 | ▼1 | animecorner |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -49,20 +50,18 @@ Last updated: 2026-09-02 17:03 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 7 | - | animeanime, fourgamer |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | ▲1 | animeanime |
-| 3 | Bleach | 3 | ▼1 | animeanime, fourgamer |
-| 4 | ONE PIECE | 2 | ▲2 | animeanime |
-| 5 | Chainsaw Man | 1 | NEW | animeanime |
+| 1 | Jujutsu Kaisen | 9 | - | animeanime, fourgamer |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | - | animeanime |
+| 3 | Bleach | 2 | - | animeanime, fourgamer |
+| 4 | ONE PIECE | 2 | - | animeanime |
+| 5 | Chainsaw Man | 1 | - | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
 ## 🎌 Japan — Game Buzz Top 5 (Last 7 Days)
 
 <!--START_SECTION:japan-game-top5-->
-| # | Title | Mentions | Δ | Sources |
-|---|---|---|---|---|
-| 1 | Zenless Zone Zero | 1 | ▲1 | fourgamer |
+_No data yet._
 
 <!--END_SECTION:japan-game-top5-->
 

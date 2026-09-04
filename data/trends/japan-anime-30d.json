@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:03:21.668524+00:00",
+  "generated_at": "2026-09-04T16:46:42.186941+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
@@ -24,7 +24,7 @@
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 15,
+      "mentions": 14,
       "sources": [
         "animeanime"
       ],
@@ -32,7 +32,7 @@
     },
     {
       "title": "Haikyu!!",
-      "mentions": 13,
+      "mentions": 12,
       "sources": [
         "animeanime"
       ],
@@ -40,7 +40,7 @@
     },
     {
       "title": "Bleach",
-      "mentions": 7,
+      "mentions": 6,
       "sources": [
         "animeanime",
         "fourgamer"
@@ -49,15 +49,6 @@
     },
     {
       "title": "THE GHOST IN THE SHELL",
-      "mentions": 4,
-      "sources": [
-        "animeanime",
-        "gamewatch"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Chainsaw Man",
       "mentions": 3,
       "sources": [
         "animeanime",
@@ -66,19 +57,27 @@
       "delta": 0
     },
     {
-      "title": "Spy x Family",
+      "title": "Chainsaw Man",
       "mentions": 2,
       "sources": [
         "animeanime",
-        "fourgamer"
+        "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Naruto",
       "mentions": 1,
       "sources": [
         "animeanime"
+      ],
+      "delta": 1
+    },
+    {
+      "title": "Spy x Family",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
       ],
       "delta": -1
     }

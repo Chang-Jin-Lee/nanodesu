@@ -4,18 +4,17 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 7 | - | animeanime, fourgamer |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | ▲1 | animeanime |
-| 3 | Bleach | 3 | ▼1 | animeanime, fourgamer |
-| 4 | ONE PIECE | 2 | ▲2 | animeanime |
-| 5 | Chainsaw Man | 1 | NEW | animeanime |
-| 6 | Spy x Family | 1 | NEW | fourgamer |
+| 1 | Jujutsu Kaisen | 9 | - | animeanime, fourgamer |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | - | animeanime |
+| 3 | Bleach | 2 | - | animeanime, fourgamer |
+| 4 | ONE PIECE | 2 | - | animeanime |
+| 5 | Chainsaw Man | 1 | - | animeanime |
+| 6 | Haikyu!! | 1 | NEW | animeanime |
+| 7 | Spy x Family | 1 | ▼1 | fourgamer |
 
 ## Game Buzz — Last 7 Days
 
-| # | Title | Mentions | Δ | Sources |
-|---|---|---|---|---|
-| 1 | Zenless Zone Zero | 1 | ▲1 | fourgamer |
+_No data yet._
 
 ## Anime Buzz — Last 30 Days
 
@@ -23,13 +22,13 @@
 |---|---|---|---|---|
 | 1 | ONE PIECE | 21 | - | animeanime |
 | 2 | Jujutsu Kaisen | 18 | - | animeanime, fourgamer, gamewatch |
-| 3 | Demon Slayer: Kimetsu no Yaiba | 15 | - | animeanime |
-| 4 | Haikyu!! | 13 | - | animeanime |
-| 5 | Bleach | 7 | - | animeanime, fourgamer |
-| 6 | THE GHOST IN THE SHELL | 4 | - | animeanime, gamewatch |
-| 7 | Chainsaw Man | 3 | - | animeanime, gamewatch |
-| 8 | Spy x Family | 2 | ▲1 | animeanime, fourgamer |
-| 9 | Naruto | 1 | ▼1 | animeanime |
+| 3 | Demon Slayer: Kimetsu no Yaiba | 14 | - | animeanime |
+| 4 | Haikyu!! | 12 | - | animeanime |
+| 5 | Bleach | 6 | - | animeanime, fourgamer |
+| 6 | THE GHOST IN THE SHELL | 3 | - | animeanime, gamewatch |
+| 7 | Chainsaw Man | 2 | - | animeanime, gamewatch |
+| 8 | Naruto | 1 | ▲1 | animeanime |
+| 9 | Spy x Family | 1 | ▼1 | fourgamer |
 
 ## Game Buzz — Last 30 Days
 
@@ -55,7 +54,7 @@
 | 超かぐや姫! × 小僧寿し 9月9日よりコラボメニュー登場! |  | 2026-09-09 | 2026-09-30 | [link](https://collabo-cafe.com/events/collabo/cho-kaguyahime-kozosushi-collabo-2026/) |
 | 文豪ストレイドッグス × ZOZOTOWN 9月9日より受注販売開始! |  | 2026-09-09 | 2026-10-09 | [link](https://collabo-cafe.com/events/collabo/bungo-stray-dogs-zozotown-2026/) |
 | しゅごキャラ! ポップアップストア in 東京駅 9月25日より開催! | 東京駅 | 2026-09-25 | 2026-10-01 | [link](https://collabo-cafe.com/events/collabo/shugo-chara-pop-up-store-tokyoeki-1bangai-2026/) |
-| ハイキュー!! くじラック 9月26日発売! ブロックレンがテーマ |  | 2026-09-26 | - | [link](https://collabo-cafe.com/events/collabo/haikyu-kujiluck-blockren-2026/) |
+| ドラゴンボール超 ビルス 10月11日よりフジテレビで放送開始! |  | - | - | [link](https://collabo-cafe.com/events/collabo/dbsuper-beerus-anime-2026/) |
 | らんま1/2 第3期 10月3日より日本テレビにて放送開始! |  | - | - | [link](https://collabo-cafe.com/events/collabo/ranma-12-anime-season3-2026/) |
 | ちいかわ 横浜ナイトフラワーズ 9月5日にコラボ花火が再打ち上げ! |  | - | - | [link](https://collabo-cafe.com/events/collabo/chiikawa-yokohama-night-flowers-hanabi-2026/) |
 | 響け! ユーフォニアム ゆーふぉにあむ茶屋 9月11日より開催! |  | - | - | [link](https://collabo-cafe.com/events/collabo/eupho-hibike-yufoniamu-chaya-cafe-2026/) |
