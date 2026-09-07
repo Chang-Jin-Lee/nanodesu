@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T16:46:41.541591+00:00",
+  "generated_at": "2026-09-07T18:09:20.693598+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 180
+      "count": 183
     },
     "myanimelist": {
       "ok": true,
@@ -19,8 +19,9 @@
       "optional": false
     },
     "reddit_gachagaming": {
-      "ok": true,
-      "count": 25
+      "ok": false,
+      "error": "failed to fetch https://www.reddit.com/r/gachagaming/.rss after 3 attempts: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/gachagaming/.rss",
+      "optional": true
     },
     "gematsu": {
       "ok": true,
@@ -36,7 +37,7 @@
     },
     "noisypixel": {
       "ok": true,
-      "count": 0
+      "count": 20
     },
     "rpgsite": {
       "ok": true,
@@ -59,8 +60,8 @@
       "count": 50
     },
     "anilist": {
-      "ok": true,
-      "count": 25
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
     },
     "steam-4162040": {
       "ok": true,

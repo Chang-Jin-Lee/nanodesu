@@ -4,42 +4,43 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 9 | - | animeanime, fourgamer |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | - | animeanime |
-| 3 | Bleach | 2 | - | animeanime, fourgamer |
-| 4 | ONE PIECE | 2 | - | animeanime |
-| 5 | Chainsaw Man | 1 | - | animeanime |
-| 6 | Haikyu!! | 1 | NEW | animeanime |
-| 7 | Spy x Family | 1 | ▼1 | fourgamer |
+| 1 | ONE PIECE | 4 | ▲3 | animeanime |
+| 2 | Chainsaw Man | 3 | ▲3 | animeanime, gamewatch |
+| 3 | Jujutsu Kaisen | 3 | ▼2 | animeanime |
+| 4 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼2 | animeanime |
+| 5 | Bleach | 1 | ▼2 | animeanime |
+| 6 | Haikyu!! | 1 | - | animeanime |
+| 7 | Spy x Family | 1 | - | fourgamer |
 
 ## Game Buzz — Last 7 Days
 
-_No data yet._
+| # | Title | Mentions | Δ | Sources |
+|---|---|---|---|---|
+| 1 | Genshin Impact | 2 | NEW | fourgamer, gamewatch |
 
 ## Anime Buzz — Last 30 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 21 | - | animeanime |
-| 2 | Jujutsu Kaisen | 18 | - | animeanime, fourgamer, gamewatch |
+| 1 | ONE PIECE | 22 | - | animeanime |
+| 2 | Jujutsu Kaisen | 17 | - | animeanime, fourgamer, gamewatch |
 | 3 | Demon Slayer: Kimetsu no Yaiba | 14 | - | animeanime |
-| 4 | Haikyu!! | 12 | - | animeanime |
-| 5 | Bleach | 6 | - | animeanime, fourgamer |
-| 6 | THE GHOST IN THE SHELL | 3 | - | animeanime, gamewatch |
-| 7 | Chainsaw Man | 2 | - | animeanime, gamewatch |
-| 8 | Naruto | 1 | ▲1 | animeanime |
-| 9 | Spy x Family | 1 | ▼1 | fourgamer |
+| 4 | Haikyu!! | 11 | - | animeanime |
+| 5 | Bleach | 7 | - | animeanime, fourgamer |
+| 6 | Chainsaw Man | 4 | ▲1 | animeanime, gamewatch |
+| 7 | THE GHOST IN THE SHELL | 3 | ▼1 | animeanime, gamewatch |
+| 8 | Naruto | 1 | - | animeanime |
+| 9 | Spy x Family | 1 | - | fourgamer |
 
 ## Game Buzz — Last 30 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 6 | - | fourgamer |
+| 1 | Genshin Impact | 5 | ▲2 | animeanime, fourgamer, gamewatch |
 | 2 | Umamusume: Pretty Derby | 5 | - | animeanime, fourgamer, gamewatch |
-| 3 | Genshin Impact | 4 | - | animeanime, fourgamer, gamewatch |
-| 4 | Honkai: Star Rail | 4 | - | fourgamer |
+| 3 | Honkai: Star Rail | 4 | ▲1 | fourgamer |
+| 4 | Zenless Zone Zero | 4 | ▼3 | fourgamer |
 | 5 | Blue Archive | 1 | - | animeanime |
-| 6 | Wuthering Waves | 1 | - | fourgamer |
 
 ## Collab & Event Calendar
 

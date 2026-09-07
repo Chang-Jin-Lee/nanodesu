@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-09-04 16:46 UTC
+Last updated: 2026-09-07 18:09 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-09-04 16:46 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 5 | - | animecorner, ann |
-| 2 | Jujutsu Kaisen | 4 | ▲1 | animecorner |
-| 3 | ONE PIECE | 4 | ▼1 | animecorner, ann |
-| 4 | Clevatess Season 2 | 3 | ▲2 | ann, reddit_anime |
-| 5 | Sparks of Tomorrow | 3 | ▼1 | ann, myanimelist |
+| 1 | ONE PIECE | 4 | ▲2 | animecorner, ann |
+| 2 | The World Is Dancing | 4 | ▲4 | ann, reddit_anime |
+| 3 | Black Clover | 3 | ▲4 | animecorner, ann |
+| 4 | Bleach | 3 | ▼3 | animecorner, ann |
+| 5 | Chainsmoker Cat | 3 | ▲3 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,8 +40,7 @@ Last updated: 2026-09-04 16:46 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 1 | NEW | automatonwest |
-| 2 | Zenless Zone Zero | 1 | ▼1 | animecorner |
+| 1 | Umamusume: Pretty Derby | 1 | - | automatonwest |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -50,18 +49,20 @@ Last updated: 2026-09-04 16:46 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 9 | - | animeanime, fourgamer |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 4 | - | animeanime |
-| 3 | Bleach | 2 | - | animeanime, fourgamer |
-| 4 | ONE PIECE | 2 | - | animeanime |
-| 5 | Chainsaw Man | 1 | - | animeanime |
+| 1 | ONE PIECE | 4 | ▲3 | animeanime |
+| 2 | Chainsaw Man | 3 | ▲3 | animeanime, gamewatch |
+| 3 | Jujutsu Kaisen | 3 | ▼2 | animeanime |
+| 4 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼2 | animeanime |
+| 5 | Bleach | 1 | ▼2 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
 ## 🎌 Japan — Game Buzz Top 5 (Last 7 Days)
 
 <!--START_SECTION:japan-game-top5-->
-_No data yet._
+| # | Title | Mentions | Δ | Sources |
+|---|---|---|---|---|
+| 1 | Genshin Impact | 2 | NEW | fourgamer, gamewatch |
 
 <!--END_SECTION:japan-game-top5-->
 

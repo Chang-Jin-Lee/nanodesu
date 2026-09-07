@@ -1,30 +1,22 @@
 {
-  "generated_at": "2026-09-04T16:46:42.206958+00:00",
+  "generated_at": "2026-09-07T18:09:21.298530+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
-      "title": "Zenless Zone Zero",
-      "mentions": 6,
-      "sources": [
-        "fourgamer"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Umamusume: Pretty Derby",
+      "title": "Genshin Impact",
       "mentions": 5,
       "sources": [
         "animeanime",
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 0
+      "delta": 2
     },
     {
-      "title": "Genshin Impact",
-      "mentions": 4,
+      "title": "Umamusume: Pretty Derby",
+      "mentions": 5,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -38,21 +30,21 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "Zenless Zone Zero",
+      "mentions": 4,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": -3
     },
     {
       "title": "Blue Archive",
       "mentions": 1,
       "sources": [
         "animeanime"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Wuthering Waves",
-      "mentions": 1,
-      "sources": [
-        "fourgamer"
       ],
       "delta": 0
     }

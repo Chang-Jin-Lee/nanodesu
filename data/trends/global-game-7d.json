@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:46:42.156957+00:00",
+  "generated_at": "2026-09-07T18:09:21.252070+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -10,15 +10,7 @@
       "sources": [
         "automatonwest"
       ],
-      "delta": null
-    },
-    {
-      "title": "Zenless Zone Zero",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": -1
+      "delta": 0
     }
   ]
 }
