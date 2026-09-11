@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-09-09 17:04 UTC
+Last updated: 2026-09-11 16:57 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-09-09 17:04 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | The World Is Dancing | 5 | ▲1 | ann, reddit_anime |
-| 2 | Bleach | 3 | ▲2 | animecorner, ann |
-| 3 | Chainsmoker Cat | 3 | ▲2 | ann, reddit_anime |
-| 4 | Sparks of Tomorrow | 3 | ▲26 | animecorner, ann, reddit_anime |
-| 5 | THE GHOST IN THE SHELL | 3 | ▲26 | ann, reddit_anime |
+| 1 | Bleach | 4 | ▲1 | animecorner, ann, reddit_anime |
+| 2 | Sparks of Tomorrow | 4 | ▲2 | animecorner, ann, reddit_anime |
+| 3 | THE GHOST IN THE SHELL | 4 | ▲2 | ann, reddit_anime |
+| 4 | The World Is Dancing | 4 | ▼3 | ann, reddit_anime |
+| 5 | Jaadugar: A Witch in Mongolia | 3 | ▲5 | animecorner, ann |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,8 +40,7 @@ Last updated: 2026-09-09 17:04 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 1 | NEW | animecorner |
-| 2 | Umamusume: Pretty Derby | 1 | ▼1 | automatonwest |
+| 1 | Genshin Impact | 2 | - | animecorner, automatonwest |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -50,10 +49,10 @@ Last updated: 2026-09-09 17:04 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Chainsaw Man | 3 | ▲1 | animeanime, gamewatch |
-| 2 | Jujutsu Kaisen | 3 | ▲1 | animeanime |
-| 3 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
-| 4 | ONE PIECE | 2 | ▼3 | animeanime |
+| 1 | Chainsaw Man | 6 | - | animeanime, gamewatch |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
+| 3 | Jujutsu Kaisen | 2 | ▼1 | animeanime |
+| 4 | ONE PIECE | 2 | - | animeanime |
 | 5 | Bleach | 1 | - | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
@@ -64,7 +63,8 @@ Last updated: 2026-09-09 17:04 UTC
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
 | 1 | Genshin Impact | 3 | - | animeanime, fourgamer, gamewatch |
-| 2 | Umamusume: Pretty Derby | 1 | NEW | animeanime |
+| 2 | Umamusume: Pretty Derby | 2 | - | animeanime, fourgamer |
+| 3 | Blue Archive | 1 | NEW | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

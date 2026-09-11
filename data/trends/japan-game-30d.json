@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T17:04:25.286266+00:00",
+  "generated_at": "2026-09-11T16:57:10.875087+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
-      "title": "Umamusume: Pretty Derby",
-      "mentions": 6,
+      "title": "Genshin Impact",
+      "mentions": 5,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -15,12 +15,11 @@
       "delta": 1
     },
     {
-      "title": "Genshin Impact",
+      "title": "Umamusume: Pretty Derby",
       "mentions": 5,
       "sources": [
         "animeanime",
-        "fourgamer",
-        "gamewatch"
+        "fourgamer"
       ],
       "delta": -1
     },
@@ -30,15 +29,23 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
-      "mentions": 3,
+      "mentions": 2,
       "sources": [
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
+    },
+    {
+      "title": "Blue Archive",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": null
     }
   ]
 }

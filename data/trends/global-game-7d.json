@@ -1,24 +1,17 @@
 {
-  "generated_at": "2026-09-09T17:04:25.234123+00:00",
+  "generated_at": "2026-09-11T16:57:10.821069+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
       "title": "Genshin Impact",
-      "mentions": 1,
+      "mentions": 2,
       "sources": [
-        "animecorner"
-      ],
-      "delta": null
-    },
-    {
-      "title": "Umamusume: Pretty Derby",
-      "mentions": 1,
-      "sources": [
+        "animecorner",
         "automatonwest"
       ],
-      "delta": -1
+      "delta": 0
     }
   ]
 }

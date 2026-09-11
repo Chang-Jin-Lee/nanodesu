@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:04:25.275746+00:00",
+  "generated_at": "2026-09-11T16:57:10.864162+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 7,
@@ -16,9 +16,18 @@
     },
     {
       "title": "Umamusume: Pretty Derby",
+      "mentions": 2,
+      "sources": [
+        "animeanime",
+        "fourgamer"
+      ],
+      "delta": 0
+    },
+    {
+      "title": "Blue Archive",
       "mentions": 1,
       "sources": [
-        "animeanime"
+        "fourgamer"
       ],
       "delta": null
     }
