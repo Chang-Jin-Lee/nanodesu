@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T16:57:10.213920+00:00",
+  "generated_at": "2026-09-14T18:24:25.085413+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 187
+      "count": 202
     },
     "myanimelist": {
       "ok": true,
@@ -60,8 +60,8 @@
       "count": 50
     },
     "anilist": {
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
+      "ok": true,
+      "count": 25
     },
     "steam-4162040": {
       "ok": true,

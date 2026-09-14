@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-09-11T16:57:10.842473+00:00",
+  "generated_at": "2026-09-14T18:24:25.742873+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
       "title": "Chainsaw Man",
-      "mentions": 6,
+      "mentions": 4,
       "sources": [
-        "animeanime",
-        "gamewatch"
+        "animeanime"
       ],
       "delta": 0
     },
@@ -19,18 +18,10 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Jujutsu Kaisen",
-      "mentions": 2,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "ONE PIECE",
       "mentions": 2,
       "sources": [
         "animeanime"
@@ -43,7 +34,15 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "Haikyu!!",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
     },
     {
       "title": "Spy x Family",
@@ -51,7 +50,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     }
   ]
 }

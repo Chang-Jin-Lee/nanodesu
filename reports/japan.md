@@ -4,31 +4,33 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Chainsaw Man | 6 | - | animeanime, gamewatch |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
-| 3 | Jujutsu Kaisen | 2 | ▼1 | animeanime |
-| 4 | ONE PIECE | 2 | - | animeanime |
-| 5 | Bleach | 1 | - | animeanime |
-| 6 | Spy x Family | 1 | ▲1 | animeanime |
+| 1 | Chainsaw Man | 4 | - | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | - | animeanime |
+| 3 | Jujutsu Kaisen | 2 | - | animeanime |
+| 4 | Bleach | 1 | ▲1 | animeanime |
+| 5 | Haikyu!! | 1 | NEW | animeanime |
+| 6 | Spy x Family | 1 | - | animeanime |
 
 ## Game Buzz — Last 7 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 3 | - | animeanime, fourgamer, gamewatch |
-| 2 | Umamusume: Pretty Derby | 2 | - | animeanime, fourgamer |
-| 3 | Blue Archive | 1 | NEW | fourgamer |
+| 1 | Genshin Impact | 2 | - | animeanime, fourgamer |
+| 2 | Honkai: Star Rail | 2 | NEW | fourgamer |
+| 3 | Blue Archive | 1 | - | fourgamer |
+| 4 | Umamusume: Pretty Derby | 1 | ▼2 | fourgamer |
+| 5 | Wuthering Waves | 1 | NEW | gamewatch |
 
 ## Anime Buzz — Last 30 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 18 | ▲1 | animeanime, fourgamer, gamewatch |
-| 2 | ONE PIECE | 16 | ▼1 | animeanime |
+| 1 | Jujutsu Kaisen | 18 | - | animeanime, fourgamer, gamewatch |
+| 2 | ONE PIECE | 15 | - | animeanime |
 | 3 | Demon Slayer: Kimetsu no Yaiba | 11 | - | animeanime |
 | 4 | Haikyu!! | 9 | - | animeanime |
-| 5 | Chainsaw Man | 8 | ▲1 | animeanime, gamewatch |
-| 6 | Bleach | 6 | ▼1 | animeanime, fourgamer |
+| 5 | Chainsaw Man | 8 | - | animeanime, gamewatch |
+| 6 | Bleach | 7 | - | animeanime, fourgamer |
 | 7 | Spy x Family | 2 | - | animeanime, fourgamer |
 | 8 | Naruto | 1 | - | animeanime |
 | 9 | THE GHOST IN THE SHELL | 1 | - | gamewatch |
@@ -37,11 +39,12 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 5 | ▲1 | animeanime, fourgamer, gamewatch |
-| 2 | Umamusume: Pretty Derby | 5 | ▼1 | animeanime, fourgamer |
-| 3 | Zenless Zone Zero | 4 | - | fourgamer |
-| 4 | Honkai: Star Rail | 2 | - | fourgamer |
-| 5 | Blue Archive | 1 | NEW | fourgamer |
+| 1 | Genshin Impact | 6 | - | animeanime, fourgamer, gamewatch |
+| 2 | Umamusume: Pretty Derby | 4 | - | animeanime, fourgamer |
+| 3 | Honkai: Star Rail | 3 | ▲1 | fourgamer |
+| 4 | Zenless Zone Zero | 3 | ▼1 | fourgamer |
+| 5 | Blue Archive | 1 | - | fourgamer |
+| 6 | Wuthering Waves | 1 | NEW | gamewatch |
 
 ## Collab & Event Calendar
 
@@ -65,7 +68,6 @@
 | アオアシ Season2 10月4日放送開始! メインPV解禁 |  | - | - | [link](https://collabo-cafe.com/events/collabo/aoashi-anime-season2-main-pv-2026/) |
 | 妖狐×僕SS ひまわりと白衣装の新規描き下ろしグッズ 11月一般発売! |  | - | 2026-09-15 | [link](https://collabo-cafe.com/events/collabo/inuboku-sunflower-contents-seed-anime-store-goods2026/) |
 | となりの吸血鬼さん「ゆめいろバニー」C108先行グッズ 一般発売! |  | - | 2026-10-18 | [link](https://collabo-cafe.com/events/collabo/kyuketsukisan-yumeiro-bunny-curtain-damashii-anime-store-goods2026/) |
-| 多聞くん今どっち!? F/ACEメンバーの「くるみたぴぬい」発売! |  | - | 2026-09-12 | [link](https://collabo-cafe.com/events/collabo/tamonkun-ima-docchi-kurumitapinui-tapioca-anime-store-goods2026/) |
 | たまごっち チョコボックス 12月発売! 全11種のフィギュア入り |  | - | - | [link](https://collabo-cafe.com/events/collabo/tamagotchi-chocobox-box-figure-collection-2026/) |
 | コミックマーケット (Comiket) | 東京ビッグサイト | - | - | [link](https://www.comiket.co.jp/) |
 

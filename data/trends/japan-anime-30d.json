@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:57:10.853314+00:00",
+  "generated_at": "2026-09-14T18:24:25.754148+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
@@ -12,15 +12,15 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "ONE PIECE",
-      "mentions": 16,
+      "mentions": 15,
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -45,16 +45,16 @@
         "animeanime",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Bleach",
-      "mentions": 6,
+      "mentions": 7,
       "sources": [
         "animeanime",
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Spy x Family",

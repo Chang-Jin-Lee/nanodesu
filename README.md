@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-09-11 16:57 UTC
+Last updated: 2026-09-14 18:24 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-09-11 16:57 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Bleach | 4 | ▲1 | animecorner, ann, reddit_anime |
-| 2 | Sparks of Tomorrow | 4 | ▲2 | animecorner, ann, reddit_anime |
-| 3 | THE GHOST IN THE SHELL | 4 | ▲2 | ann, reddit_anime |
-| 4 | The World Is Dancing | 4 | ▼3 | ann, reddit_anime |
-| 5 | Jaadugar: A Witch in Mongolia | 3 | ▲5 | animecorner, ann |
+| 1 | Bleach | 6 | - | animecorner, ann, reddit_anime |
+| 2 | Sparks of Tomorrow | 4 | - | animecorner, ann, reddit_anime |
+| 3 | THE GHOST IN THE SHELL | 4 | - | ann, reddit_anime |
+| 4 | Mushoku Tensei: Jobless Reincarnation Season 3 | 3 | ▲22 | animecorner, reddit_anime |
+| 5 | Naruto | 3 | ▲4 | animecorner, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -49,11 +49,11 @@ Last updated: 2026-09-11 16:57 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Chainsaw Man | 6 | - | animeanime, gamewatch |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
-| 3 | Jujutsu Kaisen | 2 | ▼1 | animeanime |
-| 4 | ONE PIECE | 2 | - | animeanime |
-| 5 | Bleach | 1 | - | animeanime |
+| 1 | Chainsaw Man | 4 | - | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | - | animeanime |
+| 3 | Jujutsu Kaisen | 2 | - | animeanime |
+| 4 | Bleach | 1 | ▲1 | animeanime |
+| 5 | Haikyu!! | 1 | NEW | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -62,9 +62,11 @@ Last updated: 2026-09-11 16:57 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 3 | - | animeanime, fourgamer, gamewatch |
-| 2 | Umamusume: Pretty Derby | 2 | - | animeanime, fourgamer |
-| 3 | Blue Archive | 1 | NEW | fourgamer |
+| 1 | Genshin Impact | 2 | - | animeanime, fourgamer |
+| 2 | Honkai: Star Rail | 2 | NEW | fourgamer |
+| 3 | Blue Archive | 1 | - | fourgamer |
+| 4 | Umamusume: Pretty Derby | 1 | ▼2 | fourgamer |
+| 5 | Wuthering Waves | 1 | NEW | gamewatch |
 
 <!--END_SECTION:japan-game-top5-->
 
