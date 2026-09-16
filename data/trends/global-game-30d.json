@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T18:24:25.731702+00:00",
+  "generated_at": "2026-09-16T17:32:02.083725+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -18,13 +18,13 @@
     },
     {
       "title": "Genshin Impact",
-      "mentions": 4,
+      "mentions": 3,
       "sources": [
         "animecorner",
         "automatonwest",
         "reddit_gachagaming"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -33,7 +33,7 @@
         "animecorner",
         "automatonwest"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Blue Archive",
@@ -41,7 +41,7 @@
       "sources": [
         "automatonwest"
       ],
-      "delta": 1
+      "delta": 0
     }
   ]
 }

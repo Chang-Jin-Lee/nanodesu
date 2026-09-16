@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T18:24:25.776777+00:00",
+  "generated_at": "2026-09-16T17:32:02.109225+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Genshin Impact",
-      "mentions": 6,
+      "mentions": 5,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Umamusume: Pretty Derby",
-      "mentions": 4,
+      "mentions": 5,
       "sources": [
         "animeanime",
         "fourgamer"
@@ -29,15 +29,15 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Zenless Zone Zero",
-      "mentions": 3,
+      "mentions": 2,
       "sources": [
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Blue Archive",
@@ -53,7 +53,7 @@
       "sources": [
         "gamewatch"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }
