@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-09-16T17:32:02.096458+00:00",
+  "generated_at": "2026-09-18T16:59:50.363044+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "Jujutsu Kaisen",
-      "mentions": 19,
+      "mentions": 16,
       "sources": [
         "animeanime",
-        "fourgamer",
-        "gamewatch"
+        "fourgamer"
       ],
       "delta": 0
     },
@@ -23,16 +22,8 @@
       "delta": 0
     },
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 10,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Chainsaw Man",
-      "mentions": 9,
+      "mentions": 13,
       "sources": [
         "animeanime",
         "gamewatch"
@@ -40,8 +31,8 @@
       "delta": 1
     },
     {
-      "title": "Haikyu!!",
-      "mentions": 8,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 11,
       "sources": [
         "animeanime"
       ],
@@ -54,7 +45,15 @@
         "animeanime",
         "fourgamer"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "Haikyu!!",
+      "mentions": 6,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": -1
     },
     {
       "title": "Naruto",
@@ -62,7 +61,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Spy x Family",
@@ -71,7 +70,7 @@
         "animeanime",
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "THE GHOST IN THE SHELL",

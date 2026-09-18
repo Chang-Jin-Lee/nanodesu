@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T17:32:01.684111+00:00",
+  "generated_at": "2026-09-18T16:59:49.714769+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 207
+      "count": 206
     },
     "myanimelist": {
       "ok": true,
@@ -14,9 +14,8 @@
       "count": 25
     },
     "reddit_manga": {
-      "ok": false,
-      "error": "failed to fetch https://www.reddit.com/r/manga/.rss after 3 attempts: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/manga/.rss",
-      "optional": false
+      "ok": true,
+      "count": 25
     },
     "reddit_gachagaming": {
       "ok": false,
@@ -37,7 +36,7 @@
     },
     "noisypixel": {
       "ok": true,
-      "count": 20
+      "count": 0
     },
     "rpgsite": {
       "ok": true,
