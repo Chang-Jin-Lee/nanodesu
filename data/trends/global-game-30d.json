@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-09-18T16:59:50.339799+00:00",
+  "generated_at": "2026-09-21T18:31:48.526394+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
   "entries": [
-    {
-      "title": "Zenless Zone Zero",
-      "mentions": 5,
-      "sources": [
-        "animecorner",
-        "automatonwest",
-        "gematsu",
-        "reddit_gachagaming",
-        "rpgsite"
-      ],
-      "delta": 0
-    },
     {
       "title": "Umamusume: Pretty Derby",
       "mentions": 4,
@@ -26,6 +14,17 @@
       "delta": 1
     },
     {
+      "title": "Zenless Zone Zero",
+      "mentions": 4,
+      "sources": [
+        "animecorner",
+        "gematsu",
+        "reddit_gachagaming",
+        "rpgsite"
+      ],
+      "delta": -1
+    },
+    {
       "title": "Genshin Impact",
       "mentions": 3,
       "sources": [
@@ -33,7 +32,7 @@
         "automatonwest",
         "reddit_gachagaming"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Blue Archive",
@@ -42,6 +41,15 @@
         "automatonwest"
       ],
       "delta": 0
+    },
+    {
+      "title": "Honkai: Star Rail",
+      "mentions": 2,
+      "sources": [
+        "gematsu",
+        "rpgsite"
+      ],
+      "delta": null
     }
   ]
 }
