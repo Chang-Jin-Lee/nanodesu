@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-21T18:31:48.574864+00:00",
+  "generated_at": "2026-09-23T17:45:41.070777+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
-      "title": "Honkai: Star Rail",
+      "title": "Genshin Impact",
       "mentions": 6,
       "sources": [
+        "animeanime",
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 2
+      "delta": 1
     },
     {
-      "title": "Genshin Impact",
-      "mentions": 5,
+      "title": "Honkai: Star Rail",
+      "mentions": 6,
       "sources": [
-        "animeanime",
         "fourgamer",
         "gamewatch"
       ],
@@ -30,7 +30,7 @@
         "animeanime",
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",
@@ -39,18 +39,18 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 2
-    },
-    {
-      "title": "Zenless Zone Zero",
-      "mentions": 2,
-      "sources": [
-        "fourgamer"
-      ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Blue Archive",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": 1
+    },
+    {
+      "title": "Zenless Zone Zero",
       "mentions": 1,
       "sources": [
         "fourgamer"
