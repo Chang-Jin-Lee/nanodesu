@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-09-23 17:45 UTC
+Last updated: 2026-09-25 17:49 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-09-23 17:45 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Though I Am an Inept Villainess | 4 | - | animecorner, ann, reddit_anime |
-| 2 | Clevatess Season 2 | 3 | - | ann, reddit_anime |
-| 3 | Chainsmoker Cat | 2 | ▲4 | ann, automatonwest |
-| 4 | Daemons of the Shadow Realm | 2 | ▼1 | animecorner, ann |
-| 5 | Draw This, Then Die! | 2 | ▲12 | ann, reddit_anime |
+| 1 | Clevatess Season 2 | 4 | ▲1 | ann, reddit_anime |
+| 2 | Draw This, Then Die! | 4 | ▲3 | ann, reddit_anime |
+| 3 | That Time I Got Reincarnated as a Slime | 4 | ▲25 | ann, reddit_anime |
+| 4 | Though I Am an Inept Villainess | 4 | ▼3 | animecorner, ann, reddit_anime |
+| 5 | Daemons of the Shadow Realm | 3 | ▼1 | animecorner, ann |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -41,10 +41,8 @@ Last updated: 2026-09-23 17:45 UTC
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
 | 1 | Honkai: Star Rail | 4 | - | gematsu, reddit_gachagaming, rpgsite |
-| 2 | Blue Archive | 1 | - | automatonwest |
-| 3 | Umamusume: Pretty Derby | 1 | - | animecorner |
-| 4 | Wuthering Waves | 1 | NEW | reddit_gachagaming |
-| 5 | Zenless Zone Zero | 1 | NEW | reddit_gachagaming |
+| 2 | Wuthering Waves | 1 | ▲2 | reddit_gachagaming |
+| 3 | Zenless Zone Zero | 1 | ▲2 | reddit_gachagaming |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -53,11 +51,11 @@ Last updated: 2026-09-23 17:45 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Chainsaw Man | 6 | - | animeanime, gamewatch |
-| 2 | ONE PIECE | 4 | ▲3 | animeanime |
-| 3 | Demon Slayer: Kimetsu no Yaiba | 3 | - | animeanime |
-| 4 | Haikyu!! | 3 | - | animeanime |
-| 5 | Jujutsu Kaisen | 2 | ▼3 | animeanime, fourgamer |
+| 1 | ONE PIECE | 5 | ▲1 | animeanime |
+| 2 | Chainsaw Man | 3 | ▼1 | animeanime |
+| 3 | Haikyu!! | 3 | ▲1 | animeanime |
+| 4 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
+| 5 | Jujutsu Kaisen | 2 | - | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -66,10 +64,9 @@ Last updated: 2026-09-23 17:45 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Honkai: Star Rail | 3 | - | fourgamer, gamewatch |
-| 2 | Genshin Impact | 2 | ▲1 | fourgamer, gamewatch |
-| 3 | Umamusume: Pretty Derby | 1 | ▼1 | fourgamer |
-| 4 | Wuthering Waves | 1 | - | fourgamer |
+| 1 | Genshin Impact | 2 | ▲1 | fourgamer, gamewatch |
+| 2 | Honkai: Star Rail | 2 | ▼1 | fourgamer, gamewatch |
+| 3 | Wuthering Waves | 1 | ▲1 | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 
