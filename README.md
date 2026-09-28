@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-09-25 17:49 UTC
+Last updated: 2026-09-28 20:02 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,22 +27,18 @@ Last updated: 2026-09-25 17:49 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Clevatess Season 2 | 4 | ▲1 | ann, reddit_anime |
-| 2 | Draw This, Then Die! | 4 | ▲3 | ann, reddit_anime |
-| 3 | That Time I Got Reincarnated as a Slime | 4 | ▲25 | ann, reddit_anime |
-| 4 | Though I Am an Inept Villainess | 4 | ▼3 | animecorner, ann, reddit_anime |
-| 5 | Daemons of the Shadow Realm | 3 | ▼1 | animecorner, ann |
+| 1 | That Time I Got Reincarnated as a Slime | 5 | ▲2 | ann, myanimelist, reddit_anime |
+| 2 | Draw This, Then Die! | 4 | - | ann, reddit_anime |
+| 3 | LIAR GAME | 4 | ▲21 | ann, myanimelist, reddit_anime |
+| 4 | ONE PIECE | 4 | ▲2 | animecorner, ann |
+| 5 | Clevatess Season 2 | 3 | ▼4 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
 ## 🌐 Global — Game Buzz Top 5 (Last 7 Days)
 
 <!--START_SECTION:global-game-top5-->
-| # | Title | Mentions | Δ | Sources |
-|---|---|---|---|---|
-| 1 | Honkai: Star Rail | 4 | - | gematsu, reddit_gachagaming, rpgsite |
-| 2 | Wuthering Waves | 1 | ▲2 | reddit_gachagaming |
-| 3 | Zenless Zone Zero | 1 | ▲2 | reddit_gachagaming |
+_No data yet._
 
 <!--END_SECTION:global-game-top5-->
 
@@ -51,11 +47,11 @@ Last updated: 2026-09-25 17:49 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 5 | ▲1 | animeanime |
-| 2 | Chainsaw Man | 3 | ▼1 | animeanime |
-| 3 | Haikyu!! | 3 | ▲1 | animeanime |
-| 4 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
-| 5 | Jujutsu Kaisen | 2 | - | animeanime |
+| 1 | ONE PIECE | 6 | - | animeanime |
+| 2 | Haikyu!! | 5 | ▲1 | animeanime |
+| 3 | Chainsaw Man | 2 | ▼1 | animeanime |
+| 4 | Demon Slayer: Kimetsu no Yaiba | 2 | - | animeanime |
+| 5 | Jujutsu Kaisen | 1 | - | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -64,9 +60,8 @@ Last updated: 2026-09-25 17:49 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 2 | ▲1 | fourgamer, gamewatch |
-| 2 | Honkai: Star Rail | 2 | ▼1 | fourgamer, gamewatch |
-| 3 | Wuthering Waves | 1 | ▲1 | fourgamer |
+| 1 | Genshin Impact | 2 | - | fourgamer |
+| 2 | Umamusume: Pretty Derby | 2 | NEW | gamewatch |
 
 <!--END_SECTION:japan-game-top5-->
 
