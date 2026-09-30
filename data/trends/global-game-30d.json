@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:02:01.551796+00:00",
+  "generated_at": "2026-09-30T18:18:41.321180+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -21,7 +21,7 @@
         "animecorner",
         "automatonwest"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -30,7 +30,7 @@
         "animecorner",
         "automatonwest"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Blue Archive",
@@ -38,7 +38,7 @@
       "sources": [
         "automatonwest"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",
@@ -46,7 +46,7 @@
       "sources": [
         "reddit_gachagaming"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Zenless Zone Zero",
@@ -54,7 +54,7 @@
       "sources": [
         "reddit_gachagaming"
       ],
-      "delta": -4
+      "delta": 0
     }
   ]
 }

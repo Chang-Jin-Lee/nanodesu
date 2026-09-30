@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-09-28 20:02 UTC
+Last updated: 2026-09-30 18:18 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-09-28 20:02 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | That Time I Got Reincarnated as a Slime | 5 | ▲2 | ann, myanimelist, reddit_anime |
-| 2 | Draw This, Then Die! | 4 | - | ann, reddit_anime |
-| 3 | LIAR GAME | 4 | ▲21 | ann, myanimelist, reddit_anime |
-| 4 | ONE PIECE | 4 | ▲2 | animecorner, ann |
-| 5 | Clevatess Season 2 | 3 | ▼4 | ann, reddit_anime |
+| 1 | ONE PIECE | 6 | ▲3 | animecorner, ann, reddit_anime |
+| 2 | That Time I Got Reincarnated as a Slime | 5 | ▼1 | ann, myanimelist, reddit_anime |
+| 3 | Draw This, Then Die! | 4 | ▼1 | ann, reddit_anime |
+| 4 | LIAR GAME | 4 | ▼1 | ann, myanimelist, reddit_anime |
+| 5 | Clevatess Season 2 | 3 | - | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -47,11 +47,11 @@ _No data yet._
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 6 | - | animeanime |
-| 2 | Haikyu!! | 5 | ▲1 | animeanime |
-| 3 | Chainsaw Man | 2 | ▼1 | animeanime |
-| 4 | Demon Slayer: Kimetsu no Yaiba | 2 | - | animeanime |
-| 5 | Jujutsu Kaisen | 1 | - | animeanime |
+| 1 | Haikyu!! | 4 | ▲1 | animeanime |
+| 2 | ONE PIECE | 4 | ▼1 | animeanime |
+| 3 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
+| 4 | Bleach | 1 | NEW | animeanime |
+| 5 | Chainsaw Man | 1 | ▼2 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -60,8 +60,8 @@ _No data yet._
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 2 | - | fourgamer |
-| 2 | Umamusume: Pretty Derby | 2 | NEW | gamewatch |
+| 1 | Genshin Impact | 3 | - | fourgamer |
+| 2 | Umamusume: Pretty Derby | 2 | - | gamewatch |
 
 <!--END_SECTION:japan-game-top5-->
 

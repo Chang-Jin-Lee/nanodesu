@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-28T20:02:01.523987+00:00",
+  "generated_at": "2026-09-30T18:18:41.282952+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
+    {
+      "title": "ONE PIECE",
+      "mentions": 6,
+      "sources": [
+        "animecorner",
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 3
+    },
     {
       "title": "That Time I Got Reincarnated as a Slime",
       "mentions": 5,
@@ -12,7 +22,7 @@
         "myanimelist",
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": -1
     },
     {
       "title": "Draw This, Then Die!",
@@ -21,7 +31,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "LIAR GAME",
@@ -31,16 +41,7 @@
         "myanimelist",
         "reddit_anime"
       ],
-      "delta": 21
-    },
-    {
-      "title": "ONE PIECE",
-      "mentions": 4,
-      "sources": [
-        "animecorner",
-        "ann"
-      ],
-      "delta": 2
+      "delta": -1
     },
     {
       "title": "Clevatess Season 2",
@@ -49,7 +50,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": 0
     },
     {
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -58,7 +59,15 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 20
+      "delta": 0
+    },
+    {
+      "title": "Reincarnated as a Sword Season 2",
+      "mentions": 3,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
     },
     {
       "title": "That Time I Got Reincarnated as a Slime Season 4",
@@ -67,26 +76,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
-    },
-    {
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "mentions": 3,
-      "sources": [
-        "animecorner",
-        "ann"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Though I Am an Inept Villainess",
-      "mentions": 3,
-      "sources": [
-        "animecorner",
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": -5
+      "delta": -1
     },
     {
       "title": "Black Clover",
@@ -95,7 +85,7 @@
         "animecorner",
         "reddit_anime"
       ],
-      "delta": 6
+      "delta": 1
     },
     {
       "title": "Chainsmoker Cat",
@@ -104,16 +94,34 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 1
     },
     {
-      "title": "I Want to Love You Till Your Dying Day",
+      "title": "Naruto",
+      "mentions": 2,
+      "sources": [
+        "animecorner",
+        "ann"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Overgeared",
       "mentions": 2,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": -1
+      "delta": 6
+    },
+    {
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 7
     },
     {
       "title": "The Elusive Samurai Season 2",
@@ -122,7 +130,16 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 1
+      "delta": -1
+    },
+    {
+      "title": "Though I Am an Inept Villainess",
+      "mentions": 2,
+      "sources": [
+        "animecorner",
+        "reddit_anime"
+      ],
+      "delta": -6
     },
     {
       "title": "Bleach",
@@ -130,34 +147,10 @@
       "sources": [
         "myanimelist"
       ],
-      "delta": 3
+      "delta": -2
     },
     {
-      "title": "Daemons of the Shadow Realm",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -10
-    },
-    {
-      "title": "Goodbye, Lara",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 4
-    },
-    {
-      "title": "Overgeared",
+      "title": "Chainsaw Man",
       "mentions": 1,
       "sources": [
         "ann"
@@ -165,28 +158,36 @@
       "delta": null
     },
     {
+      "title": "Daemons of the Shadow Realm",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -3
+    },
+    {
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -2
+    },
+    {
+      "title": "I Want to Love You Till Your Dying Day",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -8
+    },
+    {
       "title": "Please Excuse My Younger Brothers",
       "mentions": 1,
       "sources": [
         "ann"
       ],
-      "delta": 9
-    },
-    {
-      "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 9
-    },
-    {
-      "title": "Saga of Tanya the Evil Season 2",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 9
+      "delta": -2
     },
     {
       "title": "Smoking Behind the Supermarket with You",
@@ -194,7 +195,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -10
+      "delta": 0
     },
     {
       "title": "Sparks of Tomorrow",
@@ -202,23 +203,15 @@
       "sources": [
         "ann"
       ],
-      "delta": 9
+      "delta": 0
     },
     {
-      "title": "The World Is Dancing",
+      "title": "You and I Are Polar Opposites Season 2",
       "mentions": 1,
       "sources": [
         "ann"
       ],
-      "delta": -9
-    },
-    {
-      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 11
+      "delta": null
     },
     {
       "title": "Young Ladies Don't Play Fighting Games",
@@ -226,7 +219,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 11
+      "delta": 1
     }
   ]
 }

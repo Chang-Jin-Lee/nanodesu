@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-28T20:02:01.587543+00:00",
+  "generated_at": "2026-09-30T18:18:41.371220+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Genshin Impact",
-      "mentions": 7,
+      "mentions": 9,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -22,7 +22,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
@@ -31,7 +31,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",
