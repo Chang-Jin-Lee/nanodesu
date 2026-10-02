@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-09-30T18:18:41.346349+00:00",
+  "generated_at": "2026-10-02T18:15:46.702665+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "Chainsaw Man",
-      "mentions": 15,
+      "mentions": 14,
       "sources": [
         "animeanime",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "ONE PIECE",
-      "mentions": 13,
+      "mentions": 11,
       "sources": [
         "animeanime"
       ],
-      "delta": 1
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 11,
-      "sources": [
-        "animeanime",
-        "fourgamer"
-      ],
-      "delta": -2
+      "delta": 0
     },
     {
       "title": "Haikyu!!",
@@ -39,12 +30,21 @@
       "delta": 1
     },
     {
+      "title": "Jujutsu Kaisen",
+      "mentions": 10,
+      "sources": [
+        "animeanime",
+        "fourgamer"
+      ],
+      "delta": -1
+    },
+    {
       "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 9,
+      "mentions": 8,
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Bleach",
@@ -66,10 +66,17 @@
       "title": "Spy x Family",
       "mentions": 2,
       "sources": [
-        "animeanime",
-        "fourgamer"
+        "animeanime"
       ],
       "delta": 0
+    },
+    {
+      "title": "BLACK TORCH",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
     },
     {
       "title": "GTO",
@@ -77,7 +84,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": null
+      "delta": -1
     }
   ]
 }

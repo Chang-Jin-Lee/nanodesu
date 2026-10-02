@@ -1,35 +1,27 @@
 {
-  "generated_at": "2026-09-30T18:18:41.333527+00:00",
+  "generated_at": "2026-10-02T18:15:46.688608+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
       "title": "Haikyu!!",
-      "mentions": 4,
+      "mentions": 3,
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "ONE PIECE",
-      "mentions": 4,
+      "mentions": 3,
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 2,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Bleach",
+      "title": "BLACK TORCH",
       "mentions": 1,
       "sources": [
         "animeanime"
@@ -37,7 +29,15 @@
       "delta": null
     },
     {
-      "title": "Chainsaw Man",
+      "title": "Bleach",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 0
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
       "mentions": 1,
       "sources": [
         "animeanime"
@@ -50,15 +50,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": null
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 1,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -2
+      "delta": 0
     },
     {
       "title": "Naruto",
@@ -66,7 +58,15 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -2
+      "delta": 1
+    },
+    {
+      "title": "Spy x Family",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
     }
   ]
 }
