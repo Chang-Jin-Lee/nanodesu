@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:15:46.716493+00:00",
+  "generated_at": "2026-10-05T21:05:59.509618+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 7,
@@ -14,11 +14,19 @@
     },
     {
       "title": "Umamusume: Pretty Derby",
-      "mentions": 2,
+      "mentions": 1,
       "sources": [
-        "gamewatch"
+        "animeanime"
       ],
       "delta": 0
+    },
+    {
+      "title": "Zenless Zone Zero",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": null
     }
   ]
 }

@@ -4,70 +4,73 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Haikyu!! | 3 | - | animeanime |
-| 2 | ONE PIECE | 3 | - | animeanime |
-| 3 | BLACK TORCH | 1 | NEW | animeanime |
-| 4 | Bleach | 1 | - | animeanime |
-| 5 | Demon Slayer: Kimetsu no Yaiba | 1 | ▼2 | animeanime |
+| 1 | PSYREN | 3 | NEW | animeanime, gamewatch |
+| 2 | BLACK TORCH | 1 | ▲1 | animeanime |
+| 3 | Bleach | 1 | ▲1 | animeanime |
+| 4 | Chainsaw Man | 1 | NEW | animeanime |
+| 5 | Demon Slayer: Kimetsu no Yaiba | 1 | - | animeanime |
 | 6 | GTO | 1 | - | animeanime |
-| 7 | Naruto | 1 | ▲1 | animeanime |
-| 8 | Spy x Family | 1 | NEW | animeanime |
+| 7 | Jujutsu Kaisen | 1 | NEW | animeanime |
+| 8 | Spy x Family | 1 | - | animeanime |
 
 ## Game Buzz — Last 7 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
 | 1 | Genshin Impact | 3 | - | fourgamer |
-| 2 | Umamusume: Pretty Derby | 2 | - | gamewatch |
+| 2 | Umamusume: Pretty Derby | 1 | - | animeanime |
+| 3 | Zenless Zone Zero | 1 | NEW | fourgamer |
 
 ## Anime Buzz — Last 30 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Chainsaw Man | 14 | - | animeanime, gamewatch |
+| 1 | Chainsaw Man | 15 | - | animeanime, gamewatch |
 | 2 | ONE PIECE | 11 | - | animeanime |
-| 3 | Haikyu!! | 10 | ▲1 | animeanime |
-| 4 | Jujutsu Kaisen | 10 | ▼1 | animeanime, fourgamer |
-| 5 | Demon Slayer: Kimetsu no Yaiba | 8 | - | animeanime |
+| 3 | Demon Slayer: Kimetsu no Yaiba | 9 | ▲2 | animeanime |
+| 4 | Haikyu!! | 9 | ▼1 | animeanime |
+| 5 | Jujutsu Kaisen | 9 | ▼1 | animeanime, fourgamer |
 | 6 | Bleach | 3 | - | animeanime |
-| 7 | Naruto | 2 | - | animeanime |
-| 8 | Spy x Family | 2 | - | animeanime |
-| 9 | BLACK TORCH | 1 | NEW | animeanime |
-| 10 | GTO | 1 | ▼1 | animeanime |
+| 7 | PSYREN | 3 | NEW | animeanime, gamewatch |
+| 8 | Naruto | 2 | ▼1 | animeanime |
+| 9 | Spy x Family | 2 | ▼1 | animeanime |
+| 10 | BLACK TORCH | 1 | ▼1 | animeanime |
+| 11 | GTO | 1 | ▼1 | animeanime |
 
 ## Game Buzz — Last 30 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 9 | - | animeanime, fourgamer, gamewatch |
-| 2 | Umamusume: Pretty Derby | 6 | - | animeanime, fourgamer, gamewatch |
+| 1 | Genshin Impact | 10 | - | animeanime, fourgamer, gamewatch |
+| 2 | Umamusume: Pretty Derby | 7 | - | animeanime, fourgamer, gamewatch |
 | 3 | Honkai: Star Rail | 5 | - | fourgamer, gamewatch |
 | 4 | Wuthering Waves | 2 | - | fourgamer, gamewatch |
 | 5 | Blue Archive | 1 | - | fourgamer |
+| 6 | Zenless Zone Zero | 1 | NEW | fourgamer |
 
 ## Collab & Event Calendar
 
 | Title | Venue | Start | End | Source |
 |---|---|---|---|---|
-| ラブライブ! サンシャイン!! POP UP in 新宿 10月2日より開催! | 新宿 | 2026-10-02 | 2026-10-12 | [link](https://collabo-cafe.com/events/collabo/lovelive-sunshine-marui-shinjuku-2026/) |
-| すみっコぐらし × 松屋・松のや全国 10月6日よりコラボ開催! |  | 2026-10-06 | 2026-12-22 | [link](https://collabo-cafe.com/events/collabo/sumikko-gurashi-matsuya-matsunoya-2026/) |
-| アオのハコ かぷえぼ限定 つながるアクリルチャーム 10月7日登場! |  | 2026-10-07 | - | [link](https://collabo-cafe.com/events/collabo/aonohako-capsule-toy-kapuevo-molly-fantasy-2026/) |
-| 劇場版メイドインアビス × ラウンドワン 10.9 より全国にて開催! |  | 2026-10-09 | 2027-01-11 | [link](https://collabo-cafe.com/events/collabo/made-in-abyss-round1-collabo2026/) |
-| 斉木楠雄のΨ難 ポップアップストア 10月16日より渋谷にて開催! |  | 2026-10-16 | 2026-10-25 | [link](https://collabo-cafe.com/events/collabo/saiki-kusuo-10th-pop-up-store-magnet-shibuya109-2026/) |
-| ナルミヤキャラ ラブリーなカフェ in 新宿・梅田 10月16日より! | 新宿・梅田 | 2026-10-16 | 2026-11-29 | [link](https://collabo-cafe.com/events/collabo/narumiya-characters-cafe-lovely-stand-box-cafe-tokyo-osaka-2026/) |
-| 極楽湯・RAKU SPA×『サンリオキャラクターズ』コラボレーションキャンペーンが2026年10月22日(木)より開催決定! |  | 2026-10-22 | 2026-11-10 | [link](https://collabo-cafe.com/events/collabo/gkmarketing-tsyauv08/) |
-| ウマ娘 × 苫小牧市 2026年コラボ 10月24日より開催! |  | 2026-10-24 | 2026-11-29 | [link](https://collabo-cafe.com/events/collabo/umamusume-tomakomai-collabo-2026/) |
-| しゅごキャラ! チャイナ服 ストア in 新宿 10月29日より開催! | 新宿 | 2026-10-29 | 2026-11-11 | [link](https://collabo-cafe.com/events/collabo/shugochara-popup-medicos-shinjuku-2026/) |
-| まちカドまぞく ミカン Birthday ストア in 新宿 10月30日より開催! | 新宿 | 2026-10-30 | 2026-11-10 | [link](https://collabo-cafe.com/events/collabo/machikadomazoku-mikan-birthday-medicos-shinjuku-2026/) |
-| ヘタリア POP UP SHOP in 東京・大阪 10月31日より開催! | 東京・大阪 | 2026-10-31 | 2026-12-13 | [link](https://collabo-cafe.com/events/collabo/hetalia-ws-autumn-parade-popup-2026/) |
-| シナモロール × 京都丹後鉄道 ラッピング列車 11月1日より運行! |  | 2026-11-01 | - | [link](https://collabo-cafe.com/events/collabo/cinnamoroll-tantetsu-fuwayura-osanpo-2026/) |
-| 名探偵プリキュア! × リアル脱出ゲーム 11月27日より順次開催! |  | 2026-11-27 | 2027-01-31 | [link](https://collabo-cafe.com/events/collabo/meitantei-precure-real-escape-game-2026/) |
-| おでかけ子ザメ展 in 大阪・阪神梅田本店 12月27日より開催! | 大阪・阪神梅田本店 | 2026-12-27 | 2027-01-18 | [link](https://collabo-cafe.com/events/collabo/odekake-kozame-exhibition-hanshin-umeda-osaka-2026/) |
-| マンガ メイドインアビス展 10月24日より西武池袋本店にて開催! |  | - | - | [link](https://collabo-cafe.com/events/collabo/made-in-abyss-manga-exhibition-seibu-ikebukuro2026/) |
-| らんま1/2 × 壱角家 10月16日より東京ほか10店舗にて開催! |  | - | - | [link](https://collabo-cafe.com/events/collabo/ranma-ichikakuya-collabo2026/) |
-| 劇場版まどマギ ストア&カフェ 10.17より東京ほか3会場にて開催! |  | - | - | [link](https://collabo-cafe.com/events/collabo/madoka-magica-movie-tree-village-pop-up-store2026/) |
-| ちいかわベーカリー mini 2026年冬 大丸東京にオープン決定! |  | - | - | [link](https://collabo-cafe.com/events/collabo/chiikawa-news-bakery-mini-daimaru-tokyo-2026/) |
-| お隣の天使様2「12星座ビジュアル」の新作描き下ろしグッズ発売! |  | - | 2026-10-14 | [link](https://collabo-cafe.com/events/collabo/otonarino-tenshisama-zodiac-sign-seasonalplants-anime-store-goods2026/) |
-| 暁のヨナ トロピカルがテーマの新規描き下ろしグッズ 12月発売! |  | - | 2026-10-14 | [link](https://collabo-cafe.com/events/collabo/akatsuki-no-yona-tropical-a3-anime-store-goods2026/) |
+| 多聞くん今どっち!? 花とゆめ21号 学生証風カードふろく 付属! |  | 2026-10-05 | - | [link](https://collabo-cafe.com/events/collabo/tamonkun-ima-docchi-comics-release-hanayume-no21-furoku-2026/) |
+| アオペラ ポップアップストア in 新宿 10月6日より開催! | 新宿 | 2026-10-06 | 2026-10-19 | [link](https://collabo-cafe.com/events/collabo/aoppella-pop-up-store-shinjuku-2026/) |
+| 都市伝説解体センター × カラ鉄 メニュー&コンセプトルーム詳細解禁! |  | 2026-10-08 | 2026-11-23 | [link](https://collabo-cafe.com/events/collabo/umdc-karatetsu-natsuki-collabo2026-add-info-detail/) |
+| 呪術廻戦 ファンパレくじ 懐玉・玉折Vol.2 10月9日より発売! |  | 2026-10-09 | - | [link](https://collabo-cafe.com/events/collabo/jujutsukaisen-kuji-phanpara-kaigyoku-gyokusetsu-vol2-2026/) |
+| 天は赤い河のほとり POP UP STORE in ロフト 10月15日より開催! | ロフト | 2026-10-15 | 2026-11-02 | [link](https://collabo-cafe.com/events/collabo/tenkawa-popup-shibuya-loft-2026/) |
+| ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催! | イオンモール常滑 | 2026-10-16 | 2026-11-03 | [link](https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aeonmall-tokoname-2026/) |
+| 青ブタ ディアフレンド 第1週来場者特典 書き下ろし小説の配布決定! |  | 2026-10-16 | 2026-10-23 | [link](https://collabo-cafe.com/events/collabo/aobuta-event-dearfriend-novelty-1st-week-2026/) |
+| NCT 127 BLINGY POP-UP in 東急プラザ原宿 10月16日より開催! | 東急プラザ原宿 | 2026-10-16 | 2026-11-01 | [link](https://collabo-cafe.com/events/collabo/nct-127-blingy-popup-harakado-2026/) |
+| P丸様。 10周年 ストア in 東京・大阪 10月17日より開催! | 東京・大阪 | 2026-10-17 | 2026-11-08 | [link](https://collabo-cafe.com/events/collabo/pmarusama-10th-anniversary-popup-marui-2026/) |
+| ガルクラ POP UP SHOP 2026 in アトレ川崎 10月17日より開催! | アトレ川崎 | 2026-10-17 | 2026-11-05 | [link](https://collabo-cafe.com/events/collabo/girls-band-cry-popup-atre-kawasaki-2026/) |
+| カリスマ × BOOKOFF 11月13日より対象店舗に新商品が登場! |  | 2026-11-13 | 2026-12-13 | [link](https://collabo-cafe.com/events/collabo/charisma-bookoff-2026/) |
+| カリスマ 祝5周年・カリスマカフェ in 池袋 11月14日より開催! | 池袋 | 2026-11-14 | 2026-12-13 | [link](https://collabo-cafe.com/events/collabo/charisma-cafe-5th-anniversary-commune-plaza-ikebukuro-2026/) |
+| 魔男のイチ 連載2周年フェア&カフェ 11月6日よりアニメイトで開催! |  | 2026-11-14 | 2026-11-29 | [link](https://collabo-cafe.com/events/collabo/madannoichi-cafe-pop-up-store-animate-2nd-anniversary-2026/) |
+| ホロライブ学園 Shiny Smily Stories 最新刊1巻 1.25発売! 特装版も! |  | 2027-01-25 | - | [link](https://collabo-cafe.com/events/collabo/hololive-shiny-smily-stories-comics1-release/) |
+| ハンターハンター 一番くじ 幻影旅団① 2027年3月12日より発売! |  | 2027-03-12 | - | [link](https://collabo-cafe.com/events/collabo/hunter-x-hunter-kuji-ichiban-kuji-phantom-troupe-1-2027/) |
+| シュタゲ 紅莉栖のレーシングフィギュア発売!ぬいぐるみセットも! |  | - | 2026-11-28 | [link](https://collabo-cafe.com/events/collabo/steins-gate-kurisu-racing-figure-solarain-anime-store-goods2026/) |
+| 佐々木と宮野/平野と鍵浦「ダークチャイナver.」グッズ12月発売! 京まふ事後通販 |  | - | 2026-10-17 | [link](https://collabo-cafe.com/events/collabo/sasamiya-kyomaf2026-tapioca-anime-store-goods2026/) |
+| anemoi 美麗ビジュアルを使用したミニアクスタなど新商品 発売! |  | - | 2026-10-13 | [link](https://collabo-cafe.com/events/collabo/anemoi-mini-stand-20type-license-agent-anime-store-goods2026/) |
+| マシュマロみたいなふわふわにゃんこ ふわふわ触感の新作・再販グッズ 12月発売! |  | - | 2026-10-20 | [link](https://collabo-cafe.com/events/collabo/marshmallow-fuwafuwa-nyanko-tcp-anime-store-goods2026/) |
+| アズールレーン 銭湯コラボ5周年 辰巳温泉で鏡広告の参加募集開始! |  | - | - | [link](https://collabo-cafe.com/events/collabo/azurlane-event-tatsumi-onsen-sento-5th-2026/) |
 | コミックマーケット (Comiket) | 東京ビッグサイト | - | - | [link](https://www.comiket.co.jp/) |
 
