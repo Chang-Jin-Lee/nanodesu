@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T21:05:59.495842+00:00",
+  "generated_at": "2026-10-07T19:14:58.215174+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "Chainsaw Man",
-      "mentions": 15,
+      "mentions": 13,
       "sources": [
         "animeanime",
         "gamewatch"
@@ -14,12 +14,13 @@
       "delta": 0
     },
     {
-      "title": "ONE PIECE",
-      "mentions": 11,
+      "title": "Jujutsu Kaisen",
+      "mentions": 10,
       "sources": [
-        "animeanime"
+        "animeanime",
+        "fourgamer"
       ],
-      "delta": 0
+      "delta": 3
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -27,7 +28,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 2
+      "delta": 0
     },
     {
       "title": "Haikyu!!",
@@ -35,24 +36,15 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
-      "title": "Jujutsu Kaisen",
+      "title": "ONE PIECE",
       "mentions": 9,
-      "sources": [
-        "animeanime",
-        "fourgamer"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Bleach",
-      "mentions": 3,
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": -3
     },
     {
       "title": "PSYREN",
@@ -61,7 +53,15 @@
         "animeanime",
         "gamewatch"
       ],
-      "delta": null
+      "delta": 1
+    },
+    {
+      "title": "Bleach",
+      "mentions": 2,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": -1
     },
     {
       "title": "Naruto",
@@ -69,7 +69,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Spy x Family",
@@ -77,7 +77,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "BLACK TORCH",
@@ -85,7 +85,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "GTO",
@@ -93,7 +93,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 0
     }
   ]
 }

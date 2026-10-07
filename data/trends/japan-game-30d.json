@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T21:05:59.523272+00:00",
+  "generated_at": "2026-10-07T19:14:58.244813+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Genshin Impact",
-      "mentions": 10,
+      "mentions": 9,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -16,7 +16,7 @@
     },
     {
       "title": "Umamusume: Pretty Derby",
-      "mentions": 7,
+      "mentions": 6,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -56,7 +56,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }

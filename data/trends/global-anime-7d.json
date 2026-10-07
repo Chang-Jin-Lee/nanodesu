@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:05:59.425865+00:00",
+  "generated_at": "2026-10-07T19:14:58.159393+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
@@ -12,16 +12,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 1
-    },
-    {
-      "title": "ONE PIECE",
-      "mentions": 5,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "The Apothecary Diaries Season 3",
@@ -30,7 +21,16 @@
         "animecorner",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "Black Clover",
+      "mentions": 3,
+      "sources": [
+        "animecorner",
+        "ann"
+      ],
+      "delta": 4
     },
     {
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
@@ -38,54 +38,61 @@
       "sources": [
         "reddit_anime"
       ],
+      "delta": 0
+    },
+    {
+      "title": "A Returner's Magic Should be Special Season 2",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
       "delta": null
     },
     {
+      "title": "Black Clover Season 2",
+      "mentions": 2,
+      "sources": [
+        "animecorner"
+      ],
+      "delta": 7
+    },
+    {
+      "title": "ONE PIECE",
+      "mentions": 2,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -5
+    },
+    {
       "title": "Overgeared",
-      "mentions": 3,
+      "mentions": 2,
       "sources": [
         "ann",
+        "reddit_anime"
+      ],
+      "delta": -3
+    },
+    {
+      "title": "Reincarnated as a Sword Season 2",
+      "mentions": 2,
+      "sources": [
+        "animecorner",
+        "reddit_anime"
+      ],
+      "delta": -3
+    },
+    {
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "mentions": 2,
+      "sources": [
         "reddit_anime"
       ],
       "delta": 0
     },
     {
-      "title": "Reincarnated as a Sword Season 2",
-      "mentions": 3,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Black Clover",
-      "mentions": 2,
-      "sources": [
-        "animecorner",
-        "ann"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Clevatess Season 2",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Naruto",
-      "mentions": 2,
-      "sources": [
-        "animecorner",
-        "ann"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "title": "The Detective Is Already Dead Season 2",
       "mentions": 2,
       "sources": [
         "reddit_anime"
@@ -99,7 +106,24 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -1
+    },
+    {
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "The World's Strongest Witch",
+      "mentions": 2,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
     },
     {
       "title": "Tomb Raider King",
@@ -107,15 +131,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 15
-    },
-    {
-      "title": "Black Clover Season 2",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": null
+      "delta": -3
     },
     {
       "title": "Blue Box Season 2",
@@ -123,23 +139,15 @@
       "sources": [
         "animecorner"
       ],
-      "delta": null
+      "delta": -2
     },
     {
-      "title": "Chainsaw Man",
+      "title": "Clevatess Season 2",
       "mentions": 1,
       "sources": [
         "ann"
       ],
-      "delta": -1
-    },
-    {
-      "title": "Even the Student Council Has Its Holes!",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": null
+      "delta": -9
     },
     {
       "title": "FX Fighter Kurumi-chan",
@@ -147,7 +155,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "Goodbye, Lara",
@@ -155,7 +163,7 @@
       "sources": [
         "ann"
       ],
-      "delta": null
+      "delta": -1
     },
     {
       "title": "I Want to Love You Till Your Dying Day",
@@ -179,6 +187,14 @@
       "sources": [
         "ann"
       ],
+      "delta": -1
+    },
+    {
+      "title": "Nia Liston: The Merciless Maiden",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
       "delta": null
     },
     {
@@ -187,7 +203,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -2
     },
     {
       "title": "Please Excuse My Younger Brothers",
@@ -195,15 +211,23 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": -2
     },
     {
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
       "mentions": 1,
       "sources": [
+        "ann"
+      ],
+      "delta": -2
+    },
+    {
+      "title": "Sasaki and Peeps Season 2",
+      "mentions": 1,
+      "sources": [
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": null
     },
     {
       "title": "Spy x Family",
@@ -211,7 +235,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -3
     },
     {
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
@@ -251,7 +275,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -2
+      "delta": -3
     }
   ]
 }

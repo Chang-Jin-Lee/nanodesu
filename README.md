@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-10-05 21:05 UTC
+Last updated: 2026-10-07 19:14 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-10-05 21:05 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | The Apothecary Diaries | 7 | ▲1 | animecorner, ann, reddit_anime |
-| 2 | ONE PIECE | 5 | ▼1 | ann, reddit_anime |
-| 3 | The Apothecary Diaries Season 3 | 5 | - | animecorner, reddit_anime |
-| 4 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 3 | NEW | reddit_anime |
-| 5 | Overgeared | 3 | - | ann, reddit_anime |
+| 1 | The Apothecary Diaries | 7 | - | animecorner, ann, reddit_anime |
+| 2 | The Apothecary Diaries Season 3 | 5 | ▲1 | animecorner, reddit_anime |
+| 3 | Black Clover | 3 | ▲4 | animecorner, ann |
+| 4 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 3 | - | reddit_anime |
+| 5 | A Returner's Magic Should be Special Season 2 | 2 | NEW | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -47,11 +47,11 @@ _No data yet._
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | PSYREN | 3 | NEW | animeanime, gamewatch |
-| 2 | BLACK TORCH | 1 | ▲1 | animeanime |
-| 3 | Bleach | 1 | ▲1 | animeanime |
-| 4 | Chainsaw Man | 1 | NEW | animeanime |
-| 5 | Demon Slayer: Kimetsu no Yaiba | 1 | - | animeanime |
+| 1 | PSYREN | 3 | - | animeanime, gamewatch |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲3 | animeanime |
+| 3 | Jujutsu Kaisen | 2 | ▲4 | animeanime |
+| 4 | BLACK TORCH | 1 | ▼2 | animeanime |
+| 5 | Chainsaw Man | 1 | ▼1 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -60,9 +60,9 @@ _No data yet._
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 3 | - | fourgamer |
+| 1 | Genshin Impact | 2 | - | fourgamer |
 | 2 | Umamusume: Pretty Derby | 1 | - | animeanime |
-| 3 | Zenless Zone Zero | 1 | NEW | fourgamer |
+| 3 | Zenless Zone Zero | 1 | - | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

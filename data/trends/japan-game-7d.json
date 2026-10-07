@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T21:05:59.509618+00:00",
+  "generated_at": "2026-10-07T19:14:58.226091+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
       "title": "Genshin Impact",
-      "mentions": 3,
+      "mentions": 2,
       "sources": [
         "fourgamer"
       ],
@@ -26,7 +26,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }
