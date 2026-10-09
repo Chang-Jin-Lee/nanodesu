@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T19:14:58.215174+00:00",
+  "generated_at": "2026-10-09T18:41:49.315729+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "Chainsaw Man",
-      "mentions": 13,
+      "mentions": 12,
       "sources": [
         "animeanime",
         "gamewatch"
@@ -15,20 +15,20 @@
     },
     {
       "title": "Jujutsu Kaisen",
-      "mentions": 10,
+      "mentions": 11,
       "sources": [
         "animeanime",
         "fourgamer"
       ],
-      "delta": 3
+      "delta": 0
     },
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 9,
+      "title": "ONE PIECE",
+      "mentions": 10,
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": 2
     },
     {
       "title": "Haikyu!!",
@@ -39,12 +39,12 @@
       "delta": 0
     },
     {
-      "title": "ONE PIECE",
-      "mentions": 9,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 8,
       "sources": [
         "animeanime"
       ],
-      "delta": -3
+      "delta": -2
     },
     {
       "title": "PSYREN",
@@ -53,7 +53,7 @@
         "animeanime",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Bleach",
@@ -61,18 +61,10 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
-    },
-    {
-      "title": "Naruto",
-      "mentions": 2,
-      "sources": [
-        "animeanime"
-      ],
       "delta": 0
     },
     {
-      "title": "Spy x Family",
+      "title": "Naruto",
       "mentions": 2,
       "sources": [
         "animeanime"
@@ -85,7 +77,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
       "title": "GTO",
@@ -93,7 +85,23 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "Spy x Family",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": -2
+    },
+    {
+      "title": "THE GHOST IN THE SHELL",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
     }
   ]
 }

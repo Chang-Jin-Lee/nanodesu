@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-07T19:14:58.159393+00:00",
+  "generated_at": "2026-10-09T18:41:49.259364+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
+      "title": "Firefly Wedding",
+      "mentions": 5,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
       "title": "The Apothecary Diaries",
-      "mentions": 7,
+      "mentions": 4,
       "sources": [
         "animecorner",
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
-    },
-    {
-      "title": "The Apothecary Diaries Season 3",
-      "mentions": 5,
-      "sources": [
-        "animecorner",
-        "reddit_anime"
-      ],
-      "delta": 1
+      "delta": -1
     },
     {
       "title": "Black Clover",
@@ -30,7 +30,7 @@
         "animecorner",
         "ann"
       ],
-      "delta": 4
+      "delta": 0
     },
     {
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
@@ -41,13 +41,32 @@
       "delta": 0
     },
     {
+      "title": "The Guy She Was Interested In Wasn't a Guy At All",
+      "mentions": 3,
+      "sources": [
+        "animecorner",
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "A Certain Dark Item",
+      "mentions": 2,
+      "sources": [
+        "noisypixel",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
       "title": "A Returner's Magic Should be Special Season 2",
       "mentions": 2,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -2
     },
     {
       "title": "Black Clover Season 2",
@@ -55,7 +74,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": 7
+      "delta": -2
     },
     {
       "title": "ONE PIECE",
@@ -63,16 +82,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -5
-    },
-    {
-      "title": "Overgeared",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": -3
+      "delta": -2
     },
     {
       "title": "Reincarnated as a Sword Season 2",
@@ -81,7 +91,7 @@
         "animecorner",
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": -1
     },
     {
       "title": "So What's Wrong with Getting Reborn as a Goblin?",
@@ -89,21 +99,12 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "The Detective Is Already Dead Season 2",
       "mentions": 2,
       "sources": [
-        "reddit_anime"
-      ],
-      "delta": null
-    },
-    {
-      "title": "The Elusive Samurai Season 2",
-      "mentions": 2,
-      "sources": [
-        "ann",
         "reddit_anime"
       ],
       "delta": -1
@@ -115,7 +116,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "The World's Strongest Witch",
@@ -123,15 +124,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
-    },
-    {
-      "title": "Tomb Raider King",
-      "mentions": 2,
-      "sources": [
-        "ann"
-      ],
-      "delta": -3
+      "delta": 0
     },
     {
       "title": "Blue Box Season 2",
@@ -139,23 +132,15 @@
       "sources": [
         "animecorner"
       ],
-      "delta": -2
+      "delta": 1
     },
     {
-      "title": "Clevatess Season 2",
+      "title": "GTO",
       "mentions": 1,
       "sources": [
-        "ann"
+        "reddit_anime"
       ],
-      "delta": -9
-    },
-    {
-      "title": "FX Fighter Kurumi-chan",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -1
+      "delta": null
     },
     {
       "title": "Goodbye, Lara",
@@ -163,23 +148,15 @@
       "sources": [
         "ann"
       ],
-      "delta": -1
+      "delta": 2
     },
     {
-      "title": "I Want to Love You Till Your Dying Day",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Love Unseen Beneath the Clear Night Sky",
+      "title": "Jujutsu Kaisen",
       "mentions": 1,
       "sources": [
         "reddit_anime"
       ],
-      "delta": -1
+      "delta": null
     },
     {
       "title": "Magical Explorer",
@@ -187,7 +164,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -1
+      "delta": 3
     },
     {
       "title": "Nia Liston: The Merciless Maiden",
@@ -195,7 +172,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 3
     },
     {
       "title": "PSYREN",
@@ -203,7 +180,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 3
     },
     {
       "title": "Please Excuse My Younger Brothers",
@@ -211,7 +188,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 3
     },
     {
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
@@ -219,7 +196,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -2
+      "delta": 3
     },
     {
       "title": "Sasaki and Peeps Season 2",
@@ -227,7 +204,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 3
     },
     {
       "title": "Spy x Family",
@@ -235,7 +212,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": 3
     },
     {
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
@@ -243,31 +220,39 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": 3
     },
     {
-      "title": "The Insipid Prince's Furtive Grab for the Throne",
+      "title": "That Time I Got Reincarnated as a Slime",
       "mentions": 1,
       "sources": [
-        "ann"
+        "noisypixel"
       ],
-      "delta": -3
+      "delta": null
     },
     {
-      "title": "The Ramparts of Ice Season 2",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -3
-    },
-    {
-      "title": "Tokyo Revengers: Santen Sensou-hen",
+      "title": "The Apothecary Diaries Season 3",
       "mentions": 1,
       "sources": [
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": -26
+    },
+    {
+      "title": "The Elusive Samurai Season 2",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -17
+    },
+    {
+      "title": "Tomb Raider King",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -15
     },
     {
       "title": "You and I Are Polar Opposites Season 2",
@@ -275,7 +260,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -3
+      "delta": 2
     }
   ]
 }

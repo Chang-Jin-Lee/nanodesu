@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-07T19:14:58.204179+00:00",
+  "generated_at": "2026-10-09T18:41:49.304761+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 4,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 2
+    },
     {
       "title": "PSYREN",
       "mentions": 3,
@@ -11,7 +19,7 @@
         "animeanime",
         "gamewatch"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -19,23 +27,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 3
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 2,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 4
-    },
-    {
-      "title": "BLACK TORCH",
-      "mentions": 1,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -2
+      "delta": -1
     },
     {
       "title": "Chainsaw Man",
@@ -43,15 +35,23 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": 1
     },
     {
-      "title": "Spy x Family",
+      "title": "ONE PIECE",
       "mentions": 1,
       "sources": [
         "animeanime"
       ],
-      "delta": 2
+      "delta": null
+    },
+    {
+      "title": "THE GHOST IN THE SHELL",
+      "mentions": 1,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": null
     }
   ]
 }

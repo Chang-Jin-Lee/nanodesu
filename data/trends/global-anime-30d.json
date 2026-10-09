@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:14:58.171002+00:00",
+  "generated_at": "2026-10-09T18:41:49.271393+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 30,
@@ -15,62 +15,73 @@
       "delta": 0
     },
     {
-      "title": "Clevatess Season 2",
+      "title": "The Apothecary Diaries",
       "mentions": 10,
+      "sources": [
+        "animecorner",
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 9
+    },
+    {
+      "title": "Clevatess Season 2",
+      "mentions": 9,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "Bleach",
-      "mentions": 9,
+      "mentions": 8,
       "sources": [
         "animecorner",
         "ann",
         "myanimelist",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
       "title": "Draw This, Then Die!",
-      "mentions": 9,
+      "mentions": 8,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -1
+    },
+    {
+      "title": "That Time I Got Reincarnated as a Slime",
+      "mentions": 8,
+      "sources": [
+        "ann",
+        "myanimelist",
+        "noisypixel",
+        "reddit_anime"
+      ],
+      "delta": 4
     },
     {
       "title": "The Elusive Samurai Season 2",
-      "mentions": 9,
+      "mentions": 8,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -2
     },
     {
       "title": "Black Clover",
-      "mentions": 8,
+      "mentions": 7,
       "sources": [
         "animecorner",
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
-    },
-    {
-      "title": "Though I Am an Inept Villainess",
-      "mentions": 8,
-      "sources": [
-        "animecorner",
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 1
+      "delta": -2
     },
     {
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -83,44 +94,14 @@
       "delta": -1
     },
     {
-      "title": "Sparks of Tomorrow",
+      "title": "Though I Am an Inept Villainess",
       "mentions": 7,
       "sources": [
         "animecorner",
         "ann",
         "reddit_anime"
       ],
-      "delta": 1
-    },
-    {
-      "title": "That Time I Got Reincarnated as a Slime",
-      "mentions": 7,
-      "sources": [
-        "ann",
-        "myanimelist",
-        "reddit_anime"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "The Apothecary Diaries",
-      "mentions": 7,
-      "sources": [
-        "animecorner",
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Chainsmoker Cat",
-      "mentions": 6,
-      "sources": [
-        "ann",
-        "automatonwest",
-        "reddit_anime"
-      ],
-      "delta": 2
+      "delta": -3
     },
     {
       "title": "LIAR GAME",
@@ -130,39 +111,50 @@
         "myanimelist",
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": 2
     },
     {
-      "title": "Naruto",
+      "title": "The Apothecary Diaries Season 3",
       "mentions": 6,
       "sources": [
         "animecorner",
+        "reddit_anime"
+      ],
+      "delta": 8
+    },
+    {
+      "title": "Chainsmoker Cat",
+      "mentions": 5,
+      "sources": [
+        "ann",
+        "automatonwest",
+        "reddit_anime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Firefly Wedding",
+      "mentions": 5,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "I Want to Love You Till Your Dying Day",
+      "mentions": 5,
+      "sources": [
         "ann",
         "reddit_anime"
       ],
       "delta": 2
     },
     {
-      "title": "Daemons of the Shadow Realm",
+      "title": "Naruto",
       "mentions": 5,
       "sources": [
         "animecorner",
-        "ann"
-      ],
-      "delta": 2
-    },
-    {
-      "title": "Goodbye, Lara",
-      "mentions": 5,
-      "sources": [
-        "ann"
-      ],
-      "delta": 2
-    },
-    {
-      "title": "I Want to Love You Till Your Dying Day",
-      "mentions": 5,
-      "sources": [
         "ann",
         "reddit_anime"
       ],
@@ -175,7 +167,7 @@
         "animecorner",
         "reddit_anime"
       ],
-      "delta": 20
+      "delta": 1
     },
     {
       "title": "That Time I Got Reincarnated as a Slime Season 4",
@@ -184,25 +176,33 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
-      "title": "The Apothecary Diaries Season 3",
-      "mentions": 5,
+      "title": "Daemons of the Shadow Realm",
+      "mentions": 4,
       "sources": [
         "animecorner",
-        "reddit_anime"
+        "ann"
       ],
-      "delta": 0
+      "delta": -4
     },
     {
-      "title": "The World Is Dancing",
-      "mentions": 5,
+      "title": "Goodbye, Lara",
+      "mentions": 4,
+      "sources": [
+        "ann"
+      ],
+      "delta": -4
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 4,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": -8
+      "delta": 12
     },
     {
       "title": "Overgeared",
@@ -211,7 +211,16 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 1
+      "delta": 0
+    },
+    {
+      "title": "Please Excuse My Younger Brothers",
+      "mentions": 4,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 12
     },
     {
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
@@ -220,16 +229,16 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 14
+      "delta": -1
     },
     {
-      "title": "THE GHOST IN THE SHELL",
+      "title": "Sparks of Tomorrow",
       "mentions": 4,
       "sources": [
-        "ann",
-        "reddit_anime"
+        "animecorner",
+        "ann"
       ],
-      "delta": 0
+      "delta": -16
     },
     {
       "title": "Tomb Raider King",
@@ -237,15 +246,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 1
-    },
-    {
-      "title": "You and I Are Polar Opposites Season 2",
-      "mentions": 4,
-      "sources": [
-        "ann"
-      ],
-      "delta": 1
+      "delta": -1
     },
     {
       "title": "Young Ladies Don't Play Fighting Games",
@@ -253,15 +254,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 1
-    },
-    {
-      "title": "BLEACH: Thousand-Year Blood War - The Calamity",
-      "mentions": 3,
-      "sources": [
-        "ann"
-      ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Black Clover Season 2",
@@ -269,7 +262,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": 17
+      "delta": 1
     },
     {
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
@@ -288,41 +281,7 @@
       "delta": 1
     },
     {
-      "title": "Jaadugar: A Witch in Mongolia",
-      "mentions": 3,
-      "sources": [
-        "animecorner",
-        "ann"
-      ],
-      "delta": -11
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 3,
-      "sources": [
-        "ann"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Love Unseen Beneath the Clear Night Sky",
-      "mentions": 3,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": -12
-    },
-    {
-      "title": "Please Excuse My Younger Brothers",
-      "mentions": 3,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Saga of Tanya the Evil Season 2",
       "mentions": 3,
       "sources": [
         "reddit_anime"
@@ -335,15 +294,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 4
-    },
-    {
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-      "mentions": 3,
-      "sources": [
-        "ann"
-      ],
-      "delta": 4
+      "delta": 5
     },
     {
       "title": "The Exiled Heavy Knight Knows How to Game the System",
@@ -352,7 +303,17 @@
         "animecorner",
         "ann"
       ],
-      "delta": 4
+      "delta": 6
+    },
+    {
+      "title": "The Guy She Was Interested In Wasn't a Guy At All",
+      "mentions": 3,
+      "sources": [
+        "animecorner",
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": null
     },
     {
       "title": "The Insipid Prince's Furtive Grab for the Throne",
@@ -361,15 +322,33 @@
         "ann",
         "reddit_anime"
       ],
+      "delta": 5
+    },
+    {
+      "title": "The World Is Dancing",
+      "mentions": 3,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
       "delta": -15
     },
     {
-      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "title": "You and I Are Polar Opposites Season 2",
       "mentions": 3,
       "sources": [
+        "ann"
+      ],
+      "delta": -11
+    },
+    {
+      "title": "A Certain Dark Item",
+      "mentions": 2,
+      "sources": [
+        "noisypixel",
         "reddit_anime"
       ],
-      "delta": 3
+      "delta": null
     },
     {
       "title": "A Returner's Magic Should be Special Season 2",
@@ -378,7 +357,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 3
     },
     {
       "title": "BLACK TORCH",
@@ -387,7 +366,15 @@
         "animecorner",
         "ann"
       ],
-      "delta": 2
+      "delta": 3
+    },
+    {
+      "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+      "mentions": 2,
+      "sources": [
+        "ann"
+      ],
+      "delta": -13
     },
     {
       "title": "Chainsaw Man",
@@ -395,7 +382,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 3
+      "delta": 2
     },
     {
       "title": "Grand Blue Dreaming Season 3",
@@ -403,7 +390,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -15
+      "delta": 2
     },
     {
       "title": "Grand Blue Season 4",
@@ -423,12 +410,13 @@
       "delta": 2
     },
     {
-      "title": "Hana-Kimi Season 2",
+      "title": "Jaadugar: A Witch in Mongolia",
       "mentions": 2,
       "sources": [
-        "reddit_anime"
+        "animecorner",
+        "ann"
       ],
-      "delta": 2
+      "delta": -14
     },
     {
       "title": "KAIJU GIRL CARAMELISE",
@@ -436,15 +424,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -15
-    },
-    {
-      "title": "My Stepmother and Stepsisters Aren’t Wicked",
-      "mentions": 2,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 1
+      "delta": 2
     },
     {
       "title": "Oh Boy, Was I Wrong About Her",
@@ -452,7 +432,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -16
+      "delta": 3
+    },
+    {
+      "title": "Saga of Tanya the Evil Season 2",
+      "mentions": 2,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -13
     },
     {
       "title": "Skeleton Knight in Another World Season 2",
@@ -460,7 +448,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -12
+      "delta": 2
     },
     {
       "title": "So What's Wrong with Getting Reborn as a Goblin?",
@@ -468,7 +456,23 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -1
+      "delta": 2
+    },
+    {
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "mentions": 2,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": 18
+    },
+    {
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "mentions": 2,
+      "sources": [
+        "ann"
+      ],
+      "delta": -15
     },
     {
       "title": "The Cat and the Dragon",
@@ -477,7 +481,7 @@
         "animecorner",
         "ann"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "The Detective Is Already Dead Season 2",
@@ -485,7 +489,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "The Frontier Lord Begins with Zero Subjects",
@@ -493,7 +497,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 0
     },
     {
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -502,7 +506,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "The World's Strongest Witch",
@@ -510,7 +514,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 0
+    },
+    {
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "mentions": 2,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -18
     },
     {
       "title": "Victoria of Many Faces",
@@ -519,7 +531,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": -1
     },
     {
       "title": "Blue Box Season 2",
@@ -527,7 +539,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": -4
+      "delta": -1
     },
     {
       "title": "Even the Student Council Has Its Holes!",
@@ -535,7 +547,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -4
+      "delta": -1
     },
     {
       "title": "FX Fighter Kurumi-chan",
@@ -543,7 +555,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -4
+      "delta": -1
     },
     {
       "title": "From Old Country Bumpkin to Master Swordsman II",
@@ -551,7 +563,23 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": -1
+    },
+    {
+      "title": "GTO",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Hana-Kimi Season 2",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -18
     },
     {
       "title": "MARRIAGETOXIN",
@@ -559,7 +587,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -4
+      "delta": -3
     },
     {
       "title": "Magical Explorer",
@@ -567,7 +595,15 @@
       "sources": [
         "ann"
       ],
-      "delta": -4
+      "delta": -3
+    },
+    {
+      "title": "My Stepmother and Stepsisters Aren’t Wicked",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -19
     },
     {
       "title": "Nia Liston: The Merciless Maiden",
@@ -575,7 +611,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -4
     },
     {
       "title": "PSYREN",
@@ -583,7 +619,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -5
+      "delta": -4
     },
     {
       "title": "Sasaki and Peeps Season 2",
@@ -591,7 +627,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": -4
     },
     {
       "title": "Spy x Family",
@@ -599,15 +635,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -6
+      "delta": -4
     },
     {
-      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "title": "THE GHOST IN THE SHELL",
       "mentions": 1,
       "sources": [
         "reddit_anime"
       ],
-      "delta": -6
+      "delta": -50
     },
     {
       "title": "The Oblivious Saint Can't Contain Her Power",
@@ -615,7 +651,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -6
+      "delta": -4
     },
     {
       "title": "The Ogre's Bride",
@@ -623,7 +659,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -6
+      "delta": -4
     },
     {
       "title": "The Ramparts of Ice Season 2",
@@ -631,15 +667,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -6
-    },
-    {
-      "title": "The Villager of Level 999",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": -6
+      "delta": -4
     },
     {
       "title": "Tokyo Revengers: Santen Sensou-hen",
@@ -647,7 +675,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -6
+      "delta": -3
     }
   ]
 }

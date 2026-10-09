@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-07T19:14:58.182341+00:00",
+  "generated_at": "2026-10-09T18:41:49.282722+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
-  "entries": []
+  "entries": [
+    {
+      "title": "Zenless Zone Zero",
+      "mentions": 4,
+      "sources": [
+        "gematsu",
+        "noisypixel",
+        "rpgsite",
+        "steam-4162040"
+      ],
+      "delta": null
+    }
+  ]
 }

@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-10-07 19:14 UTC
+Last updated: 2026-10-09 18:41 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,18 +27,20 @@ Last updated: 2026-10-07 19:14 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | The Apothecary Diaries | 7 | - | animecorner, ann, reddit_anime |
-| 2 | The Apothecary Diaries Season 3 | 5 | ▲1 | animecorner, reddit_anime |
-| 3 | Black Clover | 3 | ▲4 | animecorner, ann |
+| 1 | Firefly Wedding | 5 | NEW | ann, reddit_anime |
+| 2 | The Apothecary Diaries | 4 | ▼1 | animecorner, ann, reddit_anime |
+| 3 | Black Clover | 3 | - | animecorner, ann |
 | 4 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 3 | - | reddit_anime |
-| 5 | A Returner's Magic Should be Special Season 2 | 2 | NEW | ann, reddit_anime |
+| 5 | The Guy She Was Interested In Wasn't a Guy At All | 3 | NEW | animecorner, ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
 ## 🌐 Global — Game Buzz Top 5 (Last 7 Days)
 
 <!--START_SECTION:global-game-top5-->
-_No data yet._
+| # | Title | Mentions | Δ | Sources |
+|---|---|---|---|---|
+| 1 | Zenless Zone Zero | 4 | NEW | gematsu, noisypixel, rpgsite, steam-4162040 |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -47,11 +49,11 @@ _No data yet._
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | PSYREN | 3 | - | animeanime, gamewatch |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲3 | animeanime |
-| 3 | Jujutsu Kaisen | 2 | ▲4 | animeanime |
-| 4 | BLACK TORCH | 1 | ▼2 | animeanime |
-| 5 | Chainsaw Man | 1 | ▼1 | animeanime |
+| 1 | Jujutsu Kaisen | 4 | ▲2 | animeanime |
+| 2 | PSYREN | 3 | ▼1 | animeanime, gamewatch |
+| 3 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
+| 4 | Chainsaw Man | 1 | ▲1 | animeanime |
+| 5 | ONE PIECE | 1 | NEW | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -61,8 +63,9 @@ _No data yet._
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
 | 1 | Genshin Impact | 2 | - | fourgamer |
-| 2 | Umamusume: Pretty Derby | 1 | - | animeanime |
-| 3 | Zenless Zone Zero | 1 | - | fourgamer |
+| 2 | Zenless Zone Zero | 2 | ▲1 | fourgamer |
+| 3 | Honkai: Star Rail | 1 | NEW | fourgamer |
+| 4 | Umamusume: Pretty Derby | 1 | ▼2 | animeanime |
 
 <!--END_SECTION:japan-game-top5-->
 
