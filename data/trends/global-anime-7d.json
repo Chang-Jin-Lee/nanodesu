@@ -1,21 +1,33 @@
 {
-  "generated_at": "2026-10-09T18:41:49.259364+00:00",
+  "generated_at": "2026-10-12T21:36:56.909212+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
-      "title": "Firefly Wedding",
-      "mentions": 5,
+      "title": "Naruto",
+      "mentions": 10,
       "sources": [
+        "animecorner",
         "ann",
-        "reddit_anime"
+        "gematsu",
+        "myanimelist",
+        "noisypixel"
       ],
       "delta": null
     },
     {
+      "title": "Firefly Wedding",
+      "mentions": 6,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": -1
+    },
+    {
       "title": "The Apothecary Diaries",
-      "mentions": 4,
+      "mentions": 6,
       "sources": [
         "animecorner",
         "ann",
@@ -24,21 +36,23 @@
       "delta": -1
     },
     {
-      "title": "Black Clover",
+      "title": "A Certain Dark Item",
+      "mentions": 3,
+      "sources": [
+        "noisypixel",
+        "reddit_anime"
+      ],
+      "delta": 2
+    },
+    {
+      "title": "Dragon Ball Super: Beerus",
       "mentions": 3,
       "sources": [
         "animecorner",
-        "ann"
+        "ann",
+        "noisypixel"
       ],
-      "delta": 0
-    },
-    {
-      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-      "mentions": 3,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 0
+      "delta": null
     },
     {
       "title": "The Guy She Was Interested In Wasn't a Guy At All",
@@ -48,16 +62,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": null
-    },
-    {
-      "title": "A Certain Dark Item",
-      "mentions": 2,
-      "sources": [
-        "noisypixel",
-        "reddit_anime"
-      ],
-      "delta": null
+      "delta": -1
     },
     {
       "title": "A Returner's Magic Should be Special Season 2",
@@ -66,23 +71,25 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 0
     },
     {
-      "title": "Black Clover Season 2",
+      "title": "Jujutsu Kaisen",
       "mentions": 2,
       "sources": [
-        "animecorner"
+        "ann",
+        "reddit_anime"
       ],
-      "delta": -2
+      "delta": 10
     },
     {
       "title": "ONE PIECE",
       "mentions": 2,
       "sources": [
+        "ann",
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 0
     },
     {
       "title": "Reincarnated as a Sword Season 2",
@@ -91,29 +98,21 @@
         "animecorner",
         "reddit_anime"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
-      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "title": "That Time I Got Reincarnated as a Slime",
       "mentions": 2,
       "sources": [
+        "noisypixel",
         "reddit_anime"
       ],
-      "delta": -1
+      "delta": 16
     },
     {
       "title": "The Detective Is Already Dead Season 2",
       "mentions": 2,
       "sources": [
-        "reddit_anime"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "mentions": 2,
-      "sources": [
-        "ann",
         "reddit_anime"
       ],
       "delta": 0
@@ -124,106 +123,26 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
-      "title": "Blue Box Season 2",
+      "title": "Black Clover",
       "mentions": 1,
       "sources": [
         "animecorner"
       ],
-      "delta": 1
+      "delta": -11
     },
     {
-      "title": "GTO",
+      "title": "Black Clover Season 2",
       "mentions": 1,
       "sources": [
-        "reddit_anime"
+        "animecorner"
       ],
-      "delta": null
+      "delta": -7
     },
     {
-      "title": "Goodbye, Lara",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 2
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": null
-    },
-    {
-      "title": "Magical Explorer",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "Nia Liston: The Merciless Maiden",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "PSYREN",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "Please Excuse My Younger Brothers",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "Sasaki and Peeps Season 2",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "Spy x Family",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "That Time I Got Reincarnated as a Slime",
+      "title": "Bleach",
       "mentions": 1,
       "sources": [
         "noisypixel"
@@ -231,36 +150,132 @@
       "delta": null
     },
     {
+      "title": "GTO",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Goodbye, Lara",
+      "mentions": 1,
+      "sources": [
+        "animecorner"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Haikyu!!",
+      "mentions": 1,
+      "sources": [
+        "animecorner"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -16
+    },
+    {
+      "title": "Nia Liston: The Merciless Maiden",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "PSYREN",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Please Excuse My Younger Brothers",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Sasaki and Peeps Season 2",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -15
+    },
+    {
+      "title": "Spy x Family",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -2
+    },
+    {
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": -2
+    },
+    {
       "title": "The Apothecary Diaries Season 3",
       "mentions": 1,
       "sources": [
         "reddit_anime"
       ],
-      "delta": -26
+      "delta": -1
     },
     {
-      "title": "The Elusive Samurai Season 2",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "mentions": 1,
       "sources": [
-        "ann"
+        "reddit_anime"
       ],
       "delta": -17
     },
     {
-      "title": "Tomb Raider King",
+      "title": "The Ogre's Bride",
       "mentions": 1,
       "sources": [
         "ann"
       ],
-      "delta": -15
+      "delta": null
     },
     {
-      "title": "You and I Are Polar Opposites Season 2",
+      "title": "Witch Hat Atelier",
       "mentions": 1,
       "sources": [
         "ann"
       ],
-      "delta": 2
+      "delta": null
     }
   ]
 }

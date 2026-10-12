@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-10-09 18:41 UTC
+Last updated: 2026-10-12 21:36 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-10-09 18:41 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Firefly Wedding | 5 | NEW | ann, reddit_anime |
-| 2 | The Apothecary Diaries | 4 | ▼1 | animecorner, ann, reddit_anime |
-| 3 | Black Clover | 3 | - | animecorner, ann |
-| 4 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 3 | - | reddit_anime |
-| 5 | The Guy She Was Interested In Wasn't a Guy At All | 3 | NEW | animecorner, ann, reddit_anime |
+| 1 | Naruto | 10 | NEW | animecorner, ann, gematsu, myanimelist, noisypixel |
+| 2 | Firefly Wedding | 6 | ▼1 | ann, reddit_anime |
+| 3 | The Apothecary Diaries | 6 | ▼1 | animecorner, ann, reddit_anime |
+| 4 | A Certain Dark Item | 3 | ▲2 | noisypixel, reddit_anime |
+| 5 | Dragon Ball Super: Beerus | 3 | NEW | animecorner, ann, noisypixel |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,7 +40,7 @@ Last updated: 2026-10-09 18:41 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 4 | NEW | gematsu, noisypixel, rpgsite, steam-4162040 |
+| 1 | Zenless Zone Zero | 4 | - | gematsu, noisypixel, rpgsite, steam-4162040 |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -49,11 +49,11 @@ Last updated: 2026-10-09 18:41 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 4 | ▲2 | animeanime |
-| 2 | PSYREN | 3 | ▼1 | animeanime, gamewatch |
-| 3 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
-| 4 | Chainsaw Man | 1 | ▲1 | animeanime |
-| 5 | ONE PIECE | 1 | NEW | animeanime |
+| 1 | Demon Slayer: Kimetsu no Yaiba | 3 | ▲2 | animeanime |
+| 2 | Jujutsu Kaisen | 3 | ▼1 | animeanime |
+| 3 | Chainsaw Man | 1 | ▲1 | animeanime |
+| 4 | Naruto | 1 | NEW | animeanime |
+| 5 | ONE PIECE | 1 | - | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -62,10 +62,10 @@ Last updated: 2026-10-09 18:41 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 2 | - | fourgamer |
-| 2 | Zenless Zone Zero | 2 | ▲1 | fourgamer |
-| 3 | Honkai: Star Rail | 1 | NEW | fourgamer |
-| 4 | Umamusume: Pretty Derby | 1 | ▼2 | animeanime |
+| 1 | Genshin Impact | 1 | - | fourgamer |
+| 2 | Honkai: Star Rail | 1 | ▲1 | fourgamer |
+| 3 | Umamusume: Pretty Derby | 1 | ▲1 | fourgamer |
+| 4 | Zenless Zone Zero | 1 | ▼2 | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

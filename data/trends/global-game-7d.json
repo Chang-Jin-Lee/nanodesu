@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:41:49.282722+00:00",
+  "generated_at": "2026-10-12T21:36:56.928377+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -13,7 +13,7 @@
         "rpgsite",
         "steam-4162040"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }

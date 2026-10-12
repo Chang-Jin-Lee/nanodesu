@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:41:49.293903+00:00",
+  "generated_at": "2026-10-12T21:36:56.937529+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -14,7 +14,7 @@
         "rpgsite",
         "steam-4162040"
       ],
-      "delta": 5
+      "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
@@ -24,7 +24,7 @@
         "reddit_gachagaming",
         "rpgsite"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Blue Archive",
@@ -35,20 +35,12 @@
       "delta": 0
     },
     {
-      "title": "Genshin Impact",
-      "mentions": 1,
-      "sources": [
-        "automatonwest"
-      ],
-      "delta": -2
-    },
-    {
       "title": "Umamusume: Pretty Derby",
       "mentions": 1,
       "sources": [
         "animecorner"
       ],
-      "delta": -1
+      "delta": 1
     },
     {
       "title": "Wuthering Waves",
@@ -56,7 +48,7 @@
       "sources": [
         "reddit_gachagaming"
       ],
-      "delta": -1
+      "delta": 1
     }
   ]
 }

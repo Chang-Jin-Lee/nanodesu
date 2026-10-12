@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:41:49.337622+00:00",
+  "generated_at": "2026-10-12T21:36:56.973741+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
@@ -20,7 +20,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -30,7 +30,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",
@@ -47,15 +47,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 1
-    },
-    {
-      "title": "Blue Archive",
-      "mentions": 1,
-      "sources": [
-        "fourgamer"
-      ],
-      "delta": -1
+      "delta": 0
     }
   ]
 }
