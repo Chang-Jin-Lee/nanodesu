@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:36:56.937529+00:00",
+  "generated_at": "2026-10-14T17:50:28.364740+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -28,9 +28,10 @@
     },
     {
       "title": "Blue Archive",
-      "mentions": 1,
+      "mentions": 2,
       "sources": [
-        "automatonwest"
+        "automatonwest",
+        "noisypixel"
       ],
       "delta": 0
     },
@@ -40,7 +41,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",
@@ -48,7 +49,7 @@
       "sources": [
         "reddit_gachagaming"
       ],
-      "delta": 1
+      "delta": 0
     }
   ]
 }

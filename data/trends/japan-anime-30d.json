@@ -1,9 +1,17 @@
 {
-  "generated_at": "2026-10-12T21:36:56.955626+00:00",
+  "generated_at": "2026-10-14T17:50:28.393971+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
+    {
+      "title": "ONE PIECE",
+      "mentions": 12,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 3
+    },
     {
       "title": "Chainsaw Man",
       "mentions": 10,
@@ -11,15 +19,7 @@
         "animeanime",
         "gamewatch"
       ],
-      "delta": 0
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 10,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 3
+      "delta": -1
     },
     {
       "title": "Jujutsu Kaisen",
@@ -28,23 +28,23 @@
         "animeanime",
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
-      "title": "ONE PIECE",
-      "mentions": 10,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Haikyu!!",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
       "mentions": 9,
       "sources": [
         "animeanime"
       ],
-      "delta": -1
+      "delta": -2
+    },
+    {
+      "title": "Haikyu!!",
+      "mentions": 8,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": 0
     },
     {
       "title": "Naruto",
@@ -52,7 +52,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 2
+      "delta": 0
     },
     {
       "title": "PSYREN",
@@ -61,15 +61,16 @@
         "animeanime",
         "gamewatch"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Bleach",
       "mentions": 2,
       "sources": [
-        "animeanime"
+        "animeanime",
+        "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "BLACK TORCH",

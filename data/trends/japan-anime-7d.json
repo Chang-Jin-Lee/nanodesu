@@ -1,24 +1,40 @@
 {
-  "generated_at": "2026-10-12T21:36:56.946456+00:00",
+  "generated_at": "2026-10-14T17:50:28.379211+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "title": "ONE PIECE",
       "mentions": 3,
       "sources": [
         "animeanime"
       ],
-      "delta": 2
+      "delta": 4
     },
     {
-      "title": "Jujutsu Kaisen",
-      "mentions": 3,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "mentions": 2,
       "sources": [
         "animeanime"
       ],
       "delta": -1
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 2,
+      "sources": [
+        "animeanime"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Bleach",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": null
     },
     {
       "title": "Chainsaw Man",
@@ -26,7 +42,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": -2
     },
     {
       "title": "Naruto",
@@ -34,15 +50,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": null
-    },
-    {
-      "title": "ONE PIECE",
-      "mentions": 1,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 0
+      "delta": -2
     },
     {
       "title": "THE GHOST IN THE SHELL",
@@ -50,7 +58,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 0
+      "delta": -1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:36:56.928377+00:00",
+  "generated_at": "2026-10-14T17:50:28.349691+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -14,6 +14,14 @@
         "steam-4162040"
       ],
       "delta": 0
+    },
+    {
+      "title": "Blue Archive",
+      "mentions": 1,
+      "sources": [
+        "noisypixel"
+      ],
+      "delta": null
     }
   ]
 }
