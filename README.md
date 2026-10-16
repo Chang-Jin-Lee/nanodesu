@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-10-14 17:50 UTC
+Last updated: 2026-10-16 17:12 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-10-14 17:50 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Naruto | 10 | - | animecorner, ann, gematsu, myanimelist, noisypixel |
-| 2 | The Apothecary Diaries | 8 | ▲1 | animecorner, ann, reddit_anime |
-| 3 | Firefly Wedding | 6 | ▼1 | ann, reddit_anime |
-| 4 | A Certain Dark Item | 3 | - | noisypixel, reddit_anime |
-| 5 | Dragon Ball Super: Beerus | 3 | - | animecorner, ann, noisypixel |
+| 1 | Naruto | 13 | - | animecorner, ann, gematsu, myanimelist, noisypixel, reddit_gachagaming |
+| 2 | The Apothecary Diaries | 8 | - | animecorner, ann, reddit_anime |
+| 3 | A Certain Dark Item | 4 | ▲1 | noisypixel, reddit_anime |
+| 4 | Bleach | 3 | ▲10 | animecorner, noisypixel, reddit_anime |
+| 5 | Firefly Wedding | 3 | ▼2 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,8 +40,7 @@ Last updated: 2026-10-14 17:50 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 4 | - | gematsu, noisypixel, rpgsite, steam-4162040 |
-| 2 | Blue Archive | 1 | NEW | noisypixel |
+| 1 | Blue Archive | 1 | ▲1 | noisypixel |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -50,11 +49,11 @@ Last updated: 2026-10-14 17:50 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | ONE PIECE | 3 | ▲4 | animeanime |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
-| 3 | Jujutsu Kaisen | 2 | ▼1 | animeanime |
-| 4 | Bleach | 1 | NEW | fourgamer |
-| 5 | Chainsaw Man | 1 | ▼2 | animeanime |
+| 1 | Demon Slayer: Kimetsu no Yaiba | 4 | ▲1 | animeanime |
+| 2 | Chainsaw Man | 2 | ▲3 | animeanime |
+| 3 | ONE PIECE | 2 | ▼2 | animeanime |
+| 4 | Bleach | 1 | - | fourgamer |
+| 5 | Naruto | 1 | ▲1 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -63,9 +62,7 @@ Last updated: 2026-10-14 17:50 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 2 | ▲2 | fourgamer, gamewatch |
-| 2 | Honkai: Star Rail | 1 | - | fourgamer |
-| 3 | Zenless Zone Zero | 1 | ▲1 | fourgamer |
+| 1 | Umamusume: Pretty Derby | 3 | - | fourgamer, gamewatch |
 
 <!--END_SECTION:japan-game-top5-->
 

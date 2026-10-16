@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:50:28.422874+00:00",
+  "generated_at": "2026-10-16T17:12:35.749969+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
@@ -21,7 +21,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
@@ -30,7 +30,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Zenless Zone Zero",
@@ -38,7 +38,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Wuthering Waves",
@@ -46,7 +46,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     }
   ]
 }

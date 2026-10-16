@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-10-14T17:50:28.318674+00:00",
+  "generated_at": "2026-10-16T17:12:35.646134+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
       "title": "Naruto",
-      "mentions": 10,
+      "mentions": 13,
       "sources": [
         "animecorner",
         "ann",
         "gematsu",
         "myanimelist",
-        "noisypixel"
+        "noisypixel",
+        "reddit_gachagaming"
       ],
       "delta": 0
     },
@@ -24,45 +25,35 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 1
-    },
-    {
-      "title": "Firefly Wedding",
-      "mentions": 6,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "A Certain Dark Item",
-      "mentions": 3,
+      "mentions": 4,
       "sources": [
         "noisypixel",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
-      "title": "Dragon Ball Super: Beerus",
+      "title": "Bleach",
       "mentions": 3,
       "sources": [
         "animecorner",
-        "ann",
-        "noisypixel"
+        "noisypixel",
+        "reddit_anime"
       ],
-      "delta": 0
+      "delta": 10
     },
     {
-      "title": "The Guy She Was Interested In Wasn't a Guy At All",
+      "title": "Firefly Wedding",
       "mentions": 3,
       "sources": [
-        "animecorner",
         "ann",
         "reddit_anime"
       ],
-      "delta": 0
+      "delta": -2
     },
     {
       "title": "A Returner's Magic Should be Special Season 2",
@@ -70,34 +61,25 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 0
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "ONE PIECE",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "That Time I Got Reincarnated as a Slime",
-      "mentions": 2,
-      "sources": [
-        "noisypixel",
-        "reddit_anime"
-      ],
       "delta": 1
+    },
+    {
+      "title": "Dragon Ball Super: Beerus",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "noisypixel"
+      ],
+      "delta": -2
+    },
+    {
+      "title": "The Apothecary Diaries Season 3",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 19
     },
     {
       "title": "The Detective Is Already Dead Season 2",
@@ -105,7 +87,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 1
+      "delta": 2
     },
     {
       "title": "Black Clover",
@@ -124,28 +106,12 @@
       "delta": 2
     },
     {
-      "title": "Bleach",
-      "mentions": 1,
-      "sources": [
-        "noisypixel"
-      ],
-      "delta": 2
-    },
-    {
-      "title": "GTO",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 2
-    },
-    {
       "title": "Goodbye, Lara",
       "mentions": 1,
       "sources": [
         "animecorner"
       ],
-      "delta": 2
+      "delta": 4
     },
     {
       "title": "Haikyu!!",
@@ -153,7 +119,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": 2
+      "delta": 4
     },
     {
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
@@ -161,7 +127,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": 4
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -7
     },
     {
       "title": "Magic Knight Rayearth (2026)",
@@ -169,7 +143,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 3
+    },
+    {
+      "title": "ONE PIECE",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -8
     },
     {
       "title": "PSYREN",
@@ -193,7 +175,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -12
+      "delta": 2
     },
     {
       "title": "Sasaki and Peeps Season 2",
@@ -228,12 +210,12 @@
       "delta": 2
     },
     {
-      "title": "The Apothecary Diaries Season 3",
+      "title": "That Time I Got Reincarnated as a Slime",
       "mentions": 1,
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": -15
     },
     {
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -257,7 +239,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -17
+      "delta": 2
     },
     {
       "title": "Witch Hat Atelier",
@@ -265,7 +247,7 @@
       "sources": [
         "ann"
       ],
-      "delta": 1
+      "delta": 2
     },
     {
       "title": "Young Ladies Don't Play Fighting Games",
@@ -273,7 +255,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 2
     }
   ]
 }

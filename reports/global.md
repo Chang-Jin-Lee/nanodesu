@@ -4,141 +4,134 @@
 
 | # | Title | Trending | Popularity |
 |---|---|---|---|
-| 1 | [Reincarnated as a Sword Season 2](https://anilist.co/anime/159042) | 404 | 49237 |
-| 2 | [The World's Strongest Witch](https://anilist.co/anime/211778) | 336 | 12297 |
-| 3 | [The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life](https://anilist.co/anime/207329) | 283 | 28934 |
-| 4 | [ONE PIECE](https://anilist.co/anime/21) | 206 | 759659 |
-| 5 | [Black Clover](https://anilist.co/anime/97940) | 177 | 594292 |
-| 6 | [Sasaki and Peeps Season 2](https://anilist.co/anime/176314) | 173 | 13414 |
-| 7 | [Nia Liston: The Merciless Maiden](https://anilist.co/anime/206949) | 124 | 20508 |
-| 8 | [Black Clover Season 2](https://anilist.co/anime/195604) | 116 | 90530 |
-| 9 | [Magic Knight Rayearth (2026)](https://anilist.co/anime/178868) | 114 | 10384 |
-| 10 | [Bleach](https://anilist.co/anime/269) | 112 | 528833 |
+| 1 | [The Apothecary Diaries Season 3](https://anilist.co/anime/195516) | 982 | 98699 |
+| 2 | [Firefly Wedding](https://anilist.co/anime/205909) | 493 | 36820 |
+| 3 | [STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE](https://anilist.co/anime/210482) | 456 | 42704 |
+| 4 | [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/anime/180136) | 246 | 70153 |
+| 5 | [A Certain Dark Item](https://anilist.co/anime/186742) | 183 | 12343 |
+| 6 | [ONE PIECE](https://anilist.co/anime/21) | 181 | 760264 |
+| 7 | [The Ramparts of Ice Season 2](https://anilist.co/anime/213805) | 179 | 33867 |
+| 8 | [Black Clover](https://anilist.co/anime/97940) | 161 | 595051 |
+| 9 | [Tokyo Revengers: War of the Three Titans Arc](https://anilist.co/anime/178083) | 161 | 34490 |
+| 10 | [TOUGEN ANKI: Nikko Kegon Falls Arc](https://anilist.co/anime/204650) | 145 | 17870 |
 
 ## Anime Buzz — Last 7 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Naruto | 10 | - | animecorner, ann, gematsu, myanimelist, noisypixel |
-| 2 | The Apothecary Diaries | 8 | ▲1 | animecorner, ann, reddit_anime |
-| 3 | Firefly Wedding | 6 | ▼1 | ann, reddit_anime |
-| 4 | A Certain Dark Item | 3 | - | noisypixel, reddit_anime |
-| 5 | Dragon Ball Super: Beerus | 3 | - | animecorner, ann, noisypixel |
-| 6 | The Guy She Was Interested In Wasn't a Guy At All | 3 | - | animecorner, ann, reddit_anime |
-| 7 | A Returner's Magic Should be Special Season 2 | 2 | - | reddit_anime |
-| 8 | Jujutsu Kaisen | 2 | - | ann, reddit_anime |
-| 9 | ONE PIECE | 2 | - | ann, reddit_anime |
-| 10 | That Time I Got Reincarnated as a Slime | 2 | ▲1 | noisypixel, reddit_anime |
-| 11 | The Detective Is Already Dead Season 2 | 2 | ▲1 | reddit_anime |
-| 12 | Black Clover | 1 | ▲2 | animecorner |
-| 13 | Black Clover Season 2 | 1 | ▲2 | animecorner |
-| 14 | Bleach | 1 | ▲2 | noisypixel |
-| 15 | GTO | 1 | ▲2 | reddit_anime |
-| 16 | Goodbye, Lara | 1 | ▲2 | animecorner |
-| 17 | Haikyu!! | 1 | ▲2 | animecorner |
-| 18 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 1 | ▲2 | reddit_anime |
-| 19 | Magic Knight Rayearth (2026) | 1 | NEW | reddit_anime |
-| 20 | PSYREN | 1 | ▲2 | reddit_anime |
-| 21 | Please Excuse My Younger Brothers | 1 | ▲2 | reddit_anime |
-| 22 | Reincarnated as a Sword Season 2 | 1 | ▼12 | reddit_anime |
-| 23 | Sasaki and Peeps Season 2 | 1 | ▲2 | reddit_anime |
-| 24 | So What's Wrong with Getting Reborn as a Goblin? | 1 | ▲2 | reddit_anime |
-| 25 | Spy x Family | 1 | ▲2 | ann |
-| 26 | TOUGEN ANKI: Nikko Kegon Falls Arc | 1 | ▲2 | reddit_anime |
-| 27 | The Apothecary Diaries Season 3 | 1 | ▲2 | reddit_anime |
-| 28 | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | 1 | ▲2 | reddit_anime |
-| 29 | The Ogre's Bride | 1 | ▲2 | ann |
-| 30 | The World's Strongest Witch | 1 | ▼17 | reddit_anime |
-| 31 | Witch Hat Atelier | 1 | ▲1 | ann |
-| 32 | Young Ladies Don't Play Fighting Games | 1 | NEW | reddit_anime |
+| 1 | Naruto | 13 | - | animecorner, ann, gematsu, myanimelist, noisypixel, reddit_gachagaming |
+| 2 | The Apothecary Diaries | 8 | - | animecorner, ann, reddit_anime |
+| 3 | A Certain Dark Item | 4 | ▲1 | noisypixel, reddit_anime |
+| 4 | Bleach | 3 | ▲10 | animecorner, noisypixel, reddit_anime |
+| 5 | Firefly Wedding | 3 | ▼2 | ann, reddit_anime |
+| 6 | A Returner's Magic Should be Special Season 2 | 2 | ▲1 | reddit_anime |
+| 7 | Dragon Ball Super: Beerus | 2 | ▼2 | ann, noisypixel |
+| 8 | The Apothecary Diaries Season 3 | 2 | ▲19 | ann, reddit_anime |
+| 9 | The Detective Is Already Dead Season 2 | 2 | ▲2 | reddit_anime |
+| 10 | Black Clover | 1 | ▲2 | animecorner |
+| 11 | Black Clover Season 2 | 1 | ▲2 | animecorner |
+| 12 | Goodbye, Lara | 1 | ▲4 | animecorner |
+| 13 | Haikyu!! | 1 | ▲4 | animecorner |
+| 14 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 1 | ▲4 | reddit_anime |
+| 15 | Jujutsu Kaisen | 1 | ▼7 | ann |
+| 16 | Magic Knight Rayearth (2026) | 1 | ▲3 | reddit_anime |
+| 17 | ONE PIECE | 1 | ▼8 | ann |
+| 18 | PSYREN | 1 | ▲2 | reddit_anime |
+| 19 | Please Excuse My Younger Brothers | 1 | ▲2 | reddit_anime |
+| 20 | Reincarnated as a Sword Season 2 | 1 | ▲2 | reddit_anime |
+| 21 | Sasaki and Peeps Season 2 | 1 | ▲2 | reddit_anime |
+| 22 | So What's Wrong with Getting Reborn as a Goblin? | 1 | ▲2 | reddit_anime |
+| 23 | Spy x Family | 1 | ▲2 | ann |
+| 24 | TOUGEN ANKI: Nikko Kegon Falls Arc | 1 | ▲2 | reddit_anime |
+| 25 | That Time I Got Reincarnated as a Slime | 1 | ▼15 | reddit_anime |
+| 26 | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | 1 | ▲2 | reddit_anime |
+| 27 | The Ogre's Bride | 1 | ▲2 | ann |
+| 28 | The World's Strongest Witch | 1 | ▲2 | reddit_anime |
+| 29 | Witch Hat Atelier | 1 | ▲2 | ann |
+| 30 | Young Ladies Don't Play Fighting Games | 1 | ▲2 | reddit_anime |
 
 ## Game Buzz — Last 7 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Zenless Zone Zero | 4 | - | gematsu, noisypixel, rpgsite, steam-4162040 |
-| 2 | Blue Archive | 1 | NEW | noisypixel |
+| 1 | Blue Archive | 1 | ▲1 | noisypixel |
 
 ## Anime Buzz — Last 30 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | The Apothecary Diaries | 15 | ▲2 | animecorner, ann, reddit_anime |
-| 2 | ONE PIECE | 14 | ▼1 | animecorner, ann, reddit_anime |
-| 3 | Naruto | 13 | ▼1 | animecorner, ann, gematsu, myanimelist, noisypixel |
-| 4 | Clevatess Season 2 | 8 | - | ann, reddit_anime |
+| 1 | The Apothecary Diaries | 18 | - | animecorner, ann, reddit_anime |
+| 2 | Naruto | 15 | ▲1 | animecorner, ann, gematsu, myanimelist, noisypixel, reddit_gachagaming |
+| 3 | ONE PIECE | 12 | ▼1 | animecorner, ann, reddit_anime |
+| 4 | Firefly Wedding | 8 | ▲5 | ann, reddit_anime |
 | 5 | That Time I Got Reincarnated as a Slime | 8 | - | ann, myanimelist, noisypixel, reddit_anime |
-| 6 | Black Clover | 7 | - | animecorner, ann, reddit_anime |
-| 7 | Though I Am an Inept Villainess | 7 | ▲3 | animecorner, ann, reddit_anime |
-| 8 | Draw This, Then Die! | 6 | ▼1 | ann, reddit_anime |
-| 9 | Firefly Wedding | 6 | ▲2 | ann, reddit_anime |
-| 10 | Reincarnated as a Sword Season 2 | 6 | ▲8 | animecorner, reddit_anime |
-| 11 | The Apothecary Diaries Season 3 | 6 | ▲2 | animecorner, reddit_anime |
-| 12 | The Elusive Samurai Season 2 | 6 | ▼3 | ann, reddit_anime |
-| 13 | Goodbye, Lara | 5 | ▲2 | animecorner, ann |
-| 14 | Jujutsu Kaisen | 5 | ▲3 | ann, reddit_anime |
-| 15 | LIAR GAME | 5 | ▼3 | ann, myanimelist, reddit_anime |
-| 16 | A Returner's Magic Should be Special Season 2 | 4 | ▲23 | ann, reddit_anime |
-| 17 | Black Clover Season 2 | 4 | ▲9 | animecorner |
-| 18 | Bleach | 4 | ▲1 | animecorner, ann, myanimelist, noisypixel |
-| 19 | Chainsmoker Cat | 4 | ▼5 | ann, automatonwest, reddit_anime |
-| 20 | Daemons of the Shadow Realm | 4 | - | animecorner, ann |
-| 21 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 4 | - | reddit_anime |
-| 22 | I Want to Love You Till Your Dying Day | 4 | ▼6 | ann, reddit_anime |
-| 23 | Mushoku Tensei: Jobless Reincarnation Season 3 | 4 | ▼15 | ann, reddit_anime |
-| 24 | Overgeared | 4 | ▼2 | ann, reddit_anime |
-| 25 | That Time I Got Reincarnated as a Slime Season 4 | 4 | ▼2 | ann, reddit_anime |
-| 26 | The Detective Is Already Dead Season 2 | 4 | ▲29 | reddit_anime |
-| 27 | Young Ladies Don't Play Fighting Games | 4 | ▲11 | ann, reddit_anime |
-| 28 | A Certain Dark Item | 3 | ▼3 | noisypixel, reddit_anime |
-| 29 | Dragon Ball Super: Beerus | 3 | ▼2 | animecorner, ann, noisypixel |
-| 30 | Please Excuse My Younger Brothers | 3 | ▼1 | ann, reddit_anime |
-| 31 | Re:ZERO -Starting Life in Another World- Season 4 | 3 | ▼1 | ann, reddit_anime |
-| 32 | So What's Wrong with Getting Reborn as a Goblin? | 3 | ▼1 | reddit_anime |
-| 33 | Sparks of Tomorrow | 3 | ▼1 | ann |
-| 34 | The Exiled Heavy Knight Knows How to Game the System | 3 | ▼1 | animecorner, ann |
-| 35 | The Guy She Was Interested In Wasn't a Guy At All | 3 | ▼1 | animecorner, ann, reddit_anime |
-| 36 | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | 3 | ▲20 | ann, reddit_anime |
-| 37 | The World's Strongest Witch | 3 | ▲20 | reddit_anime |
-| 38 | Tomb Raider King | 3 | ▼14 | ann |
-| 39 | Chainsaw Man | 2 | ▲1 | ann |
-| 40 | Grand Blue Season 4 | 2 | ▲2 | animecorner, reddit_anime |
-| 41 | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 | 2 | ▲2 | reddit_anime |
-| 42 | I Became a Legend After My 10 Year-Long Last Stand | 2 | ▲2 | reddit_anime |
-| 43 | Love Unseen Beneath the Clear Night Sky | 2 | ▼15 | reddit_anime |
-| 44 | PSYREN | 2 | ▲3 | reddit_anime |
-| 45 | Saga of Tanya the Evil Season 2 | 2 | ▲3 | reddit_anime |
-| 46 | Sasaki and Peeps Season 2 | 2 | ▲24 | reddit_anime |
-| 47 | Smoking Behind the Supermarket with You | 2 | ▲3 | ann |
-| 48 | Spy x Family | 2 | ▲3 | ann, reddit_anime |
-| 49 | TOUGEN ANKI: Nikko Kegon Falls Arc | 2 | ▲3 | reddit_anime |
-| 50 | The Cat and the Dragon | 2 | ▲4 | animecorner, ann |
-| 51 | The Insipid Prince's Furtive Grab for the Throne | 2 | ▼16 | ann, reddit_anime |
-| 52 | The World Is Dancing | 2 | ▼16 | ann, reddit_anime |
-| 53 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | 2 | ▲5 | reddit_anime |
-| 54 | You and I Are Polar Opposites Season 2 | 2 | ▼17 | ann |
-| 55 | BLEACH: Thousand-Year Blood War - The Calamity | 1 | ▲4 | ann |
-| 56 | Blue Box Season 2 | 1 | ▲4 | animecorner |
-| 57 | Even the Student Council Has Its Holes! | 1 | ▲4 | ann |
-| 58 | FX Fighter Kurumi-chan | 1 | ▲4 | ann |
-| 59 | GTO | 1 | ▲4 | reddit_anime |
-| 60 | Grand Blue Dreaming Season 3 | 1 | ▼19 | reddit_anime |
-| 61 | Haikyu!! | 1 | ▲3 | animecorner |
-| 62 | Hana-Kimi Season 2 | 1 | ▲3 | reddit_anime |
-| 63 | Jaadugar: A Witch in Mongolia | 1 | ▲3 | ann |
-| 64 | KAIJU GIRL CARAMELISE | 1 | ▼19 | ann |
-| 65 | Magic Knight Rayearth (2026) | 1 | NEW | reddit_anime |
-| 66 | Magical Explorer | 1 | ▲1 | ann |
-| 67 | My Stepmother and Stepsisters Aren’t Wicked | 1 | ▲1 | reddit_anime |
-| 68 | Nia Liston: The Merciless Maiden | 1 | ▲1 | reddit_anime |
-| 69 | Oh Boy, Was I Wrong About Her | 1 | ▼23 | reddit_anime |
-| 70 | Skeleton Knight in Another World Season 2 | 1 | ▼21 | reddit_anime |
-| 71 | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3 | 1 | ▼18 | ann |
-| 72 | The Frontier Lord Begins with Zero Subjects | 1 | ▼1 | reddit_anime |
-| 73 | The Ogre's Bride | 1 | - | ann |
-| 74 | The Ramparts of Ice Season 2 | 1 | - | ann |
-| 75 | Tokyo Revengers: Santen Sensou-hen | 1 | - | reddit_anime |
-| 76 | Witch Hat Atelier | 1 | - | ann |
+| 6 | The Apothecary Diaries Season 3 | 8 | ▲5 | animecorner, ann, reddit_anime |
+| 7 | Black Clover | 7 | ▼1 | animecorner, ann, reddit_anime |
+| 8 | Clevatess Season 2 | 7 | ▼4 | ann, reddit_anime |
+| 9 | A Certain Dark Item | 6 | ▲19 | noisypixel, reddit_anime |
+| 10 | Draw This, Then Die! | 6 | ▼2 | ann, reddit_anime |
+| 11 | Reincarnated as a Sword Season 2 | 6 | ▼1 | animecorner, reddit_anime |
+| 12 | The Elusive Samurai Season 2 | 6 | - | ann, reddit_anime |
+| 13 | Though I Am an Inept Villainess | 6 | ▼6 | animecorner, ann, reddit_anime |
+| 14 | Bleach | 5 | ▲4 | animecorner, myanimelist, noisypixel, reddit_anime |
+| 15 | LIAR GAME | 5 | - | ann, myanimelist, reddit_anime |
+| 16 | A Returner's Magic Should be Special Season 2 | 4 | - | ann, reddit_anime |
+| 17 | Black Clover Season 2 | 4 | - | animecorner |
+| 18 | Chainsmoker Cat | 4 | ▲1 | ann, automatonwest, reddit_anime |
+| 19 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 4 | ▲2 | reddit_anime |
+| 20 | Mushoku Tensei: Jobless Reincarnation Season 3 | 4 | ▲3 | ann, reddit_anime |
+| 21 | Overgeared | 4 | ▲3 | ann, reddit_anime |
+| 22 | Please Excuse My Younger Brothers | 4 | ▲8 | ann, reddit_anime |
+| 23 | That Time I Got Reincarnated as a Slime Season 4 | 4 | ▲2 | ann, reddit_anime |
+| 24 | The Detective Is Already Dead Season 2 | 4 | ▲2 | reddit_anime |
+| 25 | Daemons of the Shadow Realm | 3 | ▼5 | animecorner, ann |
+| 26 | Dragon Ball Super: Beerus | 3 | ▲3 | animecorner, ann, noisypixel |
+| 27 | Goodbye, Lara | 3 | ▼14 | animecorner, ann |
+| 28 | I Want to Love You Till Your Dying Day | 3 | ▼6 | ann, reddit_anime |
+| 29 | Re:ZERO -Starting Life in Another World- Season 4 | 3 | ▲2 | ann, reddit_anime |
+| 30 | So What's Wrong with Getting Reborn as a Goblin? | 3 | ▲2 | reddit_anime |
+| 31 | TOUGEN ANKI: Nikko Kegon Falls Arc | 3 | ▲18 | reddit_anime |
+| 32 | The Exiled Heavy Knight Knows How to Game the System | 3 | ▲2 | animecorner, ann |
+| 33 | The Guy She Was Interested In Wasn't a Guy At All | 3 | ▲2 | animecorner, ann, reddit_anime |
+| 34 | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | 3 | ▲2 | ann, reddit_anime |
+| 35 | The World's Strongest Witch | 3 | ▲2 | reddit_anime |
+| 36 | Tomb Raider King | 3 | ▲2 | ann |
+| 37 | Young Ladies Don't Play Fighting Games | 3 | ▼10 | ann, reddit_anime |
+| 38 | Chainsaw Man | 2 | ▲1 | ann |
+| 39 | Grand Blue Season 4 | 2 | ▲1 | animecorner, reddit_anime |
+| 40 | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 | 2 | ▲1 | reddit_anime |
+| 41 | I Became a Legend After My 10 Year-Long Last Stand | 2 | ▲1 | reddit_anime |
+| 42 | Jujutsu Kaisen | 2 | ▼28 | ann, reddit_anime |
+| 43 | Love Unseen Beneath the Clear Night Sky | 2 | - | reddit_anime |
+| 44 | PSYREN | 2 | - | reddit_anime |
+| 45 | Sasaki and Peeps Season 2 | 2 | ▲1 | reddit_anime |
+| 46 | Smoking Behind the Supermarket with You | 2 | ▲1 | ann |
+| 47 | Sparks of Tomorrow | 2 | ▼14 | ann |
+| 48 | Spy x Family | 2 | - | ann, reddit_anime |
+| 49 | The Cat and the Dragon | 2 | ▲1 | animecorner, ann |
+| 50 | The Insipid Prince's Furtive Grab for the Throne | 2 | ▲1 | ann, reddit_anime |
+| 51 | The World Is Dancing | 2 | ▲1 | ann, reddit_anime |
+| 52 | You and I Are Polar Opposites Season 2 | 2 | ▲2 | ann |
+| 53 | Blue Box Season 2 | 1 | ▲3 | animecorner |
+| 54 | Even the Student Council Has Its Holes! | 1 | ▲3 | ann |
+| 55 | FX Fighter Kurumi-chan | 1 | ▲3 | ann |
+| 56 | GTO | 1 | ▲3 | reddit_anime |
+| 57 | Grand Blue Dreaming Season 3 | 1 | ▲3 | reddit_anime |
+| 58 | Haikyu!! | 1 | ▲3 | animecorner |
+| 59 | KAIJU GIRL CARAMELISE | 1 | ▲5 | ann |
+| 60 | Magic Knight Rayearth (2026) | 1 | ▲5 | reddit_anime |
+| 61 | Magical Explorer | 1 | ▲5 | ann |
+| 62 | Nia Liston: The Merciless Maiden | 1 | ▲6 | reddit_anime |
+| 63 | Oh Boy, Was I Wrong About Her | 1 | ▲6 | reddit_anime |
+| 64 | Saga of Tanya the Evil Season 2 | 1 | ▼19 | reddit_anime |
+| 65 | Skeleton Knight in Another World Season 2 | 1 | ▲5 | reddit_anime |
+| 66 | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3 | 1 | ▲5 | ann |
+| 67 | The Frontier Lord Begins with Zero Subjects | 1 | ▲5 | reddit_anime |
+| 68 | The Ogre's Bride | 1 | ▲5 | ann |
+| 69 | The Ramparts of Ice Season 2 | 1 | ▲5 | ann |
+| 70 | Tokyo Revengers: Santen Sensou-hen | 1 | ▲5 | reddit_anime |
+| 71 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | 1 | ▼18 | reddit_anime |
+| 72 | Witch Hat Atelier | 1 | ▲4 | ann |
 
 ## Game Buzz — Last 30 Days
 
