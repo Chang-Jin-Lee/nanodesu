@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-10-16 17:12 UTC
+Last updated: 2026-10-19 19:06 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-10-16 17:12 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Naruto | 13 | - | animecorner, ann, gematsu, myanimelist, noisypixel, reddit_gachagaming |
-| 2 | The Apothecary Diaries | 8 | - | animecorner, ann, reddit_anime |
-| 3 | A Certain Dark Item | 4 | ▲1 | noisypixel, reddit_anime |
-| 4 | Bleach | 3 | ▲10 | animecorner, noisypixel, reddit_anime |
-| 5 | Firefly Wedding | 3 | ▼2 | ann, reddit_anime |
+| 1 | Bleach | 7 | ▲3 | animecorner, ann, reddit_anime |
+| 2 | The Apothecary Diaries | 6 | - | ann, reddit_anime |
+| 3 | A Certain Dark Item | 5 | - | noisypixel, reddit_anime |
+| 4 | Black Clover | 3 | ▲6 | animecorner, ann |
+| 5 | Naruto | 3 | ▼4 | animecorner, reddit_gachagaming |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,7 +40,7 @@ Last updated: 2026-10-16 17:12 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Blue Archive | 1 | ▲1 | noisypixel |
+| 1 | Blue Archive | 1 | - | noisypixel |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -49,11 +49,11 @@ Last updated: 2026-10-16 17:12 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Demon Slayer: Kimetsu no Yaiba | 4 | ▲1 | animeanime |
-| 2 | Chainsaw Man | 2 | ▲3 | animeanime |
-| 3 | ONE PIECE | 2 | ▼2 | animeanime |
-| 4 | Bleach | 1 | - | fourgamer |
-| 5 | Naruto | 1 | ▲1 | animeanime |
+| 1 | ONE PIECE | 3 | ▲2 | animeanime |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
+| 3 | Bleach | 1 | ▲1 | fourgamer |
+| 4 | Chainsaw Man | 1 | ▼2 | animeanime |
+| 5 | Jujutsu Kaisen | 1 | NEW | fourgamer |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -62,7 +62,7 @@ Last updated: 2026-10-16 17:12 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 3 | - | fourgamer, gamewatch |
+| 1 | Umamusume: Pretty Derby | 5 | - | fourgamer, gamewatch |
 
 <!--END_SECTION:japan-game-top5-->
 

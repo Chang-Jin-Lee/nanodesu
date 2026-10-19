@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-10-16T17:12:35.646134+00:00",
+  "generated_at": "2026-10-19T19:06:16.984595+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
-      "title": "Naruto",
-      "mentions": 13,
+      "title": "Bleach",
+      "mentions": 7,
       "sources": [
         "animecorner",
         "ann",
-        "gematsu",
-        "myanimelist",
-        "noisypixel",
-        "reddit_gachagaming"
+        "reddit_anime"
       ],
-      "delta": 0
+      "delta": 3
     },
     {
       "title": "The Apothecary Diaries",
-      "mentions": 8,
+      "mentions": 6,
       "sources": [
-        "animecorner",
         "ann",
         "reddit_anime"
       ],
@@ -29,31 +25,39 @@
     },
     {
       "title": "A Certain Dark Item",
-      "mentions": 4,
+      "mentions": 5,
       "sources": [
         "noisypixel",
         "reddit_anime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
-      "title": "Bleach",
+      "title": "Black Clover",
       "mentions": 3,
       "sources": [
         "animecorner",
-        "noisypixel",
-        "reddit_anime"
+        "ann"
       ],
-      "delta": 10
+      "delta": 6
     },
     {
-      "title": "Firefly Wedding",
+      "title": "Naruto",
+      "mentions": 3,
+      "sources": [
+        "animecorner",
+        "reddit_gachagaming"
+      ],
+      "delta": -4
+    },
+    {
+      "title": "The Apothecary Diaries Season 3",
       "mentions": 3,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 2
     },
     {
       "title": "A Returner's Magic Should be Special Season 2",
@@ -61,25 +65,42 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 1
+      "delta": -1
     },
     {
-      "title": "Dragon Ball Super: Beerus",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "noisypixel"
-      ],
-      "delta": -2
-    },
-    {
-      "title": "The Apothecary Diaries Season 3",
+      "title": "BLEACH: Thousand-Year Blood War - The Calamity",
       "mentions": 2,
       "sources": [
         "ann",
         "reddit_anime"
       ],
-      "delta": 19
+      "delta": null
+    },
+    {
+      "title": "Black Clover Season 2",
+      "mentions": 2,
+      "sources": [
+        "animecorner"
+      ],
+      "delta": 2
+    },
+    {
+      "title": "Firefly Wedding",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": -5
+    },
+    {
+      "title": "PSYREN",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 7
     },
     {
       "title": "The Detective Is Already Dead Season 2",
@@ -87,39 +108,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
-    },
-    {
-      "title": "Black Clover",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": 2
-    },
-    {
-      "title": "Black Clover Season 2",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": 2
-    },
-    {
-      "title": "Goodbye, Lara",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": 4
-    },
-    {
-      "title": "Haikyu!!",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": 4
+      "delta": -3
     },
     {
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
@@ -127,34 +116,10 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 4
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -7
+      "delta": 1
     },
     {
       "title": "Magic Knight Rayearth (2026)",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 3
-    },
-    {
-      "title": "ONE PIECE",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -8
-    },
-    {
-      "title": "PSYREN",
       "mentions": 1,
       "sources": [
         "reddit_anime"
@@ -167,7 +132,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": 4
     },
     {
       "title": "Reincarnated as a Sword Season 2",
@@ -175,7 +140,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": 4
     },
     {
       "title": "Sasaki and Peeps Season 2",
@@ -183,7 +148,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": 4
     },
     {
       "title": "So What's Wrong with Getting Reborn as a Goblin?",
@@ -191,15 +156,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
-    },
-    {
-      "title": "Spy x Family",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 2
+      "delta": 4
     },
     {
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
@@ -207,15 +164,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
-    },
-    {
-      "title": "That Time I Got Reincarnated as a Slime",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": -15
+      "delta": 5
     },
     {
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -223,15 +172,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": 6
     },
     {
-      "title": "The Ogre's Bride",
+      "title": "The Ramparts of Ice Season 2",
       "mentions": 1,
       "sources": [
         "ann"
       ],
-      "delta": 2
+      "delta": null
     },
     {
       "title": "The World's Strongest Witch",
@@ -239,15 +188,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": 6
     },
     {
       "title": "Witch Hat Atelier",
       "mentions": 1,
       "sources": [
-        "ann"
+        "animecorner"
       ],
-      "delta": 2
+      "delta": 6
     },
     {
       "title": "Young Ladies Don't Play Fighting Games",
@@ -255,7 +204,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 2
+      "delta": 6
     }
   ]
 }

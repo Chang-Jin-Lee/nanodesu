@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:12:35.691191+00:00",
+  "generated_at": "2026-10-19T19:06:17.021520+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -28,26 +28,9 @@
     },
     {
       "title": "Blue Archive",
-      "mentions": 2,
+      "mentions": 1,
       "sources": [
-        "automatonwest",
         "noisypixel"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Umamusume: Pretty Derby",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": 0
-    },
-    {
-      "title": "Wuthering Waves",
-      "mentions": 1,
-      "sources": [
-        "reddit_gachagaming"
       ],
       "delta": 0
     }

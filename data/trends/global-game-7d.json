@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:12:35.676458+00:00",
+  "generated_at": "2026-10-19T19:06:17.009533+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -10,7 +10,7 @@
       "sources": [
         "noisypixel"
       ],
-      "delta": 1
+      "delta": 0
     }
   ]
 }
