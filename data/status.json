@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-19T19:06:16.385576+00:00",
+  "generated_at": "2026-10-21T17:56:57.641910+00:00",
   "sources": {
     "ann": {
       "ok": true,
-      "count": 130
+      "count": 140
     },
     "myanimelist": {
-      "ok": true,
-      "count": 20
+      "ok": false,
+      "error": "failed to fetch https://myanimelist.net/rss/news.xml after 3 attempts: 503 Server Error: Service Unavailable for url: https://myanimelist.net/rss/news.xml",
+      "optional": false
     },
     "reddit_anime": {
       "ok": true,
@@ -19,9 +20,8 @@
       "optional": false
     },
     "reddit_gachagaming": {
-      "ok": false,
-      "error": "failed to fetch https://www.reddit.com/r/gachagaming/.rss after 3 attempts: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/gachagaming/.rss",
-      "optional": true
+      "ok": true,
+      "count": 25
     },
     "gematsu": {
       "ok": true,
@@ -56,12 +56,13 @@
       "count": 20
     },
     "animeanime": {
-      "ok": true,
-      "count": 50
+      "ok": false,
+      "error": "failed to fetch https://animeanime.jp/rss/index.rdf after 3 attempts: 503 Server Error: Service Unavailable for url: https://animeanime.jp/rss/index.rdf",
+      "optional": false
     },
     "anilist": {
-      "ok": true,
-      "count": 25
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://graphql.anilist.co/"
     },
     "steam-4162040": {
       "ok": true,

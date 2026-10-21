@@ -1,38 +1,28 @@
 {
-  "generated_at": "2026-10-19T19:06:17.021520+00:00",
+  "generated_at": "2026-10-21T17:56:58.278834+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Zenless Zone Zero",
-      "mentions": 5,
+      "mentions": 4,
       "sources": [
         "gematsu",
         "noisypixel",
-        "reddit_gachagaming",
         "rpgsite",
         "steam-4162040"
       ],
       "delta": 0
     },
     {
-      "title": "Honkai: Star Rail",
-      "mentions": 4,
-      "sources": [
-        "gematsu",
-        "reddit_gachagaming",
-        "rpgsite"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Blue Archive",
-      "mentions": 1,
+      "mentions": 2,
       "sources": [
-        "noisypixel"
+        "noisypixel",
+        "reddit_gachagaming"
       ],
-      "delta": 0
+      "delta": 1
     }
   ]
 }

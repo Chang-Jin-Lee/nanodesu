@@ -1,33 +1,24 @@
 {
-  "generated_at": "2026-10-19T19:06:17.069272+00:00",
+  "generated_at": "2026-10-21T17:56:58.328981+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Umamusume: Pretty Derby",
-      "mentions": 9,
+      "mentions": 11,
       "sources": [
         "animeanime",
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Genshin Impact",
-      "mentions": 6,
+      "mentions": 7,
       "sources": [
         "fourgamer"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Honkai: Star Rail",
-      "mentions": 3,
-      "sources": [
-        "fourgamer",
-        "gamewatch"
       ],
       "delta": 0
     },
@@ -37,15 +28,15 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": 0
+      "delta": 1
     },
     {
-      "title": "Wuthering Waves",
+      "title": "Honkai: Star Rail",
       "mentions": 1,
       "sources": [
         "fourgamer"
       ],
-      "delta": 0
+      "delta": -1
     }
   ]
 }

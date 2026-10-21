@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:06:17.009533+00:00",
+  "generated_at": "2026-10-21T17:56:58.266265+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -8,7 +8,7 @@
       "title": "Blue Archive",
       "mentions": 1,
       "sources": [
-        "noisypixel"
+        "reddit_gachagaming"
       ],
       "delta": 0
     }
