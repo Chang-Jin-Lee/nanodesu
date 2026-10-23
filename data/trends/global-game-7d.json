@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:56:58.266265+00:00",
+  "generated_at": "2026-10-23T17:45:50.710948+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -11,6 +11,14 @@
         "reddit_gachagaming"
       ],
       "delta": 0
+    },
+    {
+      "title": "Genshin Impact",
+      "mentions": 1,
+      "sources": [
+        "gematsu"
+      ],
+      "delta": null
     }
   ]
 }

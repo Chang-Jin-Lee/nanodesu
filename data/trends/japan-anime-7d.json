@@ -1,35 +1,20 @@
 {
-  "generated_at": "2026-10-21T17:56:58.291484+00:00",
+  "generated_at": "2026-10-23T17:45:50.735337+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "title": "Jujutsu Kaisen",
       "mentions": 2,
       "sources": [
-        "animeanime"
+        "animeanime",
+        "fourgamer"
       ],
-      "delta": 1
-    },
-    {
-      "title": "Chainsaw Man",
-      "mentions": 1,
-      "sources": [
-        "animeanime"
-      ],
-      "delta": 2
+      "delta": 3
     },
     {
       "title": "Haikyu!!",
-      "mentions": 1,
-      "sources": [
-        "fourgamer"
-      ],
-      "delta": null
-    },
-    {
-      "title": "Jujutsu Kaisen",
       "mentions": 1,
       "sources": [
         "fourgamer"
@@ -42,7 +27,15 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -4
+      "delta": 2
+    },
+    {
+      "title": "THE GHOST IN THE SHELL",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": null
     }
   ]
 }

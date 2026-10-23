@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-10-21 17:56 UTC
+Last updated: 2026-10-23 17:45 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-10-21 17:56 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | The Apothecary Diaries | 9 | ▲1 | ann, gematsu, noisypixel, reddit_anime, rpgsite |
-| 2 | Bleach | 8 | ▼1 | animecorner, ann, reddit_anime |
-| 3 | A Certain Dark Item | 6 | - | ann, noisypixel, reddit_anime |
-| 4 | Firefly Wedding | 4 | ▲6 | ann, reddit_anime |
-| 5 | BLEACH: Thousand-Year Blood War - The Calamity | 3 | ▲3 | ann, reddit_anime |
+| 1 | The Apothecary Diaries | 11 | - | animecorner, ann, gematsu, noisypixel, reddit_anime, rpgsite |
+| 2 | Bleach | 8 | - | animecorner, ann, noisypixel, reddit_anime |
+| 3 | Firefly Wedding | 5 | ▲1 | ann, reddit_anime |
+| 4 | PSYREN | 5 | ▲3 | ann, myanimelist, reddit_anime |
+| 5 | Black Clover | 4 | ▲1 | animecorner, ann |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -41,6 +41,7 @@ Last updated: 2026-10-21 17:56 UTC
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
 | 1 | Blue Archive | 1 | - | reddit_gachagaming |
+| 2 | Genshin Impact | 1 | NEW | gematsu |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -49,11 +50,10 @@ Last updated: 2026-10-21 17:56 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
-| 2 | Chainsaw Man | 1 | ▲2 | animeanime |
-| 3 | Haikyu!! | 1 | NEW | fourgamer |
-| 4 | Jujutsu Kaisen | 1 | ▲1 | fourgamer |
-| 5 | ONE PIECE | 1 | ▼4 | animeanime |
+| 1 | Jujutsu Kaisen | 2 | ▲3 | animeanime, fourgamer |
+| 2 | Haikyu!! | 1 | ▲1 | fourgamer |
+| 3 | ONE PIECE | 1 | ▲2 | animeanime |
+| 4 | THE GHOST IN THE SHELL | 1 | NEW | fourgamer |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -62,8 +62,8 @@ Last updated: 2026-10-21 17:56 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 6 | - | fourgamer, gamewatch |
-| 2 | Genshin Impact | 1 | NEW | fourgamer |
+| 1 | Umamusume: Pretty Derby | 5 | - | fourgamer, gamewatch |
+| 2 | Genshin Impact | 3 | - | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 
