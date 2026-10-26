@@ -1,24 +1,18 @@
 {
-  "generated_at": "2026-10-23T17:45:50.710948+00:00",
+  "generated_at": "2026-10-26T19:04:17.431177+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
-      "title": "Blue Archive",
-      "mentions": 1,
-      "sources": [
-        "reddit_gachagaming"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Genshin Impact",
-      "mentions": 1,
+      "mentions": 3,
       "sources": [
-        "gematsu"
+        "animecorner",
+        "gematsu",
+        "rpgsite"
       ],
-      "delta": null
+      "delta": 1
     }
   ]
 }

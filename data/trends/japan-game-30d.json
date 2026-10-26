@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T17:45:50.771965+00:00",
+  "generated_at": "2026-10-26T19:04:17.511029+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Umamusume: Pretty Derby",
-      "mentions": 11,
+      "mentions": 13,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -23,20 +23,28 @@
       "delta": 0
     },
     {
+      "title": "Honkai: Star Rail",
+      "mentions": 2,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": 1
+    },
+    {
       "title": "Zenless Zone Zero",
       "mentions": 2,
       "sources": [
         "fourgamer"
       ],
-      "delta": 0
+      "delta": -1
     },
     {
-      "title": "Honkai: Star Rail",
+      "title": "Wuthering Waves",
       "mentions": 1,
       "sources": [
         "fourgamer"
       ],
-      "delta": 0
+      "delta": null
     }
   ]
 }
