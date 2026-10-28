@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:04:17.431177+00:00",
+  "generated_at": "2026-10-28T18:41:35.258388+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
@@ -12,7 +12,15 @@
         "gematsu",
         "rpgsite"
       ],
-      "delta": 1
+      "delta": 0
+    },
+    {
+      "title": "Blue Archive",
+      "mentions": 1,
+      "sources": [
+        "automatonwest"
+      ],
+      "delta": null
     }
   ]
 }
