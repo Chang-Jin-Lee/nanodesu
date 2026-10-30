@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:41:35.323120+00:00",
+  "generated_at": "2026-10-30T18:27:28.879908+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
@@ -16,15 +16,16 @@
     },
     {
       "title": "Genshin Impact",
-      "mentions": 7,
+      "mentions": 6,
       "sources": [
-        "fourgamer"
+        "fourgamer",
+        "gamewatch"
       ],
       "delta": 0
     },
     {
       "title": "Honkai: Star Rail",
-      "mentions": 4,
+      "mentions": 5,
       "sources": [
         "fourgamer"
       ],
