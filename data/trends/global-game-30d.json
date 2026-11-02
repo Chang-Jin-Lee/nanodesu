@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:27:28.821550+00:00",
+  "generated_at": "2026-11-02T22:12:03.039538+00:00",
   "region": "global",
   "category": "game",
   "window_days": 30,
@@ -37,12 +37,13 @@
     },
     {
       "title": "Honkai: Star Rail",
-      "mentions": 2,
+      "mentions": 3,
       "sources": [
         "automatonwest",
-        "gematsu"
+        "gematsu",
+        "rpgsite"
       ],
-      "delta": null
+      "delta": 0
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -50,7 +51,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": null
+      "delta": 0
     }
   ]
 }
