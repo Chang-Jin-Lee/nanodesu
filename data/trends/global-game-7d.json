@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-04T20:19:27.340274+00:00",
+  "generated_at": "2026-11-06T19:53:10.793861+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
-      "title": "Honkai: Star Rail",
+      "title": "Wuthering Waves",
       "mentions": 3,
       "sources": [
-        "automatonwest",
         "gematsu",
+        "noisypixel",
         "rpgsite"
       ],
-      "delta": 0
+      "delta": null
     },
     {
-      "title": "Umamusume: Pretty Derby",
+      "title": "Honkai: Star Rail",
       "mentions": 1,
       "sources": [
-        "animecorner"
+        "rpgsite"
       ],
-      "delta": 0
+      "delta": -1
     }
   ]
 }

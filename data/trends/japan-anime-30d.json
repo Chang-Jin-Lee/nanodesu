@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-04T20:19:27.395966+00:00",
+  "generated_at": "2026-11-06T19:53:10.851780+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 12,
+      "mentions": 11,
       "sources": [
         "animeanime"
       ],
@@ -23,7 +23,7 @@
     },
     {
       "title": "ONE PIECE",
-      "mentions": 9,
+      "mentions": 10,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -39,7 +39,7 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 3
+      "delta": 0
     },
     {
       "title": "Chainsaw Man",
@@ -48,7 +48,7 @@
         "animeanime",
         "gamewatch"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Bleach",
@@ -66,7 +66,7 @@
         "animeanime",
         "fourgamer"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "THE GHOST IN THE SHELL",
@@ -75,7 +75,15 @@
         "animeanime",
         "fourgamer"
       ],
-      "delta": 1
+      "delta": 0
+    },
+    {
+      "title": "Overgeared",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": null
     },
     {
       "title": "PSYREN",
@@ -83,7 +91,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": -4
+      "delta": -1
     },
     {
       "title": "Spy x Family",
@@ -91,7 +99,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": null
+      "delta": -1
     }
   ]
 }
