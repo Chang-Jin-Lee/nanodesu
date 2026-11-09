@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-11-06 19:53 UTC
+Last updated: 2026-11-09 22:54 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-11-06 19:53 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Reincarnated as a Sword Season 2 | 4 | - | ann, reddit_anime |
-| 2 | Black Clover | 3 | ▲1 | animecorner, ann |
-| 3 | Black Clover Season 2 | 3 | ▲1 | animecorner, ann |
-| 4 | Devils' Crest | 3 | NEW | ann, reddit_anime |
-| 5 | A Certain Dark Item | 2 | ▼3 | ann, reddit_anime |
+| 1 | Black Clover | 5 | ▲1 | animecorner, ann, reddit_anime |
+| 2 | Black Clover Season 2 | 5 | ▲1 | animecorner, ann, reddit_anime |
+| 3 | Spy x Family | 5 | ▲26 | animecorner, ann, myanimelist, reddit_anime |
+| 4 | Reincarnated as a Sword Season 2 | 4 | ▼3 | ann, reddit_anime |
+| 5 | Devils' Crest | 3 | ▼1 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,8 +40,10 @@ Last updated: 2026-11-06 19:53 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Wuthering Waves | 3 | NEW | gematsu, noisypixel, rpgsite |
-| 2 | Honkai: Star Rail | 1 | ▼1 | rpgsite |
+| 1 | Wuthering Waves | 4 | - | gematsu, noisypixel, reddit_gachagaming, rpgsite |
+| 2 | Honkai: Star Rail | 1 | - | reddit_gachagaming |
+| 3 | Umamusume: Pretty Derby | 1 | NEW | animecorner |
+| 4 | Zenless Zone Zero | 1 | NEW | reddit_gachagaming |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -50,11 +52,11 @@ Last updated: 2026-11-06 19:53 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Demon Slayer: Kimetsu no Yaiba | 5 | - | animeanime |
-| 2 | ONE PIECE | 4 | ▲1 | animeanime, fourgamer, gamewatch |
-| 3 | Haikyu!! | 3 | ▼1 | animeanime, gamewatch |
-| 4 | Jujutsu Kaisen | 2 | - | animeanime |
-| 5 | Bleach | 1 | - | animeanime |
+| 1 | Haikyu!! | 3 | ▲2 | animeanime, gamewatch |
+| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | ▼1 | animeanime |
+| 3 | Jujutsu Kaisen | 2 | ▲1 | animeanime |
+| 4 | Spy x Family | 2 | ▲3 | animeanime |
+| 5 | ONE PIECE | 1 | ▼3 | fourgamer |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -63,9 +65,11 @@ Last updated: 2026-11-06 19:53 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 3 | ▲3 | animeanime, fourgamer |
-| 2 | Wuthering Waves | 3 | ▼1 | fourgamer |
+| 1 | Umamusume: Pretty Derby | 4 | - | animeanime |
+| 2 | Genshin Impact | 3 | NEW | fourgamer, gamewatch |
 | 3 | Honkai: Star Rail | 1 | - | fourgamer |
+| 4 | Wuthering Waves | 1 | ▼2 | fourgamer |
+| 5 | Zenless Zone Zero | 1 | NEW | animeanime |
 
 <!--END_SECTION:japan-game-top5-->
 
