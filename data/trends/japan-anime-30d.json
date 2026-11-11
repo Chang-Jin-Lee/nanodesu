@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T22:54:35.959531+00:00",
+  "generated_at": "2026-11-11T20:02:27.052045+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
   "entries": [
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
-      "mentions": 12,
+      "mentions": 11,
       "sources": [
         "animeanime"
       ],
@@ -14,7 +14,7 @@
     },
     {
       "title": "Jujutsu Kaisen",
-      "mentions": 9,
+      "mentions": 10,
       "sources": [
         "animeanime",
         "fourgamer"
@@ -33,7 +33,7 @@
     },
     {
       "title": "Haikyu!!",
-      "mentions": 6,
+      "mentions": 7,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -60,21 +60,20 @@
       "delta": 0
     },
     {
-      "title": "Naruto",
-      "mentions": 2,
-      "sources": [
-        "animeanime",
-        "fourgamer"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Spy x Family",
       "mentions": 2,
       "sources": [
         "animeanime"
       ],
-      "delta": 3
+      "delta": 1
+    },
+    {
+      "title": "Naruto",
+      "mentions": 1,
+      "sources": [
+        "fourgamer"
+      ],
+      "delta": -1
     },
     {
       "title": "Overgeared",
@@ -98,7 +97,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": -3
+      "delta": 0
     }
   ]
 }
