@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:02:27.052045+00:00",
+  "generated_at": "2026-11-13T20:22:25.016875+00:00",
   "region": "japan",
   "category": "anime",
   "window_days": 30,
@@ -22,16 +22,6 @@
       "delta": 0
     },
     {
-      "title": "ONE PIECE",
-      "mentions": 9,
-      "sources": [
-        "animeanime",
-        "fourgamer",
-        "gamewatch"
-      ],
-      "delta": 0
-    },
-    {
       "title": "Haikyu!!",
       "mentions": 7,
       "sources": [
@@ -39,7 +29,17 @@
         "fourgamer",
         "gamewatch"
       ],
-      "delta": 0
+      "delta": 1
+    },
+    {
+      "title": "ONE PIECE",
+      "mentions": 7,
+      "sources": [
+        "animeanime",
+        "fourgamer",
+        "gamewatch"
+      ],
+      "delta": -1
     },
     {
       "title": "Chainsaw Man",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Bleach",
-      "mentions": 3,
+      "mentions": 2,
       "sources": [
         "animeanime",
         "fourgamer"
@@ -65,7 +65,7 @@
       "sources": [
         "animeanime"
       ],
-      "delta": 1
+      "delta": 0
     },
     {
       "title": "Naruto",
@@ -73,7 +73,7 @@
       "sources": [
         "fourgamer"
       ],
-      "delta": -1
+      "delta": 0
     },
     {
       "title": "Overgeared",

@@ -4,23 +4,20 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Jujutsu Kaisen | 3 | ▲2 | animeanime |
-| 2 | Demon Slayer: Kimetsu no Yaiba | 2 | - | animeanime |
-| 3 | Chainsaw Man | 1 | NEW | animeanime |
-| 4 | Haikyu!! | 1 | ▼3 | animeanime |
-| 5 | ONE PIECE | 1 | - | fourgamer |
-| 6 | Overgeared | 1 | - | fourgamer |
-| 7 | Spy x Family | 1 | ▼3 | animeanime |
+| 1 | Demon Slayer: Kimetsu no Yaiba | 2 | ▲1 | animeanime |
+| 2 | Jujutsu Kaisen | 2 | ▼1 | animeanime |
+| 3 | Chainsaw Man | 1 | - | animeanime |
+| 4 | Haikyu!! | 1 | - | animeanime |
+| 5 | Spy x Family | 1 | ▲2 | animeanime |
 
 ## Game Buzz — Last 7 Days
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Genshin Impact | 4 | ▲1 | fourgamer, gamewatch |
-| 2 | Umamusume: Pretty Derby | 4 | ▼1 | animeanime |
-| 3 | Honkai: Star Rail | 3 | - | fourgamer, gamewatch |
-| 4 | Wuthering Waves | 1 | - | fourgamer |
-| 5 | Zenless Zone Zero | 1 | - | animeanime |
+| 1 | Genshin Impact | 4 | - | fourgamer, gamewatch |
+| 2 | Umamusume: Pretty Derby | 4 | - | animeanime, fourgamer, gamewatch |
+| 3 | Honkai: Star Rail | 2 | - | fourgamer, gamewatch |
+| 4 | Zenless Zone Zero | 1 | ▲1 | animeanime |
 
 ## Anime Buzz — Last 30 Days
 
@@ -28,12 +25,12 @@
 |---|---|---|---|---|
 | 1 | Demon Slayer: Kimetsu no Yaiba | 11 | - | animeanime |
 | 2 | Jujutsu Kaisen | 10 | - | animeanime, fourgamer |
-| 3 | ONE PIECE | 9 | - | animeanime, fourgamer, gamewatch |
-| 4 | Haikyu!! | 7 | - | animeanime, fourgamer, gamewatch |
+| 3 | Haikyu!! | 7 | ▲1 | animeanime, fourgamer, gamewatch |
+| 4 | ONE PIECE | 7 | ▼1 | animeanime, fourgamer, gamewatch |
 | 5 | Chainsaw Man | 5 | - | animeanime, gamewatch |
-| 6 | Bleach | 3 | - | animeanime, fourgamer |
-| 7 | Spy x Family | 2 | ▲1 | animeanime |
-| 8 | Naruto | 1 | ▼1 | fourgamer |
+| 6 | Bleach | 2 | - | animeanime, fourgamer |
+| 7 | Spy x Family | 2 | - | animeanime |
+| 8 | Naruto | 1 | - | fourgamer |
 | 9 | Overgeared | 1 | - | fourgamer |
 | 10 | PSYREN | 1 | - | animeanime |
 | 11 | THE GHOST IN THE SHELL | 1 | - | fourgamer |
@@ -42,7 +39,7 @@
 
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 14 | - | animeanime, fourgamer, gamewatch |
+| 1 | Umamusume: Pretty Derby | 15 | - | animeanime, fourgamer, gamewatch |
 | 2 | Genshin Impact | 8 | - | fourgamer, gamewatch |
 | 3 | Honkai: Star Rail | 7 | - | fourgamer, gamewatch |
 | 4 | Wuthering Waves | 4 | - | fourgamer |
@@ -52,25 +49,25 @@
 
 | Title | Venue | Start | End | Source |
 |---|---|---|---|---|
-| ダイヤのA actⅡ × ピザーラ コラボピザセット 11月12日より登場! |  | 2026-11-12 | 2026-12-27 | [link](https://collabo-cafe.com/events/collabo/diaace-ace-taiketsu-shop-tieup-pizzala-2026/) |
-| 美女と野獣 限定アイテム サンキューマートに11月13日より登場! |  | 2026-11-13 | - | [link](https://collabo-cafe.com/events/collabo/beauty-and-the-beast-limited-goods-thankyoumart-2026/) |
-| 幸せカナコの殺し屋生活 11月14日より馬事公苑でステッカー配布! |  | 2026-11-14 | 2026-11-15 | [link](https://collabo-cafe.com/events/collabo/happy-kanako-setagaya-life-selection-sticker-bajikoen-2026/) |
-| I’m Doraemon POP-UP ドラミちゃんのお誕生日 全国で開催中! |  | 2026-11-17 | 2026-12-25 | [link](https://collabo-cafe.com/events/collabo/doraemon-dorami-flowering-4venues-popup-2026/) |
-| ジョジョの奇妙な冒険 × グラニフ アイテム 11月17日より登場! |  | 2026-11-17 | - | [link](https://collabo-cafe.com/events/collabo/jojo-gw-so-graniph-2026/) |
-| ラブライブ!虹ヶ咲 × GiGO秋葉原 10周年カフェ メニュー解禁! |  | 2026-11-21 | 2026-12-17 | [link](https://collabo-cafe.com/events/collabo/lovelive-cafe-gigo-akihabara3-10th-anniversary-2026-add-info-nijigaku/) |
-| ミルキー☆サブウェイ POP UP SHOP in 新宿 11月21日より開催! | 新宿 | 2026-11-21 | 2026-12-03 | [link](https://collabo-cafe.com/events/collabo/milky-subway-shima-spain-mura-popup-medicos-shinjuku-2026/) |
-| ちいかわ POP UP STORE in JR池袋駅 11月24日より開催! | JR池袋駅 | 2026-11-24 | 2026-12-07 | [link](https://collabo-cafe.com/events/collabo/chiikawa-nov-popup-jr-ikebukuro-2026/) |
-| サンエックスユニバース × セボンスター 11月24日より先行発売! |  | 2026-11-24 | 2026-12-22 | [link](https://collabo-cafe.com/events/collabo/san-x-goods-sebonstar-collabo-2026/) |
-| ロード・オブ・ザ・リング ポップアップストア in 東京/大阪/福岡 11月27日より開催! | 東京/大阪/福岡 | 2026-11-27 | 2027-03-14 | [link](https://collabo-cafe.com/events/collabo/the-lord-of-the-rings-pop-up-store-tokyo-osaka-fukuoka-2026/) |
-| ペロペロ★スパ～クルズ カフェ in 渋谷 11月29日より開催! | 渋谷 | 2026-11-29 | 2026-12-13 | [link](https://collabo-cafe.com/events/collabo/peropero-sparkles-cafe-event-shibuya109-2026/) |
-| 戦国 A LIVE × グラッテ 3.5周年 12月11日より開催! |  | 2026-12-11 | 2027-01-11 | [link](https://collabo-cafe.com/events/collabo/sengoku-a-live-cafe-gratte-3-5th-anniversary-2026/) |
-| 俺だけレベルアップな件 展 in 大阪 12月18日より開催! | 大阪 | 2026-12-18 | 2027-04-18 | [link](https://collabo-cafe.com/events/collabo/oredake-levelup-gengaten-tenjikai-osaka-expocity-2026/) |
-| 桜蘭高校ホスト部 20周年 バレンタインイベント 2月14日開催! |  | 2027-02-14 | 2027-02-14 | [link](https://collabo-cafe.com/events/collabo/ouran-host-club-20th-valentine-meeting-imaginus-2027/) |
-| ワンパンマン 一番くじ 3月12日よりサイタマらのフィギュア登場! |  | 2027-03-12 | - | [link](https://collabo-cafe.com/events/collabo/one-punch-man-ichiban-kuji-hero-vs-monster-2027/) |
-| 魔法少女育成計画restart アニメ公式ビジュアルの新作グッズ発売! |  | - | 2026-11-24 | [link](https://collabo-cafe.com/events/collabo/mahoiku-restart-key-visual-shimizu-anime-store-goods2026/) |
-| ガルパンらぶらぶ × HUB 描き下ろしグッズが事後通販! 3月発売 |  | - | 2026-12-14 | [link](https://collabo-cafe.com/events/collabo/girls-und-panzer-hub-anique-anime-store-goods2026/) |
-| 斉木楠雄のΨ難 バレンタインがテーマの描き下ろしグッズ 発売! |  | - | 2026-11-30 | [link](https://collabo-cafe.com/events/collabo/saikikuso-valentine-pommop-anime-store-goods2026/) |
-| 魔都精兵のスレイブ2 天花・恋ら “ギリシャ服” 新作グッズ 1月発売 |  | - | 2026-11-17 | [link](https://collabo-cafe.com/events/collabo/matoseiheislave2-greek-ver-a3-anime-store-goods2026/) |
-| ちいかわ なんか小さくてかわいいチャーム3弾 11月中旬より発売! |  | - | - | [link](https://collabo-cafe.com/events/collabo/chiikawa-goods-marimo-craft-chiisana-charm3-2026/) |
+| PUMA × たまごっち 30周年コラボアイテム 11月13日より順次発売! |  | 2026-11-13 | - | [link](https://collabo-cafe.com/events/collabo/tamagotchi-puma-30th-collection-2026/) |
+| サンリオキャラクターズ「Blistaz」キーホルダー全6種が発売中! |  | 2026-11-13 | - | [link](https://collabo-cafe.com/events/collabo/sanrio-blistaz-keychain-2026/) |
+| チアリーチャム POP-UP STORE in 東京駅 11月13日より開催! | 東京駅 | 2026-11-13 | 2026-11-19 | [link](https://collabo-cafe.com/events/collabo/cheerychums-munyugurumi-patio-popup-tokyo-character-street-2026/) |
+| 機動戦士ガンダム ならぶんです。ジム 11月13日より予約開始! |  | 2026-11-13 | - | [link](https://collabo-cafe.com/events/collabo/gundam-capsule-toy-narabundesu-gm-2026/) |
+| パンどろぼう × プロント 11月15日より福袋の予約開始! |  | 2026-11-15 | - | [link](https://collabo-cafe.com/events/collabo/pandorobou-shop-tieup-pronto-2026/) |
+| 仮面ライダー 55周年 トレーナー 11月17日よりしまむらで発売! |  | 2026-11-17 | - | [link](https://collabo-cafe.com/events/collabo/kamen-rider-55th-trainer-shimamura-2026/) |
+| 「TVアニメ『おじさんはカワイイものがお好き。』× STELLAMAPCafe ドリンクスタンドフェア」秋葉原にて開催! |  | 2026-11-19 | 2026-12-06 | [link](https://collabo-cafe.com/events/collabo/sofmap-87qvbqno/) |
+| 魔法騎士レイアース in 東京タワー/梅田 11月21日より開催! | 東京タワー/梅田 | 2026-11-21 | 2027-02-21 | [link](https://collabo-cafe.com/events/collabo/rayearth-tokyo-tower-umeda-sky-building-2026-2027/) |
+| サンリオ × パシオス 11月21日よりプルオーバー全4種発売! |  | 2026-11-21 | - | [link](https://collabo-cafe.com/events/collabo/sanrio-fashion-paseos-pullover-1121-2026/) |
+| アメイジングデジタルサーカス × アベイル 11月21日より発売! |  | 2026-11-21 | - | [link](https://collabo-cafe.com/events/collabo/the-amazing-digital-circus-avail-item-20261121/) |
+| 可哀想に! × スシロー 11月25日よりピック付きおすしなど登場! |  | 2026-11-25 | 2026-12-27 | [link](https://collabo-cafe.com/events/collabo/kawaisouni-shop-tieup-sushiro-2026/) |
+| 春夏秋冬代行者 × カラオケまねきねこ 11月26日よりコラボ開催! |  | 2026-11-26 | 2027-01-11 | [link](https://collabo-cafe.com/events/collabo/4seasons-karaoke-manekineko-2026-2027/) |
+| ゴジラ-0.0 完全密着ドキュメンタリー 11月27日より独占配信! |  | 2026-11-27 | - | [link](https://collabo-cafe.com/events/collabo/godzilla-minus-zero-documentary-prime-video-2026/) |
+| スト6 × ホロライブ カフェ in 池袋/梅田 11月28日より開催! | 池袋/梅田 | 2026-11-28 | 2026-12-17 | [link](https://collabo-cafe.com/events/collabo/hololive-street-fighter-cafe-capcom-2026/) |
+| 棺担ぎのクロ。懐中旅話 ポップアップストア in 新宿 12月3日より開催! | 新宿 | 2026-12-03 | 2026-12-16 | [link](https://collabo-cafe.com/events/collabo/hitsuji-katsugi-no-kuro-pop-up-store-tokyo-2026/) |
+| 鎧真伝サムライトルーパー POP UP in 東京/大阪 12月8日より開催! | 東京/大阪 | 2026-12-08 | 2027-01-11 | [link](https://collabo-cafe.com/events/collabo/yoroishinden-samurai-troopers-kakioroshi-popup-medicos-2026/) |
+| デート・ア・ライブ POP UP SHOP in 渋谷 12月18日より開催! | 渋谷 | 2026-12-18 | 2027-01-11 | [link](https://collabo-cafe.com/events/collabo/date-a-live-kadomix-popup-amnibus-green-shibuya-2026/) |
+| まどかマギカ やわらかクリアチャームや”てくトコ”グッズ 1月再販! |  | - | 2026-11-23 | [link](https://collabo-cafe.com/events/collabo/madoka-magica-tekutoko-resale-bellhouse-anime-store-goods2026/) |
+| ぬきたし 奈々瀬・ヒナミら超BIGアクスタやアイマスク他 1月発売 |  | - | 2026-11-24 | [link](https://collabo-cafe.com/events/collabo/nukiani-aniplus-anime-store-goods2026/) |
+| ブルアカ「ちょこぷに ぬいぐるみ」通常&BIGサイズ 待望の再販! |  | - | 2026-12-05 | [link](https://collabo-cafe.com/events/collabo/bluearchive-chokopuni-big-resale-goodsmile-anime-store-goods2026/) |
 | コミックマーケット (Comiket) | 東京ビッグサイト | - | - | [link](https://www.comiket.co.jp/) |
 
