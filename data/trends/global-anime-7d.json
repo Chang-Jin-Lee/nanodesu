@@ -1,49 +1,27 @@
 {
-  "generated_at": "2026-11-13T20:22:24.936700+00:00",
+  "generated_at": "2026-11-16T22:46:20.496531+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
       "title": "A Certain Dark Item",
-      "mentions": 5,
+      "mentions": 6,
       "sources": [
         "ann",
         "noisypixel",
         "reddit_anime"
       ],
-      "delta": 4
-    },
-    {
-      "title": "Black Clover",
-      "mentions": 4,
-      "sources": [
-        "animecorner",
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Black Clover Season 2",
-      "mentions": 4,
-      "sources": [
-        "animecorner",
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Spy x Family",
-      "mentions": 4,
-      "sources": [
-        "animecorner",
-        "ann",
-        "myanimelist",
-        "reddit_anime"
-      ],
       "delta": 0
+    },
+    {
+      "title": "Devils' Crest",
+      "mentions": 4,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": 4
     },
     {
       "title": "Attack on Titan",
@@ -53,34 +31,23 @@
         "noisypixel",
         "rpgsite"
       ],
-      "delta": null
+      "delta": 2
     },
     {
-      "title": "Devils' Crest",
-      "mentions": 3,
+      "title": "Black Clover",
+      "mentions": 2,
       "sources": [
-        "ann",
-        "reddit_anime"
+        "animecorner"
       ],
-      "delta": -3
+      "delta": -2
     },
     {
-      "title": "The Apothecary Diaries",
-      "mentions": 3,
+      "title": "Black Clover Season 2",
+      "mentions": 2,
       "sources": [
-        "ann",
-        "reddit_anime"
+        "animecorner"
       ],
-      "delta": 5
-    },
-    {
-      "title": "The Apothecary Diaries Season 3",
-      "mentions": 3,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 5
+      "delta": -2
     },
     {
       "title": "Blue Box Season 2",
@@ -89,7 +56,16 @@
         "animecorner",
         "ann"
       ],
-      "delta": 7
+      "delta": 3
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "mentions": 2,
+      "sources": [
+        "animecorner",
+        "reddit_anime"
+      ],
+      "delta": 11
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -97,7 +73,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": 2
     },
     {
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
@@ -106,7 +82,15 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 2
+    },
+    {
+      "title": "Nia Liston: The Merciless Maiden",
+      "mentions": 2,
+      "sources": [
+        "ann"
+      ],
+      "delta": 18
     },
     {
       "title": "PSYREN",
@@ -115,7 +99,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 1
     },
     {
       "title": "Reincarnated as a Sword Season 2",
@@ -124,7 +108,25 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": 1
+    },
+    {
+      "title": "The Apothecary Diaries",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": -6
+    },
+    {
+      "title": "The Apothecary Diaries Season 3",
+      "mentions": 2,
+      "sources": [
+        "ann",
+        "reddit_anime"
+      ],
+      "delta": -6
     },
     {
       "title": "The Ramparts of Ice Season 2",
@@ -133,7 +135,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 17
+      "delta": -1
     },
     {
       "title": "The World's Strongest Witch",
@@ -142,7 +144,7 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": -9
+      "delta": -1
     },
     {
       "title": "A Returner's Magic Should be Special Season 2",
@@ -150,18 +152,10 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -2
+      "delta": -1
     },
     {
       "title": "Bleach",
-      "mentions": 1,
-      "sources": [
-        "animecorner"
-      ],
-      "delta": -2
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
       "mentions": 1,
       "sources": [
         "animecorner"
@@ -174,15 +168,7 @@
       "sources": [
         "animecorner"
       ],
-      "delta": -1
-    },
-    {
-      "title": "Dragon Ball Super: Beerus",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -12
+      "delta": 0
     },
     {
       "title": "Draw This, Then Die!",
@@ -190,7 +176,7 @@
       "sources": [
         "ann"
       ],
-      "delta": null
+      "delta": 1
     },
     {
       "title": "Even the Student Council Has Its Holes!",
@@ -198,7 +184,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -3
+      "delta": 1
     },
     {
       "title": "FX Fighter Kurumi-chan",
@@ -206,7 +192,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -3
+      "delta": 1
     },
     {
       "title": "Firefly Wedding",
@@ -214,7 +200,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -3
+      "delta": 1
     },
     {
       "title": "I'm Dating a Dark Summoner",
@@ -222,15 +208,7 @@
       "sources": [
         "ann"
       ],
-      "delta": null
-    },
-    {
-      "title": "Love Unseen Beneath the Clear Night Sky",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -4
+      "delta": 1
     },
     {
       "title": "Magic Knight Rayearth (2026)",
@@ -238,23 +216,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -4
-    },
-    {
-      "title": "Nia Liston: The Merciless Maiden",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -4
-    },
-    {
-      "title": "Overgeared",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -4
+      "delta": 2
     },
     {
       "title": "Please Excuse My Younger Brothers",
@@ -262,7 +224,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": 4
     },
     {
       "title": "Sasaki and Peeps Season 2",
@@ -270,7 +232,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": 4
+    },
+    {
+      "title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "mentions": 1,
+      "sources": [
+        "reddit_anime"
+      ],
+      "delta": null
     },
     {
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
@@ -278,7 +248,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": 3
     },
     {
       "title": "The Detective Is Already Dead Season 2",
@@ -286,7 +256,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": 3
     },
     {
       "title": "The Exiled Heavy Knight Knows How to Game the System",
@@ -294,7 +264,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -4
+      "delta": 3
     },
     {
       "title": "The Guy She Was Interested In Wasn't a Guy At All",
@@ -302,7 +272,7 @@
       "sources": [
         "ann"
       ],
-      "delta": null
+      "delta": 3
     },
     {
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
@@ -310,7 +280,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": null
+      "delta": 3
     },
     {
       "title": "Tokyo Revengers: Santen Sensou-hen",
@@ -318,7 +288,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -5
+      "delta": 3
     },
     {
       "title": "Tokyo Revengers: War of the Three Titans Arc",
@@ -326,7 +296,7 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -5
+      "delta": 3
     }
   ]
 }
