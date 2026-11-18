@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-11-16T22:46:20.536928+00:00",
+  "generated_at": "2026-11-18T21:09:01.998231+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
-      "title": "Blue Archive",
-      "mentions": 1,
-      "sources": [
-        "noisypixel"
-      ],
-      "delta": 2
-    },
-    {
       "title": "Honkai: Star Rail",
       "mentions": 1,
       "sources": [
-        "noisypixel"
+        "automatonwest"
       ],
-      "delta": -1
+      "delta": 1
     },
     {
       "title": "Umamusume: Pretty Derby",
@@ -26,15 +18,7 @@
       "sources": [
         "automatonwest"
       ],
-      "delta": -1
-    },
-    {
-      "title": "Wuthering Waves",
-      "mentions": 1,
-      "sources": [
-        "steam-3513350"
-      ],
-      "delta": 0
+      "delta": 1
     }
   ]
 }

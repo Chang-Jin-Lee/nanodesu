@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T22:46:20.642460+00:00",
+  "generated_at": "2026-11-18T21:09:02.056454+00:00",
   "region": "japan",
   "category": "game",
   "window_days": 30,
   "entries": [
     {
       "title": "Umamusume: Pretty Derby",
-      "mentions": 14,
+      "mentions": 11,
       "sources": [
         "animeanime",
         "fourgamer",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Honkai: Star Rail",
-      "mentions": 7,
+      "mentions": 8,
       "sources": [
         "fourgamer",
         "gamewatch"
@@ -34,8 +34,9 @@
     },
     {
       "title": "Wuthering Waves",
-      "mentions": 4,
+      "mentions": 5,
       "sources": [
+        "animeanime",
         "fourgamer"
       ],
       "delta": 0

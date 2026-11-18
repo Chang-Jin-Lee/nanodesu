@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-11-16 22:46 UTC
+Last updated: 2026-11-18 21:09 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-11-16 22:46 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | A Certain Dark Item | 6 | - | ann, noisypixel, reddit_anime |
-| 2 | Devils' Crest | 4 | ▲4 | ann, reddit_anime |
-| 3 | Attack on Titan | 3 | ▲2 | gematsu, noisypixel, rpgsite |
-| 4 | Black Clover | 2 | ▼2 | animecorner |
-| 5 | Black Clover Season 2 | 2 | ▼2 | animecorner |
+| 1 | A Certain Dark Item | 5 | - | ann, noisypixel, reddit_anime |
+| 2 | Attack on Titan | 4 | ▲1 | ann, gematsu, noisypixel, rpgsite |
+| 3 | Devils' Crest | 3 | ▼1 | ann, reddit_anime |
+| 4 | Blue Box Season 2 | 2 | ▲2 | animecorner, ann |
+| 5 | Firefly Wedding | 2 | ▲18 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,10 +40,8 @@ Last updated: 2026-11-16 22:46 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Blue Archive | 1 | ▲2 | noisypixel |
-| 2 | Honkai: Star Rail | 1 | ▼1 | noisypixel |
-| 3 | Umamusume: Pretty Derby | 1 | ▼1 | automatonwest |
-| 4 | Wuthering Waves | 1 | - | steam-3513350 |
+| 1 | Honkai: Star Rail | 1 | ▲1 | automatonwest |
+| 2 | Umamusume: Pretty Derby | 1 | ▲1 | automatonwest |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -52,11 +50,11 @@ Last updated: 2026-11-16 22:46 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Demon Slayer: Kimetsu no Yaiba | 2 | - | animeanime |
-| 2 | Chainsaw Man | 1 | ▲1 | animeanime |
-| 3 | Haikyu!! | 1 | ▲1 | animeanime |
-| 4 | Jujutsu Kaisen | 1 | ▼2 | animeanime |
-| 5 | Naruto | 1 | NEW | animeanime |
+| 1 | Demon Slayer: Kimetsu no Yaiba | 1 | - | animeanime |
+| 2 | Haikyu!! | 1 | ▲1 | animeanime |
+| 3 | Naruto | 1 | ▲2 | animeanime |
+| 4 | ONE PIECE | 1 | ▲2 | animeanime |
+| 5 | Spy x Family | 1 | ▲2 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -65,9 +63,9 @@ Last updated: 2026-11-16 22:46 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Honkai: Star Rail | 2 | ▲2 | fourgamer, gamewatch |
-| 2 | Umamusume: Pretty Derby | 2 | - | fourgamer, gamewatch |
-| 3 | Genshin Impact | 1 | ▼2 | fourgamer |
+| 1 | Umamusume: Pretty Derby | 2 | ▲1 | fourgamer, gamewatch |
+| 2 | Honkai: Star Rail | 1 | ▼1 | gamewatch |
+| 3 | Wuthering Waves | 1 | NEW | animeanime |
 
 <!--END_SECTION:japan-game-top5-->
 
