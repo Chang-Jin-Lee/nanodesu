@@ -1,56 +1,17 @@
 {
-  "generated_at": "2026-11-18T21:09:01.974217+00:00",
+  "generated_at": "2026-11-20T20:58:06.328678+00:00",
   "region": "global",
   "category": "anime",
   "window_days": 7,
   "entries": [
     {
       "title": "A Certain Dark Item",
-      "mentions": 5,
+      "mentions": 2,
       "sources": [
         "ann",
-        "noisypixel",
-        "reddit_anime"
+        "noisypixel"
       ],
       "delta": 0
-    },
-    {
-      "title": "Attack on Titan",
-      "mentions": 4,
-      "sources": [
-        "ann",
-        "gematsu",
-        "noisypixel",
-        "rpgsite"
-      ],
-      "delta": 1
-    },
-    {
-      "title": "Devils' Crest",
-      "mentions": 3,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": -1
-    },
-    {
-      "title": "Blue Box Season 2",
-      "mentions": 2,
-      "sources": [
-        "animecorner",
-        "ann"
-      ],
-      "delta": 2
-    },
-    {
-      "title": "Firefly Wedding",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 18
     },
     {
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
@@ -59,7 +20,23 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 3
+      "delta": 4
+    },
+    {
+      "title": "Nia Liston: The Merciless Maiden",
+      "mentions": 2,
+      "sources": [
+        "ann"
+      ],
+      "delta": 14
+    },
+    {
+      "title": "Overgeared",
+      "mentions": 2,
+      "sources": [
+        "ann"
+      ],
+      "delta": 14
     },
     {
       "title": "PSYREN",
@@ -68,34 +45,15 @@
         "ann",
         "reddit_anime"
       ],
-      "delta": 4
+      "delta": 2
     },
     {
-      "title": "The Apothecary Diaries",
-      "mentions": 2,
+      "title": "Attack on Titan",
+      "mentions": 1,
       "sources": [
-        "ann",
-        "reddit_anime"
+        "ann"
       ],
-      "delta": 5
-    },
-    {
-      "title": "The Apothecary Diaries Season 3",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 5
-    },
-    {
-      "title": "The Ramparts of Ice Season 2",
-      "mentions": 2,
-      "sources": [
-        "ann",
-        "reddit_anime"
-      ],
-      "delta": 5
+      "delta": -4
     },
     {
       "title": "Black Clover",
@@ -103,7 +61,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -7
+      "delta": 4
     },
     {
       "title": "Black Clover Season 2",
@@ -111,7 +69,23 @@
       "sources": [
         "ann"
       ],
-      "delta": -7
+      "delta": 4
+    },
+    {
+      "title": "Bleach",
+      "mentions": 1,
+      "sources": [
+        "noisypixel"
+      ],
+      "delta": null
+    },
+    {
+      "title": "Blue Box Season 2",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -6
     },
     {
       "title": "Cyberpunk: Edgerunners",
@@ -119,42 +93,18 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": -6
+      "delta": 2
     },
     {
-      "title": "Draw This, Then Die!",
+      "title": "Devils' Crest",
       "mentions": 1,
       "sources": [
         "ann"
       ],
-      "delta": 6
+      "delta": -9
     },
     {
-      "title": "FX Fighter Kurumi-chan",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 7
-    },
-    {
-      "title": "I'm Dating a Dark Summoner",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": 8
-    },
-    {
-      "title": "Nia Liston: The Merciless Maiden",
-      "mentions": 1,
-      "sources": [
-        "ann"
-      ],
-      "delta": -7
-    },
-    {
-      "title": "Overgeared",
+      "title": "Even the Student Council Has Its Holes!",
       "mentions": 1,
       "sources": [
         "ann"
@@ -162,12 +112,20 @@
       "delta": null
     },
     {
-      "title": "Please Excuse My Younger Brothers",
+      "title": "FX Fighter Kurumi-chan",
       "mentions": 1,
       "sources": [
-        "reddit_anime"
+        "ann"
       ],
-      "delta": 7
+      "delta": 1
+    },
+    {
+      "title": "Firefly Wedding",
+      "mentions": 1,
+      "sources": [
+        "ann"
+      ],
+      "delta": -10
     },
     {
       "title": "Reincarnated as a Sword Season 2",
@@ -175,7 +133,7 @@
       "sources": [
         "ann"
       ],
-      "delta": -8
+      "delta": 4
     },
     {
       "title": "So What's Wrong with Getting Reborn as a Goblin?",
@@ -183,39 +141,15 @@
       "sources": [
         "reddit_anime"
       ],
-      "delta": 7
+      "delta": 4
     },
     {
-      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "title": "The World's Strongest Witch",
       "mentions": 1,
       "sources": [
-        "reddit_anime"
+        "ann"
       ],
-      "delta": 7
-    },
-    {
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 10
-    },
-    {
-      "title": "Tokyo Revengers: Santen Sensou-hen",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 10
-    },
-    {
-      "title": "Tokyo Revengers: War of the Three Titans Arc",
-      "mentions": 1,
-      "sources": [
-        "reddit_anime"
-      ],
-      "delta": 10
+      "delta": null
     }
   ]
 }

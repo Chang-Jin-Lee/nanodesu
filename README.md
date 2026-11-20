@@ -9,7 +9,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
   <!--START_SECTION:last-updated-->
-Last updated: 2026-11-18 21:09 UTC
+Last updated: 2026-11-20 20:58 UTC
 <!--END_SECTION:last-updated-->
 </div>
 
@@ -27,11 +27,11 @@ Last updated: 2026-11-18 21:09 UTC
 <!--START_SECTION:global-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | A Certain Dark Item | 5 | - | ann, noisypixel, reddit_anime |
-| 2 | Attack on Titan | 4 | ▲1 | ann, gematsu, noisypixel, rpgsite |
-| 3 | Devils' Crest | 3 | ▼1 | ann, reddit_anime |
-| 4 | Blue Box Season 2 | 2 | ▲2 | animecorner, ann |
-| 5 | Firefly Wedding | 2 | ▲18 | ann, reddit_anime |
+| 1 | A Certain Dark Item | 2 | - | ann, noisypixel |
+| 2 | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 2 | ▲4 | ann, reddit_anime |
+| 3 | Nia Liston: The Merciless Maiden | 2 | ▲14 | ann |
+| 4 | Overgeared | 2 | ▲14 | ann |
+| 5 | PSYREN | 2 | ▲2 | ann, reddit_anime |
 
 <!--END_SECTION:global-anime-top5-->
 
@@ -40,8 +40,9 @@ Last updated: 2026-11-18 21:09 UTC
 <!--START_SECTION:global-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Honkai: Star Rail | 1 | ▲1 | automatonwest |
-| 2 | Umamusume: Pretty Derby | 1 | ▲1 | automatonwest |
+| 1 | Zenless Zone Zero | 4 | NEW | gematsu, noisypixel, rpgsite, steam-4162040 |
+| 2 | Honkai: Star Rail | 2 | ▼1 | automatonwest, noisypixel |
+| 3 | Wuthering Waves | 1 | NEW | rpgsite |
 
 <!--END_SECTION:global-game-top5-->
 
@@ -50,11 +51,11 @@ Last updated: 2026-11-18 21:09 UTC
 <!--START_SECTION:japan-anime-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Demon Slayer: Kimetsu no Yaiba | 1 | - | animeanime |
-| 2 | Haikyu!! | 1 | ▲1 | animeanime |
-| 3 | Naruto | 1 | ▲2 | animeanime |
-| 4 | ONE PIECE | 1 | ▲2 | animeanime |
-| 5 | Spy x Family | 1 | ▲2 | animeanime |
+| 1 | Demon Slayer: Kimetsu no Yaiba | 2 | - | animeanime |
+| 2 | Haikyu!! | 2 | - | animeanime |
+| 3 | ONE PIECE | 2 | ▲1 | animeanime |
+| 4 | Jujutsu Kaisen | 1 | NEW | animeanime |
+| 5 | Naruto | 1 | ▼2 | animeanime |
 
 <!--END_SECTION:japan-anime-top5-->
 
@@ -63,9 +64,10 @@ Last updated: 2026-11-18 21:09 UTC
 <!--START_SECTION:japan-game-top5-->
 | # | Title | Mentions | Δ | Sources |
 |---|---|---|---|---|
-| 1 | Umamusume: Pretty Derby | 2 | ▲1 | fourgamer, gamewatch |
-| 2 | Honkai: Star Rail | 1 | ▼1 | gamewatch |
-| 3 | Wuthering Waves | 1 | NEW | animeanime |
+| 1 | Honkai: Star Rail | 3 | ▲1 | fourgamer, gamewatch |
+| 2 | Umamusume: Pretty Derby | 1 | ▼1 | fourgamer |
+| 3 | Wuthering Waves | 1 | - | animeanime |
+| 4 | Zenless Zone Zero | 1 | NEW | fourgamer |
 
 <!--END_SECTION:japan-game-top5-->
 

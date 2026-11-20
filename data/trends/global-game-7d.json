@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-11-18T21:09:01.998231+00:00",
+  "generated_at": "2026-11-20T20:58:06.352052+00:00",
   "region": "global",
   "category": "game",
   "window_days": 7,
   "entries": [
     {
-      "title": "Honkai: Star Rail",
-      "mentions": 1,
+      "title": "Zenless Zone Zero",
+      "mentions": 4,
       "sources": [
-        "automatonwest"
+        "gematsu",
+        "noisypixel",
+        "rpgsite",
+        "steam-4162040"
       ],
-      "delta": 1
+      "delta": null
     },
     {
-      "title": "Umamusume: Pretty Derby",
+      "title": "Honkai: Star Rail",
+      "mentions": 2,
+      "sources": [
+        "automatonwest",
+        "noisypixel"
+      ],
+      "delta": -1
+    },
+    {
+      "title": "Wuthering Waves",
       "mentions": 1,
       "sources": [
-        "automatonwest"
+        "rpgsite"
       ],
-      "delta": 1
+      "delta": null
     }
   ]
 }
